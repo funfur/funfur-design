@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1AE6AFE1-1A27-4F7F-AA6B-E8305EA18442",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 23,
+    "x": 203,
+    "y": 449
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "019CA957-870E-460C-9915-A39B40999F22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2D5C0EC-713D-43EC-A27D-4490F549428A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9EA789B-C8B2-451E-AE41-E749932165E3"
+    }
+  ],
+  "name": "Logout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

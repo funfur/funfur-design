@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AFDDD7D5-5818-493E-8630-A849A42305F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9F62721-E9E5-4079-9EE3-55794D6D396C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E78EEB99-ED79-46B6-B08F-F87F62B6E27E",
+    "height": 202,
+    "width": 160,
+    "x": 160,
+    "y": 164
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / list / each-right",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "098E86C4-D906-4F69-B3F5-93C25818B725",
+      "overrideName": "6A222D45-E99A-4E54-97C9-890F7861141E/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/92be9856d0e72571b3bc5c428333aeee61ee672c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC75432-69CB-4728-895B-84CB59B6D8D5",
+      "overrideName": "E5E34954-B35B-49A2-9495-04A39F1B3684_stringValue",
+      "value": "56,900원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9524CE5F-E7F8-43A9-AD81-380586A3348C",
+      "overrideName": "F8C0AD50-0676-4A65-8669-A66A61A9C429_stringValue",
+      "value": "체리 원목 스툴"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "684BD594-E7A9-4D0F-98C3-AA88C7831759",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3FB69D7C-E510-4BB1-BEC6-1396D25996BB",
+  "verticalSpacing": 0
+}

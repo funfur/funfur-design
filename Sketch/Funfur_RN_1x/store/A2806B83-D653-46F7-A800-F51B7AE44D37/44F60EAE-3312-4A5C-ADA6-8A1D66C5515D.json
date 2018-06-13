@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44F60EAE-3312-4A5C-ADA6-8A1D66C5515D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "001887A8-8232-4C22-AD3C-259C07A97272",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14E13DD3-9F03-4333-85A1-8E6930750781",
+    "height": 192,
+    "width": 320,
+    "x": 0,
+    "y": 456
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / category-bound",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9D9923C-A5F2-428C-A5EC-7E89F8D9AD14",
+      "overrideName": "343E724F-0570-4693-922F-600FDCA85EA9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/210f11369b87c7b2604ea72891625dc4456594b1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9755638F-60CE-4AB3-B90C-0B5CA8B701B4",
+      "overrideName": "7CA9F6C7-DE0E-4035-865D-E67D737D20BE/A0DDBF22-C9AB-41A8-879A-415E6D22874E_stringValue",
+      "value": "학생/서재"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "026030EC-38F1-4A0E-B019-E48128ADB47B",
+      "overrideName": "EF58E367-EB79-4D42-8150-00C4A0A65445/274C6F2A-A630-4B29-83B0-16515B2890C2_stringValue",
+      "value": "책상, 팔걸이 의자 등 1,982개 제품"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3864335F-C8F8-4715-B4B9-C01C85EF94D2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "21B98454-FEFE-48B0-B743-146FC81A90E1",
+  "verticalSpacing": 0
+}

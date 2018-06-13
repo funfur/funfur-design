@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9E1D9B61-1F5B-4880-93D6-FE5664FBFB2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A28DB5E1-7883-4B24-9CB7-E85EC3310DA0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18C4FBEE-2B02-48F7-8819-C7794C5453F8",
+    "height": 208,
+    "width": 320,
+    "x": 0,
+    "y": 340
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cart / product / product-card-base copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "335D947C-DEC7-4938-A05E-3F3B32919BBD",
+      "overrideName": "1147E681-52C9-4FB5-A1EA-359EC3468C22/A0D310DD-20A5-472F-895D-7C326FA36793_symbolID",
+      "value": "DB57ABC3-1187-4359-AACA-B6FA5D84C30A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B31EFD7-DDA6-4935-8297-60536D8B6A4A",
+      "overrideName": "C1FAE07E-A221-4019-8388-8EFF13657AC8/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "헤비모직 옐로우 체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5196E93-39F2-4364-9D03-046BC78B5F04",
+      "overrideName": "94FDF498-C314-4F8E-957D-A2C488229FCC/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "55,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F31D2467-818E-4788-BF0A-CC20461427DC",
+      "overrideName": "BB48FB82-952C-47AB-A621-2933332E51D8/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db8e1fab5a30d1e102a4c038c35123bd29a1a066.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95D4295E-2487-4879-8465-823EF88849CA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "41331F44-E8CD-410C-A392-F997B8D070B6",
+  "verticalSpacing": 0
+}
