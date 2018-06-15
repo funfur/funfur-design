@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 320,
+  "changeIdentifier": 741,
   "do_objectID": "D4D68AB0-9B96-4874-B039-85F2BF04A0AB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -54,19 +54,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B5CDCA86-2670-4E29-BD2B-2EF704EBF1AE"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F87FD000-9E3B-4C04-BBA6-14A69EF99CB2"
     },
     {
       "class": "symbolInstance",
-      "id": "2D22E301-83D3-47D8-AF2B-FDE0E3318136"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F3E4F1DE-2791-488F-8EED-235E075A63DF"
+      "id": "7F9263AD-61C0-479B-9C04-8E69D0170755"
     },
     {
       "class": "symbolInstance",
@@ -82,7 +74,31 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B03D069F-0652-46E8-8E6F-97E9306A22B1"
+      "id": "D21675FF-D518-4232-BC11-F196B9D07C7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6A9D07D-CCE4-4E41-8567-4C56D6338083"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A057BA7-B2EB-4ABC-BAAE-CC7EBDFCD22A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49491085-D9C9-4FC4-B7D4-EC33FA163D92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3E56110-CBDA-4C11-99A0-DD456AFE2807"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "385D3242-1156-49F3-9A84-AF28C2AAE2F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5CDCA86-2670-4E29-BD2B-2EF704EBF1AE"
     }
   ],
   "name": "store / product-details",
