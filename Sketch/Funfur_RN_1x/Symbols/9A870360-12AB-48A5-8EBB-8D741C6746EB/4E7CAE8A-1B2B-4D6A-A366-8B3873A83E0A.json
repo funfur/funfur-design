@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 18
+              "size": 24
             }
           },
           "kerning": 0,
@@ -96,19 +96,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "73E6D1CE-B597-40AD-8C27-98ADEA52FCA5",
-    "height": 27,
+    "height": 36,
     "width": 288,
     "x": 16,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {48, 18}}",
+  "glyphBounds": "{{1, 7}, {63, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-18-bold",
+  "name": "text-24-bold",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 0,
@@ -135,7 +135,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 18
+            "size": 24
           }
         },
         "kerning": 0,
