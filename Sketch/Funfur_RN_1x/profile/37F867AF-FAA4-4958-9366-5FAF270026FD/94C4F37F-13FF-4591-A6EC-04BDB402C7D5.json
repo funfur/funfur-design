@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94C4F37F-13FF-4591-A6EC-04BDB402C7D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "541AC4C0-FF75-4CFA-99EF-D6E6E4045EEB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2427649-1148-4C96-AF88-AC73D3E4191A",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 152
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / favorite / list",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE6BF780-173D-456E-8CA7-D98BF187766D",
+      "overrideName": "D5ABB9B3-9C8D-4702-B7FB-2B1B3D418EDB/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2b7677b28ad67d0ac07897ac458dfd8cb755b0e1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A698853-DD98-470C-8106-277B57D6A881",
+      "overrideName": "BA75A7D5-C4DF-4FB2-9265-62AB9346EE27/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "모던 네발 천연가죽 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6493A1F-E56F-4AF2-B5A2-9AD48D729D37",
+      "overrideName": "BF225B79-67EA-4AA7-A926-BC16BAA5B3FA/02AB67EF-2343-42E9-9334-8952B6A6C55E_stringValue",
+      "value": "53,200원"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7B073A8-C138-4A9D-99D9-1998998A28AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F309149B-0BE2-46FD-A855-5BC9FE9DF8C9",
+  "verticalSpacing": 0
+}

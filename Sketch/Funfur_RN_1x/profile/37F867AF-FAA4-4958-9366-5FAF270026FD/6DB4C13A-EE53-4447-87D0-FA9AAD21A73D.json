@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6DB4C13A-EE53-4447-87D0-FA9AAD21A73D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEE759AD-F46E-4E0D-8182-2E446CD318CA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "325A39A1-4782-4E3A-8940-1E281D9E8CB6",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 408
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / favorite / list",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "618918F6-C768-4D73-B271-AA388E6A3229",
+      "overrideName": "D5ABB9B3-9C8D-4702-B7FB-2B1B3D418EDB/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d640fcdc44e4ad4a5f0a536d8bb670a54b5320c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14CEDA14-918C-43E6-857C-B5F2288CDBB0",
+      "overrideName": "BA75A7D5-C4DF-4FB2-9265-62AB9346EE27/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "낮은키 카페용 의자"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABEFB722-FF1A-4ECD-8268-4DEF54875679",
+      "overrideName": "BF225B79-67EA-4AA7-A926-BC16BAA5B3FA/02AB67EF-2343-42E9-9334-8952B6A6C55E_stringValue",
+      "value": "32,000원"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17024827-9313-439B-8E52-321FF706277F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F309149B-0BE2-46FD-A855-5BC9FE9DF8C9",
+  "verticalSpacing": 0
+}
