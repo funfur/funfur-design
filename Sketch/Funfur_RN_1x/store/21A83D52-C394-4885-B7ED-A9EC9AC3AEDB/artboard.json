@@ -26,7 +26,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,10 +53,6 @@
     {
       "class": "symbolInstance",
       "id": "7BF0C968-0517-4501-BE78-CC769DDC02D2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3F1F7AFB-0B00-4A76-9361-ED3FFB46C0B3"
     },
     {
       "class": "symbolInstance",
@@ -97,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "F1147AF4-9EF3-497A-B603-1A625CD96896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC3197B6-C81A-48CC-8F4C-6E37649DA1ED"
     }
   ],
   "name": "store / product-details",

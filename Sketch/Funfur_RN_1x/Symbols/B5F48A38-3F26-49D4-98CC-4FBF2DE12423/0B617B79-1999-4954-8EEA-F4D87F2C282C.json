@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "user-details"
+    "string": "3일 전"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0B617B79-1999-4954-8EEA-F4D87F2C282C",
@@ -101,9 +101,9 @@
     "height": 16,
     "width": 212,
     "x": 60,
-    "y": 24
+    "y": 25
   },
-  "glyphBounds": "{{1, 3}, {66, 11}}",
+  "glyphBounds": "{{0, 3}, {31, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -129,9 +129,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

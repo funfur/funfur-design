@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Regular",
-              "size": 16
+              "size": 21
             }
           },
           "paragraphStyle": {
@@ -95,19 +95,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5ED8C75C-0968-422A-A9FE-8EEDB16F24E7",
-    "height": 24,
+    "height": 31,
     "width": 288,
     "x": 16,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {169, 16}}",
+  "glyphBounds": "{{0, 6}, {221, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-16-regular",
+  "name": "text-21-regular",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -134,7 +134,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Regular",
-            "size": 16
+            "size": 21
           }
         },
         "paragraphStyle": {
