@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C512DC8B-8B5C-4061-817B-8F44B466452D",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4D34835B-93DE-43A2-B7F9-58B19A1599BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFAEF2B9-D559-4C50-BD96-A0C607AE4E13",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54C644B0-FA01-4034-8C90-3AB5B4D44CB4",
+    "height": 568,
+    "width": 320,
+    "x": -403,
+    "y": 534
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "12733C64-8D76-4F4D-8EED-F47BE9943709",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4018C57C-3BA8-4619-964D-7DBFBAEF4864"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F6416F0-1692-42C6-AEE7-47BEFD42A5F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D28A7A5C-B7A9-4315-9939-913B5048E818"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "029A55AC-47B5-4B86-9066-E8BE5881EB90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C2189CF-9901-4992-817B-FF309A9A138F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2998A42F-A36C-4103-9D86-7086A66E2AF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CF8A39A-24D2-4A08-B708-08A84CA7C0D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C4A1F33-883F-40BA-B71D-5D3F6F2127A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "298ADD0C-4A8B-4ACC-A4C8-E61A61E0914D"
+    }
+  ],
+  "name": "profile / thumbnail-select-image-before",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7FE446B-6939-4B44-A819-B77A32DB75D9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9BFB9956-771C-49F9-BCA4-F2BA50BF9780",
+    "guides": [
+    ]
+  }
+}
