@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 786,
+  "changeIdentifier": 1029,
   "do_objectID": "15E0B389-969E-4DCC-9F31-33E29DEB0FE9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,7 +75,7 @@
     "y": 2234
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -98,13 +98,17 @@
       "id": "EABB8D96-271B-4E70-A42A-997D3284DA18"
     },
     {
+      "class": "text",
+      "id": "3606275F-ECA5-4C6D-92AB-5A914539FC43"
+    },
+    {
       "class": "symbolInstance",
       "id": "7DE8D557-91D9-4C24-A655-D3B0D0B438D9"
     }
   ],
   "name": "review / write-review-add-image",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

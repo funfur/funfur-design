@@ -17,12 +17,12 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "paragraphSpacing": 1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -93,19 +93,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 52,
-    "x": 110,
-    "y": 14
+    "height": 24,
+    "width": 272,
+    "x": 0,
+    "y": 12
   },
-  "glyphBounds": "{{0, 4}, {50, 14}}",
+  "glyphBounds": "{{107, 5}, {57, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-14-bold",
+  "name": "text-16-bold",
   "nameIsFixed": true,
   "resizingConstraint": 11,
   "resizingType": 0,
@@ -130,12 +130,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "paragraphSpacing": 1
         },
         "textStyleVerticalAlignmentKey": 0
@@ -143,5 +143,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SpoqaHanSans-Bold",
               "size": 14
             }
           },
@@ -100,14 +100,14 @@
     "x": 16,
     "y": 14
   },
-  "glyphBounds": "{{0, 4}, {83, 14}}",
+  "glyphBounds": "{{0, 4}, {84, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-14-regular",
+  "name": "text-14-bold",
   "nameIsFixed": true,
   "resizingConstraint": 11,
   "resizingType": 0,
@@ -133,7 +133,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SpoqaHanSans-Bold",
             "size": 14
           }
         },

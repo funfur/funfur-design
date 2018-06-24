@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4479,
+  "changeIdentifier": 4611,
   "do_objectID": "BC08371F-762D-4973-857B-213D2A36A920",
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,7 +75,7 @@
     "y": 362
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -104,6 +104,10 @@
     {
       "class": "text",
       "id": "F6D29A1A-561C-419F-A6E3-308ADFA6E683"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E370CCB-AA3E-48D8-8C52-EB9376C21A37"
     }
   ],
   "name": "tabbar / bound / inactive",

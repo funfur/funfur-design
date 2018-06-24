@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2970,
+  "changeIdentifier": 3267,
   "do_objectID": "8D5167E3-1229-4FF0-8F95-AC75F295CB36",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,13 +69,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "33DCD301-98A1-4DD2-A7EC-E0C0BBFAFBDA",
-    "height": 308,
+    "height": 306,
     "width": 320,
     "x": 5326,
     "y": 638
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -123,11 +123,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F7A7E59D-96A4-4497-85E2-E0BB153E22C6"
+      "id": "3D4FFBC8-DFBB-47E7-9B84-C3990E67C4E3"
     },
     {
       "class": "symbolInstance",
-      "id": "3D4FFBC8-DFBB-47E7-9B84-C3990E67C4E3"
+      "id": "F7A7E59D-96A4-4497-85E2-E0BB153E22C6"
     }
   ],
   "name": "store / review / each-card-image",
