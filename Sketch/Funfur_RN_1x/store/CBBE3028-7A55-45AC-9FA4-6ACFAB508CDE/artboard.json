@@ -48,6 +48,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "E51CF889-5D36-4B88-BCC1-277C7FBD5032"
+    },
+    {
+      "class": "symbolInstance",
       "id": "2B94C493-7E17-472F-BC43-E13D27DFD223"
     },
     {
@@ -68,18 +72,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AE2A3CB4-228C-435F-AFEF-77BCF47779A6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "185BF4A0-192A-4A7A-901A-092DD1E99DC1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "12B6F8AF-022A-48BC-858D-AAE98DF46AF4"
-    },
-    {
-      "class": "symbolInstance",
       "id": "02F5F4BA-2B99-4770-A9BC-151F1554F694"
     },
     {
@@ -89,10 +81,6 @@
     {
       "class": "symbolInstance",
       "id": "16A13B01-0350-4207-A930-04F2CED7F1E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A0264FC7-D7D2-462C-BD9A-58672DFB6CC1"
     }
   ],
   "name": "store / product-details-swipe",

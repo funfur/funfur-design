@@ -23,12 +23,12 @@
     "constrainProportions": false,
     "do_objectID": "44A5A3E3-54C3-499D-8AE6-6F5B9797E3CC",
     "height": 712,
-    "width": 1016,
+    "width": 984,
     "x": 1749,
     "y": -103
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -232,6 +232,14 @@
     {
       "class": "symbolInstance",
       "id": "5BAE5397-A3EA-49AD-A726-17964A3E0C21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8A3C6E9-C18D-4A48-AC93-053CE3C01BB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1091E864-B043-4925-91A5-2FC1255F2EC6"
     }
   ],
   "name": "icons",
