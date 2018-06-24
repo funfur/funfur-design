@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8F2769C8-3A0E-4527-BE22-08723FA9B3F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E6E9D3F-CF9B-44F7-B68C-B237610A3062",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "172B23F6-094A-4764-9348-F7154A938B12",
+    "height": 208,
+    "width": 272,
+    "x": 304,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / full-width-image-base",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B859E76D-330E-4782-A87D-4B21DCB778C7",
+      "overrideName": "7A6BF9C2-1FF6-42FA-B600-1D4023786386_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/be731e58945783dd9360ee92ff124583f75a8f3d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A043A67-B49F-4AA7-8A06-CB0517AC8EF4",
+      "overrideName": "EE30ED83-2546-4C67-ABD0-0052AFED7FC0_stringValue",
+      "value": "원목 회의용 파이테이블"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2609D01-72C1-4CE8-9F43-D44151FC74C4",
+      "overrideName": "DE17E316-345E-455D-9B1E-FB317D4074FD_stringValue",
+      "value": "125,000원"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B11A6BC-6CB1-41AF-887A-26B0C954C345",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A3B369B3-C91D-4F84-A49E-FA79F0BE8B27",
+  "verticalSpacing": 0
+}

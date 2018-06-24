@@ -1,0 +1,98 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E606512D-6B9C-4CBA-A2CF-40F3CC31596B",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "83618198-B71E-41FF-8C37-F5B7C4EA0375",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAD488C1-F97D-45D6-9AA6-4DED10462EED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86357551-7662-4BA0-9AAE-44DB6B9D2DA7",
+    "height": 568,
+    "width": 320,
+    "x": 437,
+    "y": 534
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "395BA622-4F17-4613-A771-90854ABF5D7A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0CAEC633-702A-4835-A6A1-E7340492F223"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70980D91-6F01-4462-B852-9190A5BB379B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B177D6C-F6F6-45BF-85DD-C05782FAE34C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8606F0C-CC0E-4860-AA79-15AFDE29DF26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE7072AC-8A55-480D-8577-3B007DFD564C"
+    }
+  ],
+  "name": "main / horizontal-swipe-swipe",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08484AA6-550D-452D-AE4E-C9810D7A7B33",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F100750-8D36-4DD5-8882-A37C0EEA0B00",
+    "guides": [
+    ]
+  }
+}

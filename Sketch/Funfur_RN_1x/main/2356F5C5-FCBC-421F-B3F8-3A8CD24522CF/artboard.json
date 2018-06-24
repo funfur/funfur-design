@@ -1,0 +1,98 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B7515C8C-F11D-4854-9E8E-865E003A5976",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2356F5C5-FCBC-421F-B3F8-3A8CD24522CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BAC85FF-E057-4682-9574-FB45BCE3A3D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A0A76F4-0007-4785-A9A5-375712C81617",
+    "height": 568,
+    "width": 320,
+    "x": 437,
+    "y": -134
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "60E3033D-6D22-4930-8A28-9685FDC07226",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3B9C5BB8-1FC2-4A1B-928D-7A3C0C9AEE32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F54FE4BD-A49F-4C11-A4F9-4E8D890A7597"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EB4BAA8-50E9-4EC1-B4B8-F204C2229130"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "655B046B-8D23-4236-8343-4C5638248DA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2981E973-3D86-4F2C-B99A-D0A8D94D7D19"
+    }
+  ],
+  "name": "main / horizontal-swipe",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23A772D6-440B-4705-BD2B-FCA8C17FE01F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "272F5240-1E27-46F1-99DC-BEBFB013926D",
+    "guides": [
+    ]
+  }
+}
