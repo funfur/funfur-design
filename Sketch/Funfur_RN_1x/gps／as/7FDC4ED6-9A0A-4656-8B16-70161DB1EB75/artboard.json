@@ -1,0 +1,93 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
+  },
+  "do_objectID": "7FDC4ED6-9A0A-4656-8B16-70161DB1EB75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33B0EAD1-8451-4C73-9A9B-016EED78E08F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB237B87-B3A7-4532-96B3-06DFBEE1470F",
+    "height": 1920,
+    "width": 1080,
+    "x": 4717,
+    "y": -170
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0ABB522E-1451-4182-9A21-B535E42F69C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F75E7194-5AB6-4B9B-882F-AD2D6BA62A9D"
+    },
+    {
+      "class": "text",
+      "id": "B05999DE-2010-4F10-B280-A55C4C0B81CB"
+    },
+    {
+      "class": "text",
+      "id": "309EE6F9-233A-40F5-9DCD-3D9CA4EE33A7"
+    },
+    {
+      "class": "group",
+      "id": "4E1C1827-1187-4822-9412-574598A07C26"
+    }
+  ],
+  "name": "gps-05",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DEB08A9-EE62-4335-B9A4-0EC02A345C80",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3FECAC24-6F7E-4DCC-B2D5-02009777C8E0",
+    "guides": [
+    ]
+  }
+}

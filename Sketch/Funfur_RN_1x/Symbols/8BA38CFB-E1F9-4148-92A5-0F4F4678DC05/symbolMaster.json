@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5065,
+  "changeIdentifier": 5833,
   "do_objectID": "8BA38CFB-E1F9-4148-92A5-0F4F4678DC05",
   "exportOptions": {
     "_class": "exportOptions",
@@ -95,6 +95,18 @@
     },
     {
       "class": "symbolInstance",
+      "id": "2F79B169-F45C-4B40-914A-D6E670E08C15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60FDDCC4-6EE3-4FE0-B288-868D6B0A4312"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BD77F1C-AE83-45A9-83D7-D10B8954A08A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "27724BE4-D9F6-4BD4-A7C0-63079082F5C2"
     },
     {
@@ -111,14 +123,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "00931365-23C8-4963-AB56-BB6D2DD0FBFE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F79B169-F45C-4B40-914A-D6E670E08C15"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F5FEB9CA-5DC2-47C4-83FB-AB73FDF188DD"
     },
     {
@@ -127,11 +131,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9BD77F1C-AE83-45A9-83D7-D10B8954A08A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "60FDDCC4-6EE3-4FE0-B288-868D6B0A4312"
+      "id": "00931365-23C8-4963-AB56-BB6D2DD0FBFE"
     }
   ],
   "name": "review / card-each-base",

@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
+  },
+  "do_objectID": "12B4CCC3-08CA-4420-81EA-9E0BE0A0AA69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FCF1C4D-5BCB-4B4E-88C3-B61317F654BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E762F46-E5C4-4286-8CEA-C7C3DB52ADCA",
+    "height": 2208,
+    "width": 1242,
+    "x": 2681,
+    "y": 2070
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D27DCD8-1F55-4392-90BE-9275C138A074",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "029A9F49-5026-44E5-B400-844B9BEFF52E"
+    },
+    {
+      "class": "text",
+      "id": "C9ADA2F5-5445-4958-95EA-3D2C6BBE2560"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87572565-B7E0-4D1F-8FD6-5F9F65935550"
+    },
+    {
+      "class": "group",
+      "id": "65D017E9-1D8F-4DE7-8D24-37186D2A6AC7"
+    }
+  ],
+  "name": "appstore-03",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 736,
+    "name": "iPhone 8 Plus",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BB79BA58-5B9C-4E91-B632-351C0BE15EB4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 30,
+      "type": 0
+    },
+    "do_objectID": "CE779C19-86A1-43BA-9001-16D46B602FF4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C6691C40-8BC2-4C21-8263-0009E658917C",
+    "guides": [
+    ]
+  }
+}

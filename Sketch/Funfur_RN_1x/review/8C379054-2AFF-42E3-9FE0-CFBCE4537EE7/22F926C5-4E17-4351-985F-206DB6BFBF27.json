@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "22F926C5-4E17-4351-985F-206DB6BFBF27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 320,
+    "x": 0,
+    "y": 164
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "search / no-result-symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "021A9251-FC55-49E6-9485-A9F6138E7BAB",
+      "overrideName": "C44B396A-C434-4A1D-94E4-296BF222CF4C_symbolID",
+      "value": "EF74C7B6-76B3-4824-8913-552361E9F260"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48721691-4DBA-4158-90A2-5B056EA12613",
+      "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
+      "value": "누군가는 감사해 할 당신의 진짜 리뷰\n소중한 후기를 남겨주셔서 감사합니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B14B8FA0-F71E-48EF-B036-28BB8A93061F",
+  "verticalSpacing": 0
+}

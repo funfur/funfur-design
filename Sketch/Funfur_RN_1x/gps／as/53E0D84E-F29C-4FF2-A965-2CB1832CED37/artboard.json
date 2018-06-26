@@ -1,0 +1,89 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
+  },
+  "do_objectID": "53E0D84E-F29C-4FF2-A965-2CB1832CED37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A44C5E2C-68EE-454D-A1ED-F0DDB1E58026",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AE9A1FB-06C0-42BD-8104-AC7A9CE645FB",
+    "height": 1920,
+    "width": 1080,
+    "x": 1177,
+    "y": -170
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "336987F4-5150-4DB4-86AF-27CFFA87E1B6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C65261B8-1EA4-4B3D-BF67-33BD28D1FEE6"
+    },
+    {
+      "class": "text",
+      "id": "09A2FD84-8C0B-4ED2-8C4C-8B7C7C9F9F84"
+    },
+    {
+      "class": "text",
+      "id": "43A24A29-4C16-4F28-9FC0-A93166BDBB2C"
+    }
+  ],
+  "name": "gps-02",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "259143D2-D99A-49A8-84B3-391E972FDE70",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3900DDA2-08F5-421E-BE39-3D687460F93C",
+    "guides": [
+    ]
+  }
+}

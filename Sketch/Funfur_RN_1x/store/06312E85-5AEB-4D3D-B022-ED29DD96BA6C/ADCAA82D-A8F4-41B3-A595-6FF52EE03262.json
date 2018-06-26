@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADCAA82D-A8F4-41B3-A595-6FF52EE03262",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "487C2474-7752-4F74-B6D5-2D0CA8904A16",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "289A0492-E2B0-42A9-B76C-60A3D4046393",
+    "height": 210,
+    "width": 320,
+    "x": 0,
+    "y": 462
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / review / each-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A7B81F8-BA9F-4A13-BC2E-2A63C4A0BE02",
+      "overrideName": "1164A774-2369-4E03-904F-F53A310128C9/2A11E83E-E561-4260-9CCC-699596702206_stringValue",
+      "value": "디자인때문에 구매하게된 가구인데, 품질 역시 실망시키지 않는군요 ㅎㅎ 앞으로 뻔뻐에서 더 많은 가구들을 구매할것같아요!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F7164D4-AA32-46A4-B0D0-011536DA5D58",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/F8AB0DCB-EE9F-4D1B-9EA0-C1B94965A862_stringValue",
+      "value": "tomodachi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BDC5A58-8568-45C2-86F1-E6610187D6C5",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/FF422C85-91F0-47E5-938A-70C68A9870F4/EF19734E-43B4-4711-970E-4A2930EAA8C8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/edc0a952502696f4a09add3ce112ccaa870cae72.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "800E915F-AA71-4C57-B864-88325CB822F1",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/0B617B79-1999-4954-8EEA-F4D87F2C282C_stringValue",
+      "value": "1주 전"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96D66D44-BFDB-4B78-AADC-5DD9D82D6CDA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C69B3C4E-040A-454B-A906-4D8EEE957FF4",
+  "verticalSpacing": 0
+}
