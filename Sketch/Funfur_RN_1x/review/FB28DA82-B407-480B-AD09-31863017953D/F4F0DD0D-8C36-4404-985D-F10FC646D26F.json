@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "326113F4-ECCD-4A70-A601-AB4EE839A753",
+  "do_objectID": "F4F0DD0D-8C36-4404-985D-F10FC646D26F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1559A0DE-8DF5-4348-8111-E2402FA98AF6",
+    "do_objectID": "F11632E1-CC81-44F5-AED6-DDB05555FAD8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F33EC6B8-904E-4891-8A2A-338231EE3C01",
-    "height": 48,
-    "width": 48,
-    "x": 272,
-    "y": 0
+    "do_objectID": "5622943D-16D6-4A15-B13E-9540D197D087",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 84
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,22 +71,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bound / bound-48",
+  "name": "store / product / hero-img-dim-grad",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 12,
+  "resizingConstraint": 9,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -180,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5D438BB6-9C96-41D9-BD9B-2769B7D046FB",
+    "do_objectID": "66213957-6A05-49F1-8226-377152B875EB",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "EFCE0513-0BAE-467A-BBAE-64760DFDC5EB",
+  "symbolID": "45722B4B-EC79-4B72-906E-024EA5F01AD4",
   "verticalSpacing": 0
 }

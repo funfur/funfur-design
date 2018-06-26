@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3158D747-91D3-4E42-B2C7-F9FC6F205A37",
+  "do_objectID": "DCB36128-D475-483B-8D10-AB2B04AE3268",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "83B80E2F-475A-4A50-84FF-0B9CE1F5ADD2",
+    "do_objectID": "7DC43442-ACB2-4594-BA52-BCE743B9EAB1",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "03229810-45B5-42A0-A392-F928C4B333A8",
-    "height": 24,
-    "width": 24,
-    "x": 12,
-    "y": 12
+    "do_objectID": "41DCF7CF-4F77-4E4C-80AE-D978419D05AD",
+    "height": 16,
+    "width": 320,
+    "x": 0,
+    "y": 408
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,22 +71,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / ic-back",
+  "name": "review / comment-stroke-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "64358512-EFD1-47DE-B9BC-01ADB9B3FC63",
+    "do_objectID": "74F8894A-274F-416A-B150-032ED7E12267",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "47134BAE-60FD-4A0F-A165-9FA931F838E1",
+  "symbolID": "39D55C92-E9F2-40C1-A173-1553517178D4",
   "verticalSpacing": 0
 }

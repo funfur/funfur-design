@@ -48,6 +48,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "D462FD33-E831-4675-90CC-DBADAA27DD21"
+    },
+    {
+      "class": "symbolInstance",
       "id": "759A33C5-2B7A-46EF-9923-4F1C8C56B963"
     },
     {
@@ -84,7 +88,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1322292B-1286-422C-AF09-74B67376AD25"
+      "id": "B1437AC5-3287-4013-A38C-CE737566FCE1"
     },
     {
       "class": "symbolInstance",
@@ -97,9 +101,13 @@
     {
       "class": "symbolInstance",
       "id": "F70FC595-DD33-4CF8-BAAA-2DBDE88E819C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E203F64-5744-4B58-80D4-9608130CD1CD"
     }
   ],
-  "name": "review / review-details-swipe",
+  "name": "review / review-details-swipe-no-comment",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

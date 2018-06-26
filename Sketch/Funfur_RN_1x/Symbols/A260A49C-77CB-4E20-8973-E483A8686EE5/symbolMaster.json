@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "2A1EE770-58B1-45D6-8354-DB0A37178333",
+    "do_objectID": "7227E1BD-1C88-48CF-975F-2EC8DC4B03D1",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8654,
-  "do_objectID": "A294741B-41B4-4BC5-BB12-BED0193350CB",
+  "changeIdentifier": 401,
+  "do_objectID": "A260A49C-77CB-4E20-8973-E483A8686EE5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2A6BF499-CA77-40A2-8A47-BB621BD2F9BC",
+    "do_objectID": "328FA785-2D98-4D72-B0DD-8E49CFB33494",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -68,18 +68,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6AA106E2-AD4A-49CB-9C66-BF8142F4F54E",
-    "height": 48,
+    "do_objectID": "14037F97-6356-4E42-BC0B-BB675CC746DA",
+    "height": 64,
     "width": 320,
-    "x": 1894,
-    "y": 1402
+    "x": 8862,
+    "y": 410
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F2C899CB-493F-4B95-AA6B-D1E52C08617E",
+    "do_objectID": "70877102-FD2A-4277-91DE-C2965960F220",
     "guides": [
     ]
   },
@@ -94,31 +94,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "326113F4-ECCD-4A70-A601-AB4EE839A753"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8045E6CC-F992-47F0-A8E0-8B85F3AA6A8E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE44959A-15F7-4249-ADD9-B11359C4B85A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3158D747-91D3-4E42-B2C7-F9FC6F205A37"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B070409-6BDB-4FA4-887B-5AA950855501"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "15F11736-5F92-48D4-AD74-B870430781EC"
+      "class": "text",
+      "id": "4F05CB28-2547-4954-AA6A-4808D89CE21F"
     }
   ],
-  "name": "header / center-thumbnail-2-icons",
+  "name": "review / no-comment-text",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -127,16 +107,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "D4A6973D-E22A-4EA1-91CB-5092317CD413",
+    "do_objectID": "73D74D18-283E-4848-92DA-AC884BA3BCF9",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "C5770A85-A968-4A1E-AD97-D7BC4E23B851",
+  "symbolID": "3B726677-F0D6-47B1-8829-CAAFE7843D2D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B187841A-8A55-4B89-A655-CD7A7B9EBEA7",
+    "do_objectID": "28D2D584-716D-4F92-A1F3-042D94F89E83",
     "guides": [
     ]
   }

@@ -1,9 +1,18 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "1322292B-1286-422C-AF09-74B67376AD25",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2,
+    "do_objectID": "78F5DBA1-0500-4C90-B517-BB4E169F6BCA",
+    "green": 0.2,
+    "red": 0.2
+  },
+  "changeIdentifier": 4943,
+  "do_objectID": "6D8CC96D-9452-401B-BA86-C22DDF68A7DF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B96D4309-9948-4CDB-A7B6-D81D35FB25A9",
+    "do_objectID": "6897498C-C3C9-4DD7-95CA-38A2E88D42E7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,52 +68,61 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "667CEA9F-9B12-4D71-B3BA-74D00B5CD413",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 20
+    "do_objectID": "3921FF9C-DABB-46F6-97C5-ABCDC4E09DDD",
+    "height": 24,
+    "width": 24,
+    "x": 38,
+    "y": 474
   },
-  "horizontalSpacing": 0,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D92BBE6-C79F-44C8-AD3E-C2036563570F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "header / center-text",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "688A04AB-A3F9-448F-B2D8-A3F77DBE785F",
-      "overrideName": "8045E6CC-F992-47F0-A8E0-8B85F3AA6A8E_symbolID",
-      "value": "5BF71FEA-60D4-4917-978F-7285828645AA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "203FBA78-860F-4A68-899D-BA0E7BF0867D",
-      "overrideName": "326113F4-ECCD-4A70-A601-AB4EE839A753_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4D828C36-F85D-489F-9DA5-6C4F36AA1B72",
-      "overrideName": "3158D747-91D3-4E42-B2C7-F9FC6F205A37_symbolID",
-      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+      "class": "group",
+      "id": "280AA29D-74CD-4745-B42D-46CEA0CD4579"
     }
   ],
+  "name": "-g-ic / ic-heart-outline-grey-small",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "D154BCEF-E78F-486F-B5A0-1FC2B6AE9E31",
+    "do_objectID": "C0904A97-BA79-42B7-A3D8-BF56C40FCB9E",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "C5770A85-A968-4A1E-AD97-D7BC4E23B851",
-  "verticalSpacing": 0
+  "symbolID": "243AE530-AD56-442F-A3E0-B23AFDD9CAF5",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 3
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "07454D4C-FC9F-42F5-9415-9F2B3BBB9755",
+    "guides": [
+    ]
+  }
 }
