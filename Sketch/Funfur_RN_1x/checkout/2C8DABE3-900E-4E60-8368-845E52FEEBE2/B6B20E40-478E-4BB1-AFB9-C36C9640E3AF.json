@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B6B20E40-478E-4BB1-AFB9-C36C9640E3AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86F8B4A2-1E13-43CE-B50C-EB0EC2986310",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63187D66-8576-41E8-9945-AA58EA877A95",
+    "height": 68,
+    "width": 320,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / sub / basic-before",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B825C93-8A74-4FA0-BEE2-DBA29228FC4A",
+      "overrideName": "51687B64-7718-4B57-8163-131FBE2B94C6_stringValue",
+      "value": "예) 역삼동 604, 논현동 49-4, 함박로 4번길 6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE6D8416-D58E-4AED-B374-552A3A338DD1",
+      "overrideName": "EF32C901-93D1-44EB-9785-BD07D279E1D6/18E56AEE-D2F4-4214-BC74-EEA8853764A8_stringValue",
+      "value": "함박로 4번길"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D03CDEA-EE27-4145-99F4-E75A1243169E",
+      "overrideName": "EF32C901-93D1-44EB-9785-BD07D279E1D6/17FD448D-BF0A-4C8F-9E46-48854BF7132B_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89645F78-53B1-48BA-9D95-6D294AEED438",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D5072611-12FA-467D-A1EB-58F9398941A9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "896A2C30-95EC-40BE-8F3E-E4C7D0B9350D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EE30E79-8B69-47AD-BCA2-CDCEECB6DEC1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CA927DB-BAEC-4F84-BA18-D52E98A97447",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 268
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9434DD57-7EA4-41C0-ACFB-C8B32DE662C9",
+      "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
+      "value": "주소 입력"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A81E036A-EC2A-4024-AD14-8B8BCF0F14DA",
+      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBFA3365-1214-4726-94C3-375B9F3D7118",
+      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
+      "value": "상세주소를 입력해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47FCF49A-B1C5-420C-BF9B-8EAD789A4F03",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6A055306-0828-4E8C-830D-9EE4B312BB70",
+  "verticalSpacing": 0
+}

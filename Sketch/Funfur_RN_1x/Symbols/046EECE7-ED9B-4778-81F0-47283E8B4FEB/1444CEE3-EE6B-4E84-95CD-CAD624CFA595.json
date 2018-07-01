@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "헬퍼텍스트"
+    "string": "헬프텍스트"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1444CEE3-EE6B-4E84-95CD-CAD624CFA595",
@@ -95,7 +95,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 56,
+    "width": 288,
     "x": 16,
     "y": 50
   },
@@ -145,5 +145,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

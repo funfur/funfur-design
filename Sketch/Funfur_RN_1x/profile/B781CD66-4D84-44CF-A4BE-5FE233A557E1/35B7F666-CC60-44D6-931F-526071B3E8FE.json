@@ -1,0 +1,134 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "35B7F666-CC60-44D6-931F-526071B3E8FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "840C13BA-324C-40A6-8C0D-B045C10FE73C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2153DBAC-FA46-4E03-8AC6-0F0E593172D6",
+    "height": 134,
+    "width": 320,
+    "x": 0,
+    "y": 362
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / address-list-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA4FDC2B-1298-4DD2-A27C-EB71E32CFEF7",
+      "overrideName": "0B11A306-4185-420B-B58E-1E746D9E2132_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1051662-BC39-4812-A881-8D3B87CEAE64",
+      "overrideName": "110EC236-4264-4EDA-9F8E-17123ADC8A3A_stringValue",
+      "value": "헤이즈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A428367-D422-40B3-9C34-8E2BB7750149",
+      "overrideName": "12A93BA1-C756-4C58-923C-6FE8B2C94BD0_stringValue",
+      "value": "서울특별시 강남구 대치동 대치우성아파트 1동 302호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5795395D-A8C7-4267-AB95-ECBEA96DAD9D",
+      "overrideName": "C83A3E25-9AB0-4892-8933-DF0B14417D61_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4249150-7EA0-48CA-B6C3-996FA3DC14FC",
+      "overrideName": "855C9072-C7C1-412C-B6BF-52F370BE6301_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "212A1F65-3AAC-479C-A582-4EE36D5088D2",
+      "overrideName": "A393CD7C-3F16-47BF-AEED-D9529D71923E_symbolID",
+      "value": "435CB650-5F4B-4D15-86E9-D72B3F64BE1B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D3AC4CA-FB4B-4C7A-96EE-BF1C271D4730",
+      "overrideName": "A393CD7C-3F16-47BF-AEED-D9529D71923E/C370654F-0588-4F11-94A1-86624A4B0096_stringValue",
+      "value": "수정"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E21B0B8C-E1B2-4E2A-9703-E1BA68AED915",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C9945DE1-D625-4671-852C-0C63F47CCAE4",
+  "verticalSpacing": 0
+}

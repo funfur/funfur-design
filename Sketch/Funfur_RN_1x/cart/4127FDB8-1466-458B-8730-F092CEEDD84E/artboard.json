@@ -28,7 +28,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,31 +47,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "35819906-68BE-486E-8E2C-05E2F35B2377"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EF474D2E-D2C2-4AEC-8723-01907F06B79F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "652DF05B-B76D-4FCE-8567-E3FCC4615E60"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BCF2BCD6-2884-49DC-A8B6-7A9957C22193"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9C09075A-592E-4213-98A0-30BEE1B74611"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8EE03997-7055-4F09-B759-136DA8158315"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D5437CA7-219C-4492-9026-123C4F08C86F"
+      "id": "4A429F8B-DB84-458F-A3F5-86EE34DD232F"
     }
   ],
   "name": "cart / basic",

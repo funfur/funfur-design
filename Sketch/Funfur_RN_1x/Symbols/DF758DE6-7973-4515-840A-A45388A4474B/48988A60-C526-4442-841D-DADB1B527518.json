@@ -69,9 +69,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "review / sheet / sheet-item-each",
-  "nameIsFixed": false,
+  "name": "sheet / sheet-item-each-icon",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BF316B7-85A1-4D9E-8BF9-719734C4A6EF",
+      "overrideName": "E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "리뷰 삭제하기"
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,

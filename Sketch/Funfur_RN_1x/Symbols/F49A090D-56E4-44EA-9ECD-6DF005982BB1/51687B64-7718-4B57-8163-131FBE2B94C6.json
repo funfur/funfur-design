@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "blue": 0.8,
+            "green": 0.8,
+            "red": 0.8
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "헬퍼텍스트"
+    "string": "헬프텍스트"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "51687B64-7718-4B57-8163-131FBE2B94C6",
@@ -97,7 +97,7 @@
     "constrainProportions": false,
     "do_objectID": "B7AAD20D-A42C-400D-AE48-5874F267C6A7",
     "height": 18,
-    "width": 56,
+    "width": 288,
     "x": 16,
     "y": 50
   },
@@ -127,9 +127,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -149,5 +149,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
