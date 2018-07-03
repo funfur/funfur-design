@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,26 +60,18 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9482DDC1-BDA4-45CB-A6BE-3D0782AE29FB"
+      "id": "A2B8EA14-8262-4C33-8D4F-256E76AA926C"
     },
     {
       "class": "symbolInstance",
-      "id": "29BB016C-29EB-4A56-B536-84C1DE06DC10"
+      "id": "03937B07-41EB-47D3-AD72-4FC70BAA2BD4"
     },
     {
       "class": "symbolInstance",
-      "id": "F6B09981-2CCA-4625-AA09-1EB4676E8A97"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "57023961-CD06-4DBD-A485-C315A8F48E62"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8C5018D8-022D-4BB7-BC05-A556DA476787"
+      "id": "1BACDC53-EA20-43EA-8E04-6AA19A427885"
     }
   ],
-  "name": "register / register-email-progress",
+  "name": "register / register-phone-info-before",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

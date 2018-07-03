@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3723,
+  "changeIdentifier": 4328,
   "do_objectID": "7B2BC663-11E9-48D6-9A7D-534D8CB9D429",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,7 +72,7 @@
     "y": 724
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -104,6 +104,10 @@
     {
       "class": "symbolInstance",
       "id": "631645CD-C4BE-4437-8893-EECC741FA915"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1CD9F8D-6FF8-4056-A9CE-68B8AC0C826D"
     }
   ],
   "name": "cart / price / price-card-base",

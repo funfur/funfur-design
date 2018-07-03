@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1552,
+  "changeIdentifier": 2395,
   "do_objectID": "B34754B7-7D2A-4107-987B-8C02BDFB305E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,13 +69,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6058DC6A-1D06-4EA0-9B15-DAFBEB432CB4",
-    "height": 129,
+    "height": 176,
     "width": 320,
     "x": 9382,
     "y": 883
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -111,7 +111,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7979A28E-E9DA-4017-A352-75235DF23EBA"
+      "id": "194417CA-5121-4415-87CB-13856CBDB522"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC25BBA7-1D76-4F2E-8540-5BF2B5CA3FEF"
     }
   ],
   "name": "checkout / address-list-on-checkout-page",

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "do_objectID": "D91CEC02-BEDD-4B8F-A5A6-8D33C60333CC",
   "exportOptions": {
@@ -44,6 +44,26 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "53C620E8-932C-4FA5-B2D7-F2BAF32AFC2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B961BE5-E61E-46F6-AA5A-3AEB627C56DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95FB9034-52A3-41A8-844A-C2F226B50C9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45ACB7E4-F44D-4A00-ABE1-C408BCC4BB9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "135974A6-B395-4CA2-89A1-806B554FE701"
+    },
+    {
+      "class": "symbolInstance",
       "id": "970F2BF3-BE9E-4206-96A4-E09FADE8F335"
     },
     {
@@ -53,14 +73,6 @@
     {
       "class": "symbolInstance",
       "id": "FEE1032A-B2A8-4041-88AE-A5EEB772696F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "45ACB7E4-F44D-4A00-ABE1-C408BCC4BB9F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "98EC247E-2A07-4F11-BD6C-B1125BF6E2AD"
     }
   ],
   "name": "checkout / basic",

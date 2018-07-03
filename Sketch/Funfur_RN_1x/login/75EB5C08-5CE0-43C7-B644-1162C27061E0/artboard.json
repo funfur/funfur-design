@@ -25,8 +25,8 @@
     "do_objectID": "180B3B40-4B43-4046-871E-1C53F502DADE",
     "height": 568,
     "width": 320,
-    "x": 1764,
-    "y": 858
+    "x": 1344,
+    "y": 2862
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,30 +60,22 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6CACF852-81D2-45CF-86EC-C270F136F072"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "819E281F-4627-42B0-A107-DB0627018452"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "21FE7111-96A8-4723-ACD1-FECFA2CB2042"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B7F45EE5-BF8B-4898-9B5A-1BD9D9F98964"
-    },
-    {
-      "class": "symbolInstance",
       "id": "EDB15921-8861-44ED-A529-ABE4CAED5D30"
     },
     {
       "class": "symbolInstance",
-      "id": "4BAE3108-72A9-475C-BE97-219EC17245B9"
+      "id": "E420186C-724E-4469-BB68-4ED0DF760F3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B411769-A8C2-4336-A2FB-D0E9CD73980E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64C9A488-FA26-4252-A29E-2ADABB06EA9F"
     }
   ],
-  "name": "register / register-email-error",
+  "name": "register / register-phone-info-error",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2760C475-6F29-4FAE-A248-F29F99A8D0FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67BADA57-88BD-4920-A405-0F0EB1EFD993",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "299FE6A2-B804-4FC3-81E0-CE223643094E",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 224
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCB981C1-689B-4393-ACE5-5977F83A269B",
+      "overrideName": "0ED821F3-F265-4AEF-8032-B98A42AEE196_stringValue",
+      "value": "비밀번호를 다시한번 확인해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A94007E-F7BB-4852-8519-AA00E881EDD9",
+      "overrideName": "9D22E2EF-7947-4778-BB87-D9C31DBDBEF2_stringValue",
+      "value": "비밀번호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52810069-A8D3-459C-B060-2BC14EDB6431",
+      "overrideName": "36D4E2C7-9C8E-41E1-934E-CD332F651601/25BE056F-491B-4D9F-A368-E9F3BA8473AF_stringValue",
+      "value": "1q2w3e4r"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1199E98-7C86-4487-BF08-C6706C0EFF8E",
+      "overrideName": "36D4E2C7-9C8E-41E1-934E-CD332F651601/57C4F4EF-A2B5-49FE-B5D8-0B8188138456_symbolID",
+      "value": "258FE7F3-CFD9-45B7-B822-F09E8505925A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "966E37A5-E828-495A-8504-956044107501",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BDA89C78-B936-4D62-98F6-57F78FB35E54",
+  "verticalSpacing": 0
+}

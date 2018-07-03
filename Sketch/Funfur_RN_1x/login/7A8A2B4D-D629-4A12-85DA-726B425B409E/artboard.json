@@ -48,6 +48,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "0E5947EB-7893-4670-B504-9F913FA9333D"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B0029233-A909-4B8F-8EAE-ABB565D2D41D"
     },
     {
@@ -56,22 +60,22 @@
     },
     {
       "class": "symbolInstance",
-      "id": "77BDBEAE-2DB9-4355-9239-099A94463F5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "486EFB4D-941C-47CD-AB57-AE7053E53DF7"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F092A6A7-185E-40DF-AA97-D97617CCEF97"
     },
     {
       "class": "symbolInstance",
       "id": "577CBBBA-ADF3-497E-9B44-366E9C34E09E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2760C475-6F29-4FAE-A248-F29F99A8D0FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A86CA4E-F893-4692-95BC-04729BC6197C"
     }
   ],
-  "name": "login / email-error-pw",
+  "name": "login / phone-error-pw",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
