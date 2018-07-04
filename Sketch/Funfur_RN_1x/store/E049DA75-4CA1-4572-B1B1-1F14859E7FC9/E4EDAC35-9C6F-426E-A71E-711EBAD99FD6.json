@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "61729C28-3E44-456A-AC60-804F885C934D",
+  "do_objectID": "E4EDAC35-9C6F-426E-A71E-711EBAD99FD6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E3EF1359-9C4F-438D-A83F-B6AB49174B61",
+    "do_objectID": "39C8D311-D2B1-4D51-A36A-831B6C4971A5",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AF6AEB49-2ADB-4770-A625-906B947670FF",
-    "height": 108,
-    "width": 256,
-    "x": 32,
-    "y": 230
+    "do_objectID": "306B397F-7D9C-4550-9015-4D2B9B257F86",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 340
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,26 +71,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / modal-confirm",
-  "nameIsFixed": false,
+  "name": "store / window / description-1line",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5186A9B5-B34B-4737-98AD-0CE4969BA84F",
-      "overrideName": "7ABAA921-C053-4D51-89ED-10A86F18ACE5/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "로그아웃 하시겠습니까?"
+      "do_objectID": "94B22DB0-70F2-40FF-85AE-B526B16463E9",
+      "overrideName": "BF57896C-C892-44EE-9609-ADEB92BB8EFC/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "업체 연락처"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D569B1B3-87B4-462E-AE86-7CAC6C512C20",
-      "overrideName": "4D937611-70EF-4A80-9FF8-9D5D43C422A3/B3425872-E79D-49B2-83D7-0FA6C9DC048D_stringValue",
-      "value": "취소"
+      "do_objectID": "1DC50306-91F9-4C0A-8203-BD9B7FE52370",
+      "overrideName": "0CF1236D-7804-476D-9CA8-0C3BB87F5C53_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "216DEED8-13C7-40DB-929A-D91ED01CD038",
-      "overrideName": "58EFE575-A128-4040-85B5-FA8D3379E4BB/4DC2F886-DED7-4CA9-AF93-732D27BDCADD_stringValue",
-      "value": "로그아웃"
+      "do_objectID": "46A1288C-2AE4-4595-B21C-F6C85B2653C2",
+      "overrideName": "A8164175-EB85-4CDA-B711-2E59CC0C3F75_symbolID",
+      "value": "21547B3A-0B2A-412C-89A0-07F0A5EE22BE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C26A8B88-99D6-4942-B4A7-BD711181A023",
+      "overrideName": "A8164175-EB85-4CDA-B711-2E59CC0C3F75/830796C7-C4F1-4017-9D36-1A304061F575_stringValue",
+      "value": "010-2938-4756"
     }
   ],
   "resizingConstraint": 63,
@@ -100,11 +106,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "386EC4D0-B983-4291-AEC3-DB8FCB8F4730",
+    "do_objectID": "4200EB7C-A33B-4927-BD18-F77D8134B2C9",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "037F79F0-1EE6-42AB-BEEE-0400B9F682D1",
+  "symbolID": "F16C94AD-4548-42E7-93D0-B45F2D951696",
   "verticalSpacing": 0
 }

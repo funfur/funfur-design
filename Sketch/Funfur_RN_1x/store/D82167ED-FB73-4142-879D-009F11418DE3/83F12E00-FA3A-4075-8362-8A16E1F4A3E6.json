@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83F12E00-FA3A-4075-8362-8A16E1F4A3E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21425AF3-08D2-4AC3-BFF3-885432625FDE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B557E21-7B2C-4B10-9B4E-9EF924B75EA6",
+    "height": 136,
+    "width": 320,
+    "x": 0,
+    "y": 36
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / window / description-3lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA16EB12-EE34-4648-8E66-3E7F655E435E",
+      "overrideName": "45B1A490-7759-4F9E-AD9A-434BC092598F/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "사이즈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3943368-874D-4E18-B310-B9FD3DD10545",
+      "overrideName": "F920A1F0-F593-4A1E-B550-22F9A37A5620/0E35BA04-DAE8-4A47-AB34-F51C98513813_stringValue",
+      "value": "가로: 480cm\n세로: 160cm\n높이: 120cm"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E1C3FBD-897C-4C22-BD10-F36393750238",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CE44215B-9832-42A4-BD10-3601C6B2E42A",
+  "verticalSpacing": 0
+}

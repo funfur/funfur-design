@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "565C906A-B8F2-45D9-95C3-1B674AB7E466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EC0C679-1A57-4D3B-A4B6-C5A25BC40EB0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D67CC71C-973D-4405-906D-BC5DB2FE7F2B",
+    "height": 40,
+    "width": 320,
+    "x": 0,
+    "y": 360
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / window / description-description-1line-2cols",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A25DC5F-EAFB-4FFD-9F06-51A3930B045F",
+      "overrideName": "D4B1410C-4853-440D-863F-7739AFCEF5F0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B04463BE-710A-46B4-AAAB-0DAB8621D660",
+      "overrideName": "7BD97631-E898-4A77-AD20-B2A9859CF273_stringValue",
+      "value": "제주ㆍ산간"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A14C7E46-8FB3-4C7D-B3D1-2F0A593B4D89",
+      "overrideName": "DE5B22C8-D165-44F3-9DCC-832B2F328066_stringValue",
+      "value": "150,000원"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4095EE0-29AE-412A-B6DB-432D3F689037",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4424B567-0770-4286-BBD1-EECEFC7F51DD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D41BF3A-ADFD-4122-909D-7895A87081FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AAA6638-94EC-4763-998B-84381D6DB681",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E7EB41A-52A3-4F5C-8232-868E7B1A4C23",
+    "height": 108,
+    "width": 256,
+    "x": 32,
+    "y": 230
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "modal / modal-confirm",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5186A9B5-B34B-4737-98AD-0CE4969BA84F",
+      "overrideName": "7ABAA921-C053-4D51-89ED-10A86F18ACE5/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
+      "value": "로그아웃 하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D569B1B3-87B4-462E-AE86-7CAC6C512C20",
+      "overrideName": "4D937611-70EF-4A80-9FF8-9D5D43C422A3/B3425872-E79D-49B2-83D7-0FA6C9DC048D_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "216DEED8-13C7-40DB-929A-D91ED01CD038",
+      "overrideName": "58EFE575-A128-4040-85B5-FA8D3379E4BB/4DC2F886-DED7-4CA9-AF93-732D27BDCADD_stringValue",
+      "value": "로그아웃"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30D7F33C-1A88-4A60-8C02-E399770E3F9F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "037F79F0-1EE6-42AB-BEEE-0400B9F682D1",
+  "verticalSpacing": 0
+}

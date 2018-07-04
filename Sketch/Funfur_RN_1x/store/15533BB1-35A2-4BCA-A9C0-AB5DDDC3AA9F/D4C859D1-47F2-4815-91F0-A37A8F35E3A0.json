@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D4C859D1-47F2-4815-91F0-A37A8F35E3A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 320,
+    "x": 0,
+    "y": 460
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / window / description-5lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE34E819-1BDF-4346-B506-5A5E1E94E549",
+      "overrideName": "74615651-7904-4F49-8511-AF67B09CFCE7/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "교환ㆍ반품시 주의사항"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEB148F8-E991-4253-BE75-F28ADADCA624",
+      "overrideName": "54279E4A-50A5-4FCD-9FE1-CC833C90232E/1A89F5A1-81FF-4491-97FA-BBECDA85F418_stringValue",
+      "value": "상품수령 후 7일 이내에 정상적인 사용상태에서 하자 발생시 교환 및 환불이 가능합니다. 고객의 단순 변심에 의한 상품의 교환 및 환불은 상품 미훼손 및 미사용 상태일 경우 가능합니다(배송비 고객부담). 제품 조립 후에는 교환 및 환불이 불가합니다."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "50DA3D94-BAB9-491F-BE93-08D44AA5BC8C",
+  "verticalSpacing": 0
+}
