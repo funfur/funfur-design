@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FB7DFD07-5DED-41F2-B520-2A02A8B62B86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6A2B540-02A0-4ECE-B3C9-A5A3FB2F19B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "126D8604-FD3F-4266-8A9C-B07D75FFD6FA",
+    "height": 1365,
+    "width": 768,
+    "x": 156,
+    "y": 600
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5CF3324E-3F30-4323-A868-EE2FB49B866D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C56D8AAB-1629-48DE-B23F-6AE4E3C6E7AD"
+    }
+  ],
+  "name": "[SYMBOL] / [SYMBOL] / store / window / delivery-costs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4194A0BE-25F0-4C97-8498-E56012B61ECC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.533333333333333,
+      "type": 0
+    },
+    "do_objectID": "B5587819-61CC-4622-AA56-9F1847762813",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

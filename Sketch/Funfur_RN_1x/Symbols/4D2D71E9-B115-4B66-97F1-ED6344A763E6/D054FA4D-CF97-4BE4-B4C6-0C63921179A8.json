@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D054FA4D-CF97-4BE4-B4C6-0C63921179A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D299AC20-BE20-45B4-8317-FD3EFECC1555",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C3457BC-1A1A-46A7-BC50-9C9144CAF768",
+    "height": 116,
+    "width": 320,
+    "x": 0,
+    "y": 220
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / history / product-info",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6A2CB0A-DEE7-4C30-848C-A0387665A501",
+      "overrideName": "3BDBB2C9-BA21-42D6-BD30-E84316335CCD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E5EAFAD-D585-49D9-B1DC-8F2ED31F47B8",
+      "overrideName": "EF83534C-0F55-4B9D-BDB8-0AC0CA861625/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd0d0f14422aaae673d7eae23af63db819ae7ad8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A21FBFA7-B985-4F3A-9883-643449F0AA77",
+      "overrideName": "27028081-15E6-4012-AA56-A16A886C5E66/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "블랙 가죽 모던 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4429DA3C-358D-450E-A714-1BA49E53C9B5",
+      "overrideName": "81BF2FF6-EF6C-4264-B341-D40544D7168D/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "120,000원"
+    }
+  ],
+  "resizingConstraint": 33,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74F137AB-43CE-4820-86A6-ADE4E784EF74",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "858A411C-4568-4135-A708-0202F13BFB5D",
+  "verticalSpacing": 0
+}
