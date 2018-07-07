@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "812AC643-3B09-465E-8B80-C593ABC96F47",
+  "do_objectID": "5E397714-F224-4517-BA82-F5FFD97682DB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "88A57C5B-2F90-42FC-A53B-5E604A9B1DC2",
+    "do_objectID": "AEB4A480-9A15-4C27-9E46-DBF1CC8B1CA4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3F598320-3522-4A04-BC9F-C4B3CFE40B87",
+    "do_objectID": "B0D7E6F9-9B37-4AFD-8809-7455EC454F17",
     "height": 40,
-    "width": 140,
-    "x": 164,
+    "width": 91,
+    "x": 213,
     "y": 156
   },
   "horizontalSpacing": 0,
@@ -71,14 +71,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / btn-filled-half-40",
-  "nameIsFixed": false,
+  "name": "btn / btn-outline-half-40-one-third",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1DB229D0-F281-4757-8D01-88846CB230DA",
-      "overrideName": "D4D15FE4-B928-45E7-8F2D-670E2271EEF6_stringValue",
-      "value": "리뷰 작성하기"
+      "do_objectID": "C77A2B0A-2C41-4997-BABE-2105B9BEAD67",
+      "overrideName": "CC697FD8-9856-40CC-A28F-C2C5F8F13057_stringValue",
+      "value": "리뷰확인"
     }
   ],
   "resizingConstraint": 63,
@@ -88,11 +88,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "57E4D09A-5138-4284-8475-268006C88554",
+    "do_objectID": "C6FC57A2-4E24-4799-896A-09865011C139",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "34BA49A3-FCCD-4F2B-BB33-C54CEFC08629",
+  "symbolID": "07BC5783-821B-4211-ABFE-3DFB3CA38D5E",
   "verticalSpacing": 0
 }

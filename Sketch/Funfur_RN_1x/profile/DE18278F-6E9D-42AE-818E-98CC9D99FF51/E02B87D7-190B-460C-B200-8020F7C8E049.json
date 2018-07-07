@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "0B637370-3DF3-40F8-B88F-1AA23CA91F50",
+  "do_objectID": "E02B87D7-190B-460C-B200-8020F7C8E049",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0DC4A376-61CD-4C66-B26A-AD5A966564C8",
+    "do_objectID": "9D55A840-1A22-4344-8865-8D3776AAB250",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4FB2F071-B01B-4646-BB7E-14A73C1C1A5D",
-    "height": 20,
+    "do_objectID": "C2EC6D97-30B2-45E0-BB15-95BF6BE38E70",
+    "height": 96,
     "width": 320,
     "x": 0,
-    "y": 0
+    "y": 76
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,9 +71,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / misc / status-bar-base",
-  "nameIsFixed": false,
+  "name": "checkout / form / textbox-basic",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF7689D3-B766-46B2-A737-4DBF97EF8460",
+      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
+      "value": "0/160"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9C8FFAF-47C2-49DA-9B3B-890AF82BCB15",
+      "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
+      "value": "의견 보내기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2D22B94-E17B-4C93-97D1-7113D1A313EB",
+      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
+      "value": "뻔뻐에 전하고싶은 의견을 말씀해주세요"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,11 +100,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F5019320-3369-4472-83B3-CB2BD2FDFE7C",
+    "do_objectID": "38F94FBE-3D1B-45FD-BCC0-2CF650849E3A",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "50ACE2DF-41D7-4D23-ACDC-1A226AEF4902",
+  "symbolID": "6A055306-0828-4E8C-830D-9EE4B312BB70",
   "verticalSpacing": 0
 }

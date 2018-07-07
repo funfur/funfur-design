@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "C0424E7F-B9F1-48C5-8106-3C6246E05267",
+  "do_objectID": "6BEE0253-8A50-4951-821C-47BB4FF1167B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "71422F47-4512-4036-BBEB-AF83E653B386",
+    "do_objectID": "9040A152-481C-41C4-99C5-D527227F3858",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "36698B76-6B22-4B03-A6A7-83F96AD02760",
-    "height": 40,
-    "width": 140,
-    "x": 164,
-    "y": 336
+    "do_objectID": "E7B97044-38A7-4FE0-8764-B3496B8B2518",
+    "height": 56,
+    "width": 256,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,28 +71,34 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / btn-filled-half-40",
-  "nameIsFixed": false,
+  "name": "modal / header-1line",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1DB229D0-F281-4757-8D01-88846CB230DA",
-      "overrideName": "D4D15FE4-B928-45E7-8F2D-670E2271EEF6_stringValue",
-      "value": "리뷰 작성하기"
+      "do_objectID": "AEC02646-4418-4302-AF77-1F02B0ABD5AF",
+      "overrideName": "19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
+      "value": "구매기록을 삭제하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BB9DFF6-259C-4724-85F3-A10AF11489E9",
+      "overrideName": "F7031C19-030D-4397-BAE4-FBDFC7B53672_symbolID",
+      "value": ""
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8B5558C7-3CD1-4B41-87D6-1BC0F9FB3C54",
+    "do_objectID": "EFA224BA-2468-4E1A-BE7E-9F105C4FFDBF",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "34BA49A3-FCCD-4F2B-BB33-C54CEFC08629",
+  "symbolID": "A7735F85-C682-4E8A-8DA9-DDD7FD908F93",
   "verticalSpacing": 0
 }

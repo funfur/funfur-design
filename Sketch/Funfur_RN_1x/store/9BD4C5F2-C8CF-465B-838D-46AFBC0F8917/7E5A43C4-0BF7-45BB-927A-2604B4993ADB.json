@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "61B012D3-C1B5-4F34-ADCF-C6A3ADE3B967",
+  "do_objectID": "7E5A43C4-0BF7-45BB-927A-2604B4993ADB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B83573F6-95AA-4913-9A40-789B8C80AD6D",
+    "do_objectID": "22EFDB52-658E-447F-B9C9-11D839B17D91",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C3318597-597D-4AC8-824F-78994AB8DB54",
-    "height": 40,
-    "width": 140,
-    "x": 16,
-    "y": 336
+    "do_objectID": "2F554EDB-F5D8-4012-8E48-1139CD4E5742",
+    "height": 184,
+    "width": 320,
+    "x": 0,
+    "y": 384
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,28 +71,31 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / btn-outline-half-40",
+  "name": "System/Keyboard/Light - Alphabetic",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A9F130ED-BE27-416B-8930-644F45C02A96",
-      "overrideName": "66B537C0-B239-4882-B7DB-61396DF8A2F8_stringValue",
-      "value": "장바구니 담기"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.8533333333333334,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BB843C54-EC93-4531-A0E6-A60A0F564040",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "81E2B3EE-6FE3-4D67-AEAE-D83A54022812",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.533333333333333,
+      "type": 0
+    },
+    "do_objectID": "BFFCEDC3-1CBA-47B6-BCAE-F5A673218B35",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "93ECBDF8-D7A0-45CA-A324-296BCB78D9D2",
+  "symbolID": "E3140953-DFDA-4C11-BC0C-883D55EC4844",
   "verticalSpacing": 0
 }

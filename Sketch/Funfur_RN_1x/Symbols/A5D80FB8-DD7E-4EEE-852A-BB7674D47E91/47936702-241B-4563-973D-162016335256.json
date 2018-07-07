@@ -59,7 +59,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 140,
+    "width": 91,
     "x": 16,
     "y": 156
   },
@@ -69,14 +69,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / btn-outline-half-40",
-  "nameIsFixed": false,
+  "name": "btn / btn-outline-half-40-one-third-grey",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A9F130ED-BE27-416B-8930-644F45C02A96",
-      "overrideName": "66B537C0-B239-4882-B7DB-61396DF8A2F8_stringValue",
-      "value": "장바구니 담기"
+      "do_objectID": "B39B6E49-4BEC-4B84-A89F-5B64C20FD2EA",
+      "overrideName": "68E6A01B-7A81-4825-8458-DC236D21DAA4_stringValue",
+      "value": "교환신청"
     }
   ],
   "resizingConstraint": 63,
@@ -90,6 +90,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "93ECBDF8-D7A0-45CA-A324-296BCB78D9D2",
+  "symbolID": "35E2D37E-D3FD-441A-96B1-C9CAB13E53C1",
   "verticalSpacing": 0
 }

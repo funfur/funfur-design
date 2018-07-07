@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "ECDFA244-9918-4AAD-AA52-DB10ED870706",
+  "do_objectID": "C8A529DF-7DF4-47FB-ACEE-B12C1EA1F5FC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "892F8312-15FD-4CD8-83DA-BAAF2189E026",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,10 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 400,
+    "do_objectID": "8E4FA0E4-A44B-47C6-9071-1F9CD1B2D425",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 68
+    "y": 336
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -69,26 +71,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / history / card-each-2items",
+  "name": "btn / full / btn-bottom-fill",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6DFF6287-440F-4A96-9C67-4EAAA0F35311",
-      "overrideName": "EFA00E56-5C95-4FD0-9846-0A99A287D153_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E545C23C-84A9-4DAF-ADB4-2419F48A01CB",
-      "overrideName": "DC047236-EDD7-4B0B-B0E4-E2D2AEFE7852_symbolID",
-      "value": "551D52FB-67B8-4C6D-A670-12BDD8C593F2"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DAB23538-DAA8-4923-9BE2-500B84695D38",
-      "overrideName": "DC047236-EDD7-4B0B-B0E4-E2D2AEFE7852/44C3ED36-065D-4226-B533-ECB6E61873F4_stringValue",
-      "value": "2018/06/24"
+      "do_objectID": "274F72DC-91A1-4533-8CBF-EBCE85374E7F",
+      "overrideName": "63501DA3-C709-4B67-BBC0-3D8C26E234F6_stringValue",
+      "value": "문의하기"
     }
   ],
   "resizingConstraint": 63,
@@ -98,10 +88,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "84FBA39C-7C16-42BF-BDE0-15BB96AFF4C3",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "FD78EFCC-01ED-4F9D-A8FF-C5261B061DFD",
+  "symbolID": "0B6B08E9-3FA7-46BC-878A-58F855A0F6FD",
   "verticalSpacing": 0
 }
