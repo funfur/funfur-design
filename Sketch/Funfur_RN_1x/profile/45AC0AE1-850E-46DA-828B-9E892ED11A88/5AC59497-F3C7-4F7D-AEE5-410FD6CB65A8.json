@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "EFC8F4FD-EA0A-45A1-BC83-CAA4EC38DABA",
+  "do_objectID": "5AC59497-F3C7-4F7D-AEE5-410FD6CB65A8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3A23D155-762C-4A2C-B9D5-879FBD67B7E2",
+    "do_objectID": "ED81F74E-B596-4BC0-8355-17B8BFFCB144",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,11 +59,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2A2EAADA-6487-4876-A097-2CAAD08F2090",
+    "do_objectID": "329FA0DD-53D0-4EDE-AC27-A7703FB3F93D",
     "height": 96,
     "width": 320,
     "x": 0,
-    "y": 128
+    "y": 224
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -78,7 +78,7 @@
       "_class": "overrideValue",
       "do_objectID": "1C2D13AD-74F7-43CE-B666-804C682692B2",
       "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
-      "value": "닉네임"
+      "value": "새로운 비밀번호"
     },
     {
       "_class": "overrideValue",
@@ -88,9 +88,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DB10AB45-6449-4C14-AE27-63D6EF9EB3CD",
+      "do_objectID": "3658D2F9-1FEA-4302-8093-82D8BE78AF2C",
       "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
-      "value": "뻔뻐에서 사용하실 닉네임을 입력해주세요"
+      "value": "영문/숫자 혼합, 8자리 이상"
     }
   ],
   "resizingConstraint": 63,
@@ -100,7 +100,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2209159B-174F-4556-BBEF-73250B8698CC",
+    "do_objectID": "5C0F0936-EE70-44DA-BB26-1A553E6FAE86",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
