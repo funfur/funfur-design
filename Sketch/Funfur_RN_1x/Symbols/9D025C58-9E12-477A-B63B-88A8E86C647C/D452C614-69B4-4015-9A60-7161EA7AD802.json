@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D452C614-69B4-4015-9A60-7161EA7AD802",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81857CB5-73EF-426C-AAA3-AE6EA7A46196",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E742D60-AA60-42DA-ADB7-AF217779F4F7",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sheet / sheet-item-each-text",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA1CBEF3-D484-4DEB-B56D-408848DAE40F",
+      "overrideName": "AB52CEEE-8882-4FE2-B3C5-42A6E85D9693_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3B50917-B93F-4F4C-9EB3-3250FEA247F0",
+      "overrideName": "9E25378F-EC99-4452-9C22-BEA98CF7B921_stringValue",
+      "value": "배송받은 상품이 상품 설명과 다름"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3960D1E2-A0C7-47A6-8CC0-9FF5FA5A194B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7AC6752B-1453-495B-9270-78788BAE1F14",
+  "verticalSpacing": 0
+}
