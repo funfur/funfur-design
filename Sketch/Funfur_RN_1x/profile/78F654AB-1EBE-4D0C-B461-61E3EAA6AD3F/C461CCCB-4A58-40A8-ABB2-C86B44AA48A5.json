@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C461CCCB-4A58-40A8-ABB2-C86B44AA48A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF4BE695-68A2-4DB9-9E23-6D11280D5567",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D321B150-2F4A-45EC-A4EA-C27471E68DF6",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 172
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-done",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "596BC56F-E00D-4271-BE53-06AC545902B7",
+      "overrideName": "CF9D2BB8-E0A0-47DA-9B31-4FAEBB5283FD_stringValue",
+      "value": "회신받으실 이메일 주소를 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29165D75-71A1-43D4-98F7-4BD770C66821",
+      "overrideName": "2F04872B-788F-4171-B2CD-4C9B8A9EB680/58BDA0C6-A29C-42A3-B85E-5B8E40585478_stringValue",
+      "value": "ghsspower@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECB0CA13-8CF3-4760-BCA1-7F766C0C1155",
+      "overrideName": "191150E0-DC02-448C-B4EB-AC0622C805C6_stringValue",
+      "value": "이메일 주소"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D55477EA-1747-4ECC-8B38-2301AB0505E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8499B371-8D1D-4463-8EED-658BA9CDD622",
+  "verticalSpacing": 0
+}

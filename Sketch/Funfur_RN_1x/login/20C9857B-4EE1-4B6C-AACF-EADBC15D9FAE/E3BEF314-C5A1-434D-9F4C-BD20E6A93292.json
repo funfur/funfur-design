@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E3BEF314-C5A1-434D-9F4C-BD20E6A93292",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A3DB011-8089-4AA5-83AB-E6126CF9F1C2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69C61D3B-9FBA-4E41-BE55-708E1E2A5BDB",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 416
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C2D13AD-74F7-43CE-B666-804C682692B2",
+      "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
+      "value": "닉네임"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8120F1A3-AA13-4683-BC18-DF4DD8A9F56D",
+      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB10AB45-6449-4C14-AE27-63D6EF9EB3CD",
+      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
+      "value": "뻔뻐에서 사용하실 닉네임을 입력해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6FE86F6-3307-47F6-A0A7-37A9BE346FED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A055306-0828-4E8C-830D-9EE4B312BB70",
+  "verticalSpacing": 0
+}

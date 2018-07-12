@@ -73,32 +73,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / form / textbox-basic",
+  "name": "checkout / form / textbox-progress",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "91AFA9BD-CF77-474F-89DC-BAEAC4C31759",
-      "overrideName": "191150E0-DC02-448C-B4EB-AC0622C805C6_stringValue",
+      "do_objectID": "54E4FB2F-D461-4BF0-803D-8E4ED9C40869",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/DC319A47-ECE9-4C17-8704-3DFB49AA8571_symbolID",
+      "value": "3F788066-24D8-47C9-BA57-CFE6F9CD61F6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20870686-A60F-47F9-8E50-CCFE5DA216B8",
+      "overrideName": "5DF4CDD8-AAD2-478C-8319-C01EF2A35CE8_stringValue",
       "value": "주소지 검색"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0F3BC4DD-818C-43B9-BAC5-C938B755E03C",
-      "overrideName": "CF9D2BB8-E0A0-47DA-9B31-4FAEBB5283FD_stringValue",
+      "do_objectID": "020DB593-C8B2-4DEF-9349-23F63C2B92D9",
+      "overrideName": "9928A226-9D93-4618-9460-A74DAF966983_stringValue",
       "value": "예) 역삼동 604, 논현동 49-4, 함박로 4번길 6"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DA9D4251-7FB7-4146-9EC9-A43625099878",
-      "overrideName": "2F04872B-788F-4171-B2CD-4C9B8A9EB680/58BDA0C6-A29C-42A3-B85E-5B8E40585478_stringValue",
+      "do_objectID": "047B3AAD-9CF5-4B62-AA69-759FF740E719",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/9F388DC4-65AB-427F-9620-EB2C95BE780C_stringValue",
       "value": "함박로"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "90E8680C-5EB7-41D6-AE40-C33CB6A07292",
-      "overrideName": "2F04872B-788F-4171-B2CD-4C9B8A9EB680/45715250-7BD8-430C-983F-25563E664651_symbolID",
-      "value": "3F788066-24D8-47C9-BA57-CFE6F9CD61F6"
     }
   ],
   "resizingConstraint": 63,
@@ -114,6 +114,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8499B371-8D1D-4463-8EED-658BA9CDD622",
+  "symbolID": "407A5552-C504-44C7-BFBC-758538F0DB4C",
   "verticalSpacing": 0
 }
