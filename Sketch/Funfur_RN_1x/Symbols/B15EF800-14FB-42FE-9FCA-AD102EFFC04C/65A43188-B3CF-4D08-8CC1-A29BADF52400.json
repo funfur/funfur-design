@@ -119,6 +119,7 @@
     "string": "이용약관 및 개인정보보호정책의 내용을 읽었으며, 이에 동의하는 것으로 간주합니다"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "65A43188-B3CF-4D08-8CC1-A29BADF52400",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -186,6 +187,7 @@
     "y": 6
   },
   "glyphBounds": "{{0, 3}, {283, 30}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -201,9 +203,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "7D733EAF-3CE4-42D1-A757-86B48D62D8FB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E573299A-F424-4A6E-8656-8E4799885916",
@@ -231,7 +233,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

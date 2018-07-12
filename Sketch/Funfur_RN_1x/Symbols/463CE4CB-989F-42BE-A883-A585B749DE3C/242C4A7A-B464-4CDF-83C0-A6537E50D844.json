@@ -34,6 +34,7 @@
     "string": "텍스트 레이블\n개행 레이블"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "242C4A7A-B464-4CDF-83C0-A6537E50D844",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -101,6 +102,7 @@
     "y": 8
   },
   "glyphBounds": "{{0, 4}, {80, 35}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -116,9 +118,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "81F1EBE7-9ABE-4E56-8990-3670308FA8B4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "91266D46-4DDC-4468-8909-CC7A2DDDEFE5",
@@ -145,7 +147,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -34,6 +34,7 @@
     "string": "인천광역시 연수구 연수동 491"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "8DCA08CE-DCA4-46E8-8472-5100EBC87CD1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -101,6 +102,7 @@
     "y": 52
   },
   "glyphBounds": "{{0, 4}, {151, 11}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -116,9 +118,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "1A389788-200F-4005-9634-28EBF465AB27",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "81F461C7-94E8-4E1D-AE40-73CB57AFBB8A",
@@ -145,7 +147,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

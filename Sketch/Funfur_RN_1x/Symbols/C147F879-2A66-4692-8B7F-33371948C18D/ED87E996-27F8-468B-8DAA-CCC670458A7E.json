@@ -34,6 +34,7 @@
     "string": "69,800원"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "ED87E996-27F8-468B-8DAA-CCC670458A7E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -101,6 +102,7 @@
     "y": 140
   },
   "glyphBounds": "{{0, 3}, {49, 13}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -116,9 +118,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "34A4D303-5E20-4604-B8A5-B72AD56D8A2A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "8B1A353C-424F-4E58-AA02-F8B29519C532",
@@ -145,7 +147,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

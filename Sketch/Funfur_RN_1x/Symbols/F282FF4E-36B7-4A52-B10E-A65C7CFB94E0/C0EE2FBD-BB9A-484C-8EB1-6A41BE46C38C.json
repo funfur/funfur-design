@@ -34,6 +34,7 @@
     "string": "수줍지만 열정적인 그의 수줍터뷰!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C0EE2FBD-BB9A-484C-8EB1-6A41BE46C38C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -101,6 +102,7 @@
     "y": 232
   },
   "glyphBounds": "{{0, 4}, {193, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -116,9 +118,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "2515AF27-1560-4D93-BB8C-D9CFF8403629",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1B3DCAF7-6987-4BBD-9147-2D6F5A9D1920",
@@ -145,7 +147,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

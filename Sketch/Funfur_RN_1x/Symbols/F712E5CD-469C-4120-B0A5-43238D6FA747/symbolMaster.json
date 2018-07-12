@@ -8,6 +8,7 @@
     "green": 0.2,
     "red": 0.2
   },
+  "booleanOperation": 0,
   "changeIdentifier": 5610,
   "do_objectID": "F712E5CD-469C-4120-B0A5-43238D6FA747",
   "exportOptions": {
@@ -86,6 +87,7 @@
   "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -117,9 +119,10 @@
       "type": 0
     },
     "do_objectID": "4545F0D4-3C03-4BAA-B967-4B07AD6C0A3E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "D853065D-CF86-430C-A54F-0EC08BEE8858",
   "userInfo": {

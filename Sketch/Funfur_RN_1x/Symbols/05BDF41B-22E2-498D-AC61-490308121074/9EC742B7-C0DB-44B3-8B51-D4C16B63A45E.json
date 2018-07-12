@@ -34,6 +34,7 @@
     "string": "부재시 연락처로 연락 부탁드립니다. 집 앞에 개가 있으니 조심하세요!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9EC742B7-C0DB-44B3-8B51-D4C16B63A45E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -101,6 +102,7 @@
     "y": 55
   },
   "glyphBounds": "{{0, 4}, {280, 34}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -116,9 +118,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "ADE96639-B8FD-4D8B-94BE-F5754ACAEB70",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "8EFE08C2-FC34-49AD-97CD-954716BB35C5",
@@ -145,7 +147,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

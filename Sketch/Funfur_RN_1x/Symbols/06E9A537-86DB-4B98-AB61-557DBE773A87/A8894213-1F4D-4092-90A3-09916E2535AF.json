@@ -35,6 +35,7 @@
     "string": "내가 쓴 리뷰등에 대한 푸시알림입니다."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A8894213-1F4D-4092-90A3-09916E2535AF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -102,6 +103,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 4}, {189, 11}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -117,9 +119,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "5C8C95B7-52F3-43E7-A8B8-5CA685601037",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B624FB5B-46B5-46E8-B218-AD74C496129F",
@@ -147,7 +149,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

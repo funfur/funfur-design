@@ -85,6 +85,7 @@
     "string": "총 1,093건의 검색결과"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "F64A20D7-819A-411F-B449-771FC4F3DDBF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -150,6 +151,7 @@
     "y": 12
   },
   "glyphBounds": "{{0, 4}, {133, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -164,9 +166,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -191,7 +193,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

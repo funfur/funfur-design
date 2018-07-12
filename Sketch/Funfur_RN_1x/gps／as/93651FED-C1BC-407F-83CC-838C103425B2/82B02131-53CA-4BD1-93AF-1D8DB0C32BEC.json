@@ -35,6 +35,7 @@
     "string": "테마별, 종류별, 방별로 구분해서\n원하는 가구를 손쉽게 찾아보세요"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "82B02131-53CA-4BD1-93AF-1D8DB0C32BEC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 198
   },
   "glyphBounds": "{{2, 16}, {646, 116}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "70FDC538-543C-4A1D-98DD-5BB64B5EA77A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "598A69C3-B262-4D45-88B0-DC188BBDAA31",
@@ -102,7 +104,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -34,6 +34,7 @@
     "string": "교환 사유를 자세히 작성해주세요"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "244D529A-3D6D-4E59-866B-76DCC08CFA8B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -99,6 +100,7 @@
     "y": 8
   },
   "glyphBounds": "{{0, 4}, {189, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -113,9 +115,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -141,7 +143,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

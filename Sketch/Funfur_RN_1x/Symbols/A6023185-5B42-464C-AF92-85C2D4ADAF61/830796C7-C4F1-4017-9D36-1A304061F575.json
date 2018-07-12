@@ -36,6 +36,7 @@
     "string": "레이블"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "830796C7-C4F1-4017-9D36-1A304061F575",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -103,6 +104,7 @@
     "y": 4
   },
   "glyphBounds": "{{0, 4}, {39, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -118,9 +120,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "A6881851-207A-437F-B0B0-65896CC20EE9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "46709962-A971-4992-9074-09BE74B69529",
@@ -149,7 +151,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }
