@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "50C94323-1A20-4DE4-A97F-71D3D0B40A8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 256,
+    "x": 32,
+    "y": 204
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "modal / modal-confirm-1line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4986ECCA-5B03-4B22-B48D-757E3C2C67E9",
+      "overrideName": "6BEE0253-8A50-4951-821C-47BB4FF1167B/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
+      "value": "리뷰를 삭제하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12D17E92-8918-4B3B-808E-C82BEE6B82C2",
+      "overrideName": "F96BC77F-059D-41B1-AECE-B108587078DC/4DC2F886-DED7-4CA9-AF93-732D27BDCADD_stringValue",
+      "value": "삭제"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6FBB8E7-135F-4A9A-8F31-749592F47D9A",
+      "overrideName": "50E3CBC2-ECA0-499C-9D3D-D587344824A4_stringValue",
+      "value": "리뷰의 좋아요와 댓글이 함께 삭제되고,\n삭제된 리뷰는 복구할 수 없습니다."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B62FC91-64BE-4A07-A4D6-7284A095093E",
+  "verticalSpacing": 0
+}
