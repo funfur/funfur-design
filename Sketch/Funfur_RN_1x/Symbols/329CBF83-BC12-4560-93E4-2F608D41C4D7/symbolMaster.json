@@ -3,13 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "37F43AFA-CF3B-48AF-A8A0-47E255CAB342",
-    "green": 1,
-    "red": 1
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6743,
+  "changeIdentifier": 6865,
   "do_objectID": "329CBF83-BC12-4560-93E4-2F608D41C4D7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,7 +74,7 @@
     "x": 318,
     "y": 330
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,7 +83,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -106,6 +105,10 @@
     {
       "class": "symbolInstance",
       "id": "608BFC02-F089-4566-83E9-CEC0A0787A99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9E96A23-B879-4057-8034-9FCA2294602C"
     }
   ],
   "name": "btn / btn-login-email",

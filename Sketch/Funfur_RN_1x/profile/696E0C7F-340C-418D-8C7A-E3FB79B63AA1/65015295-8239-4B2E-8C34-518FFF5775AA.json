@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "65015295-8239-4B2E-8C34-518FFF5775AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF5B5F27-32E1-4031-955F-76DA5BDE6E50",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "158A3C2F-D901-4A99-9770-67F96063F03A",
+    "height": 184,
+    "width": 320,
+    "x": 0,
+    "y": 460
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / review-card-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "905A4662-C653-431B-AA8F-CB8351AD174A",
+      "overrideName": "4FF53590-98D0-4108-A94F-2B882F3ED167/84F614DC-239C-418E-8AC9-8C700E430429_stringValue",
+      "value": "2018/06/21 배송완료"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D125A2D-3C60-4981-9042-1A8E482525CD",
+      "overrideName": "77F5B89D-70BE-4FD2-816C-665B47391094/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db90d9722cae00d3dd28f294528b07bc6afbd2a8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18928DBD-76F4-4A2C-98B0-C273D4A26861",
+      "overrideName": "0F86C9F0-4D60-4F22-820C-A0E790D254F2/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "린 코튼 스툴"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B853E77-6EF3-408D-A84A-80384090B5E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7751C0C7-A633-44BA-92CC-2757C203A90A",
+  "verticalSpacing": 0
+}

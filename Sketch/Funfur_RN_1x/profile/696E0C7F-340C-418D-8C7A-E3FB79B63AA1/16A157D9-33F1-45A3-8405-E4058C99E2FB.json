@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "16A157D9-33F1-45A3-8405-E4058C99E2FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4BE70CE-ED7F-402F-89EB-23E30CF7F167",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "660E16A4-6AB5-4986-B583-E74CAF5201CC",
+    "height": 184,
+    "width": 320,
+    "x": 0,
+    "y": 268
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / review-card-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6193DFE-E854-4FAF-9D99-C90645A1366D",
+      "overrideName": "4FF53590-98D0-4108-A94F-2B882F3ED167/84F614DC-239C-418E-8AC9-8C700E430429_stringValue",
+      "value": "2018/07/08 배송완료"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99753ACE-6C42-418A-A2F2-4F2B9FE2FA88",
+      "overrideName": "77F5B89D-70BE-4FD2-816C-665B47391094/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5603039856cd4438a800cfe19d8a1af833c4b1d5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E19744A-FCDC-4520-91F0-31B6547C2221",
+      "overrideName": "5C360489-70C8-44ED-A702-1204D76B2334/02AB67EF-2343-42E9-9334-8952B6A6C55E_stringValue",
+      "value": "스피머스 퍼니쳐"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAF8B67C-C539-486D-B1DF-E2064A8015FC",
+      "overrideName": "0F86C9F0-4D60-4F22-820C-A0E790D254F2/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "발코니 파티 테이블"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "395A5E3E-292D-4A56-9937-3D01F69CF581",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7751C0C7-A633-44BA-92CC-2757C203A90A",
+  "verticalSpacing": 0
+}

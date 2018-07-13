@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "6B11B6ED-BD0A-4EDD-A2D9-3E28153030F7",
+  "booleanOperation": -1,
+  "do_objectID": "E4ED0B2C-E4F1-4D89-A001-59A83DD8DDCF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "345ADFAA-6E75-4C30-8E0A-8FED1499E137",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "81AE2E93-DE83-473E-A8F2-7F71CD103DDC",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 520
+    "height": 40,
+    "width": 288,
+    "x": 16,
+    "y": 128
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,29 +71,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / full / btn-bottom-fill",
+  "name": "btn / btn-outline-40",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F769F4B4-D1D7-4148-9B4A-438D515A18FE",
-      "overrideName": "63501DA3-C709-4B67-BBC0-3D8C26E234F6_stringValue",
-      "value": "쇼핑 계속하기"
+      "do_objectID": "6B6F1178-3482-4C09-8BCA-7BE83FD3AC0B",
+      "overrideName": "9EA74F9F-5E32-4BB2-B204-86B2DDAD0E31_stringValue",
+      "value": "리뷰 작성하기"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EC5331A2-EF4A-4EF9-913A-616773DB3DC3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0B6B08E9-3FA7-46BC-878A-58F855A0F6FD",
+  "symbolID": "AD9A82D7-604B-48B5-8C29-C11A71E08331",
   "verticalSpacing": 0
 }
