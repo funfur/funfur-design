@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9878,
+  "changeIdentifier": 10122,
   "do_objectID": "5280C315-5029-4B30-A97E-7480EBD30F08",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,7 +73,7 @@
     "y": 138
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -101,11 +101,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E3A17107-E8F4-49AA-A4B0-B48B99F8D7B4"
+      "id": "51681C77-13CA-4002-B341-9CFA93512645"
     },
     {
       "class": "symbolInstance",
       "id": "07E634EA-C094-4208-8A8D-74FF59967442"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3A17107-E8F4-49AA-A4B0-B48B99F8D7B4"
     },
     {
       "class": "symbolInstance",
