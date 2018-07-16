@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5FD9A2FE-8743-490B-86E5-EE2471E6A6B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19B82C3A-4F37-4A67-820E-6D9F2805B87A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "227246A5-07FB-4D14-B2D5-3F826D7A7818",
+    "height": 20.2572347266881,
+    "width": 126.3907407407407,
+    "x": 0,
+    "y": 7.24031334963811
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C4AB0A4-995F-422C-AC54-E99B2B9C785C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63DAFC4E-9A1F-4ADF-B4E6-0361C0FDA1CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79E9C615-320F-40ED-890F-6E229784B056"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D176C5D-C86A-48FC-A239-C8C4D7AA90E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DB7383F-8201-4093-B026-0B2F81CBE5DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF0B7E06-6A9F-4325-A177-0E60149CE344"
+    }
+  ],
+  "name": "Speaker",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0EE52A61-9909-4ED7-A8DD-DB2390DAC458",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.06718891606351,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C07D133F-2935-4AC9-AB52-1FBA89A3BF9B",
+      "opacity": 0.8013642723880597
+    },
+    "do_objectID": "1486F361-B5EB-4722-B947-70AFE1E8BE0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

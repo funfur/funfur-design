@@ -1,0 +1,140 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41C0FA7B-CE3C-4FD6-A8A6-5C1D229A94D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C7971C1-4E0D-4ACA-9BA5-216201F3B666",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "320D9670-090C-46AA-9723-9FD058B4037E",
+    "height": 19.53735348315045,
+    "width": 125.5227799227799,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A38BCCC2-DEAF-4993-AB11-C3EE93C95A79"
+    }
+  ],
+  "name": "Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0693B610-C3CD-4BE8-BF7A-747D637345EB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.06718891606351,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4FB5361C-5A8E-47CA-9E7A-34D151598BFE",
+      "opacity": 0.2444406881712485
+    },
+    "do_objectID": "992D4A07-A9CD-400F-A34E-2D60318983D3",
+    "endMarkerType": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.7950350996376812,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 3
+      },
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.8001302083333334,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -3,
+        "spread": 0
+      },
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.197067481884058,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -2,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":true,\"height\":\"fixed\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"fixed\"}"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

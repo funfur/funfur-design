@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "75CCFB82-2B6D-45BB-B4DB-8E5B8603E80C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67A9ADE1-7D93-4004-9F63-C0E73004375F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B7E37EB6-B61B-4FCD-B76E-F72FC72ECFF1",
+    "height": 29.90353697749196,
+    "width": 904.9962962962964,
+    "x": 68.50185185185184,
+    "y": 2070.096463022508
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D3264A8-AB4E-4AA3-A9B3-4D6FB3DDEC10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABC83892-DB12-4D3D-9A82-834837E5FE3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38E8696B-1A03-4DB8-BF75-37FEFEE2319B"
+    }
+  ],
+  "name": "Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7A6893D7-8344-4764-9527-7E0ECA764A6E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.06718891606351,
+      "type": 0
+    },
+    "do_objectID": "9B1F05C6-2B13-4B8A-BE23-CB00382021BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

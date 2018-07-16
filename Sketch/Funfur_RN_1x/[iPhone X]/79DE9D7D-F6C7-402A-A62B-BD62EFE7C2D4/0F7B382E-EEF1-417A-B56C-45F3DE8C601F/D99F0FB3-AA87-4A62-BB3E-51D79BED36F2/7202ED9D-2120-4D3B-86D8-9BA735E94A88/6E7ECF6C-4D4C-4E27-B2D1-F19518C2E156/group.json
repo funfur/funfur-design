@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6E7ECF6C-4D4C-4E27-B2D1-F19518C2E156",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D33B460E-08F3-4A7B-AD26-B30593D31842",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A85688B2-9DB5-4F3C-A9DA-4FCAB4C64675",
+    "height": 2002.572347266881,
+    "width": 978.3222222222222,
+    "x": 32.18532818532819,
+    "y": 38.61500453140324
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C485844-7248-4CA1-BC51-CDE0C522A2A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C5531A8-B89B-4206-8657-14DDC72179AB"
+    }
+  ],
+  "name": "Glass Glare",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4824BE6D-38D6-4BC3-8550-F87A56EAEE41",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.04479261070901,
+      "type": 0
+    },
+    "do_objectID": "8E82125D-C4A9-4C46-9779-5E7814A4A1E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

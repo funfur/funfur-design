@@ -1,0 +1,184 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "725B5FB9-596E-40BA-93FF-E4DB8B2C3263",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A5F6C58-8408-4C89-8FC2-E719B8B26833",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C33F231F-0975-42D3-A989-793BCF4958D5",
+    "height": 17.27793165176532,
+    "width": 125.5227799227799,
+    "x": 0,
+    "y": 2.791050497592922
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C2A16D39-2800-421A-BDE0-DDDE3D738496"
+    },
+    {
+      "class": "rectangle",
+      "id": "F7011E90-A13A-4F35-AF05-EEEECE99CD37"
+    },
+    {
+      "class": "rectangle",
+      "id": "BBE5F53A-7991-426B-8782-E1E170EEDE61"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7FBAA2C-8A25-4C78-8705-313FF89E6499"
+    },
+    {
+      "class": "rectangle",
+      "id": "1FCF2878-6F2B-4EB9-8846-F4C5683BD03A"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5252DA63-D035-4A9C-9E8B-D9942C96B8A9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.06718891606351,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1.206718891606351
+      }
+    ],
+    "do_objectID": "839EFD18-F895-40F1-89EB-90B1A145CD7F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.03,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":true,\"height\":\"fixed\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"fixed\"}"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

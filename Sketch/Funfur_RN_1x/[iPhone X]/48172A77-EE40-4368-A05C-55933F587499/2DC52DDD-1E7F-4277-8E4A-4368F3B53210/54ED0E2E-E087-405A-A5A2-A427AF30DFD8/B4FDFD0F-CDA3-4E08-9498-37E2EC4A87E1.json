@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B4FDFD0F-CDA3-4E08-9498-37E2EC4A87E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B002EFBC-7680-45C1-B87F-6149DB0B9BA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C357FCEC-A6A0-40F0-9EDE-22CBF57FF46C",
+    "height": 1960,
+    "width": 905,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "[iPhone X] / main / horizontal",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 2.413793103448276,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7CF16DA5-D493-47DA-9355-C62E33FE74B9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 24.13793103448276,
+      "type": 0
+    },
+    "do_objectID": "174C9F9C-F667-4703-A1D6-2D677587362F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "30E87620-F0E1-4609-B118-3E3E13759059",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "30491549-69A2-4AA2-8EF6-A41CA67A6625",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "520216C1-EC7D-431F-94BD-6617CA9F03B3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE8627F0-DDEB-4280-81C7-0AB7FFCAB22C",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 364
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "notification / list / body-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4188B084-81A0-45EF-90D4-A7B7432D54E8",
+      "overrideName": "B824A528-50A3-4A89-BE46-AD9E5469BB76/ECE5A589-4B3E-4600-BE26-4684FE0EE8B3_stringValue",
+      "value": "2018. 06. 19"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D51198CB-6464-47AF-9A9B-2E7AB9BD92E2",
+      "overrideName": "CB94663F-9464-46D2-BD5E-D535D34AFE92_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBA523F9-1E02-4A90-9A67-1C795E7EF1AC",
+      "overrideName": "B824A528-50A3-4A89-BE46-AD9E5469BB76/B0B5871A-F087-44C6-83E8-87B6201F7CE1_stringValue",
+      "value": "뻔뻐 활동"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91AF3A62-85EC-4290-937E-FBE48A538C53",
+      "overrideName": "36198186-C4FF-4E83-AA95-FBF1D760E899/917B571E-601A-4E49-8482-2913C84E0D6E_stringValue",
+      "value": "헤이즈님 외 32명이 회원님의 리뷰를 좋아합니다. 지금 바로 확인해보세요!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02CDB4B3-E6C9-4E96-A671-79F719E7E8D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42A8191C-074F-4776-9977-F41DCAD4DE8D",
+  "verticalSpacing": 0
+}

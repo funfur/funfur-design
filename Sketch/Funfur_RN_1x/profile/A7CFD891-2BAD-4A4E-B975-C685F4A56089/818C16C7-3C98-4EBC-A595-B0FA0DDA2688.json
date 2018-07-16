@@ -64,7 +64,7 @@
     "height": 116,
     "width": 320,
     "x": 0,
-    "y": 308
+    "y": 452
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -76,12 +76,6 @@
   "name": "cart / price / price-card-base",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "EA5E80A4-49D0-4CA7-B8ED-CF798AD616EE",
-      "overrideName": "F1CD9F8D-6FF8-4056-A9CE-68B8AC0C826D_symbolID",
-      "value": ""
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "E92E9C64-7FB6-414F-B5EF-933A75B26B07",
@@ -99,6 +93,12 @@
       "do_objectID": "98C995E4-A8D1-4AA4-BC70-605FFCCF5FC9",
       "overrideName": "318758B9-2B9C-4D24-875E-949DAF332676/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
       "value": "448,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0883A80D-E64E-43FC-A5C2-65BAD614ECC7",
+      "overrideName": "74872C17-EF3C-49F6-AF0E-6D11C54A3010_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

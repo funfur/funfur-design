@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7689,
+  "changeIdentifier": 7741,
   "do_objectID": "1B910DF9-64C7-40C2-943C-52D816815BC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": 1362
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -118,6 +118,10 @@
     {
       "class": "text",
       "id": "18D98A9F-79B6-467F-AA87-D9D59EFCEB8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1AC604A-4DFB-4969-9695-B7C2B86A351A"
     }
   ],
   "name": "profile / history / details / customer-info",

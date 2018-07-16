@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "614A44DA-DEE8-4170-AB1D-25EC324B8965",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BF882D0-C098-4283-8AA9-71F09D65C197",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D006F073-AB33-42B7-BED5-7E0BD55C7AFA",
+    "height": 30.86816720257235,
+    "width": 30.87407407407409,
+    "x": 157.7081081081081,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B1F8514-3491-490F-AB2C-25BAA29D4CE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3177A869-8B9B-42E5-9B03-D14D10D59B75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A67DC552-27C4-4833-B68D-7126617DE4C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8151961F-07F5-48AD-94A0-EB74751AE1B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C9889E7-36C6-4BDA-BDF2-363B8C70FC85"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "98EB0816-3826-4600-B164-7E6B1BC32640",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.07976951208387,
+      "type": 0
+    },
+    "do_objectID": "8E17FAFC-7FAC-4C00-94A8-3375ECF75E05",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

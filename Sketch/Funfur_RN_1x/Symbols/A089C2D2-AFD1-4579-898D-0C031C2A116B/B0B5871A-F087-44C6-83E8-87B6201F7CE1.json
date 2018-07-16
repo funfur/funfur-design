@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.0980392156862745,
-            "green": 0.7450980392156863,
-            "red": 1
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SpoqaHanSans-Regular",
               "size": 12
             }
           },
@@ -101,7 +101,7 @@
     "x": 212,
     "y": 9
   },
-  "glyphBounds": "{{34, 3}, {57, 13}}",
+  "glyphBounds": "{{34, 4}, {57, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -128,14 +128,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.0980392156862745,
-          "green": 0.7450980392156863,
-          "red": 1
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
+            "name": "SpoqaHanSans-Regular",
             "size": 12
           }
         },

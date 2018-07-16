@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "91E446E9-F865-4D24-AE5D-16CE5CD58335",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "760061BB-C4EF-434C-A07D-534041EA59F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCF988EF-EF43-4441-9525-97B45EB0A5C1",
+    "height": 1685.209003215434,
+    "width": 1029.457407407407,
+    "x": 6.437065637065636,
+    "y": 199.5108567455834
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A32B247-6E87-4FDA-8DB2-01759F92D362"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBA6237C-1419-48E7-A367-1F1733FA2E88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77ECB1C1-5877-41AF-856E-1E4DC53501DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF5F2169-0D3B-406B-9221-D3AC533F9DF9"
+    }
+  ],
+  "name": "Antenna Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7EF94AE8-BB84-4E60-8A46-62C19EC82415",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.04479261070901,
+      "type": 0
+    },
+    "do_objectID": "7AF23EA1-8799-4532-90C0-A20A202B0920",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

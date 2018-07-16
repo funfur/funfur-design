@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8284D8D2-078B-4125-A7F4-79D0541392C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D018688-4BA1-49B7-A891-AF4EDD187E4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0DBE585-6F7D-4A70-B1F6-98DFFEF8DEA7",
+    "height": 1685.209003215434,
+    "width": 1029.457407407407,
+    "x": 6.437065637065636,
+    "y": 199.5108567455834
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B263454D-F80F-4E4F-90B4-670353F2EBC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CB32BEB-6265-496F-9036-A4D51F9310A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "631D3A0A-D61A-40E3-8969-7A0A0B0D8B0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AD46ECC-50CF-42F3-AE7D-10219D4A5F33"
+    }
+  ],
+  "name": "Antenna Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "00E2F02B-A0F2-404B-B8CE-122C7C498314",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.04479261070901,
+      "type": 0
+    },
+    "do_objectID": "83D9A782-0EA4-4E31-A8C6-021B54206754",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
