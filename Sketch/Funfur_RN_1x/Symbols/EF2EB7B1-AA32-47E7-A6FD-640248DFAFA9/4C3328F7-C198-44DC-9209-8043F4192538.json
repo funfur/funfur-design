@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 15,
         "location": 0
       },
       {
@@ -59,10 +59,10 @@
           "underlineStyle": 1
         },
         "length": 6,
-        "location": 18
+        "location": 15
       }
     ],
-    "string": "이미 이메일 계정이 있으신가요? 로그인 하기"
+    "string": "뻔뻐 아이디가 있으신가요? 로그인 하기"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -132,7 +132,7 @@
     "x": 16,
     "y": 14
   },
-  "glyphBounds": "{{1, 4}, {252, 14}}",
+  "glyphBounds": "{{1, 4}, {223, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
