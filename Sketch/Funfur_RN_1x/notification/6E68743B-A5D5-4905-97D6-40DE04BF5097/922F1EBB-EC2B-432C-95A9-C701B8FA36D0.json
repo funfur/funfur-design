@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "922F1EBB-EC2B-432C-95A9-C701B8FA36D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EE4CD40-81C4-4AC9-86F9-F173C3E0E331",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "462F6601-CF6C-48FC-85DD-01D64F88D338",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 224
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "notification / list / body-basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4188B084-81A0-45EF-90D4-A7B7432D54E8",
+      "overrideName": "B824A528-50A3-4A89-BE46-AD9E5469BB76/ECE5A589-4B3E-4600-BE26-4684FE0EE8B3_stringValue",
+      "value": "2018. 07. 12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61C8F72E-9FEF-429A-987A-049B0BF22934",
+      "overrideName": "CB94663F-9464-46D2-BD5E-D535D34AFE92_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79744234-54B0-498A-BBA9-02150B85CF46",
+      "overrideName": "B824A528-50A3-4A89-BE46-AD9E5469BB76/B0B5871A-F087-44C6-83E8-87B6201F7CE1_stringValue",
+      "value": "장바구니"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C542726A-B3A3-447F-8B9A-08DF285A3B53",
+      "overrideName": "36198186-C4FF-4E83-AA95-FBF1D760E899_symbolID",
+      "value": "9E020887-6557-4FFC-8699-A26D4402F3A6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21DB8B5A-21CC-4E5D-9C76-2147CF0B9BB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42A8191C-074F-4776-9977-F41DCAD4DE8D",
+  "verticalSpacing": 0
+}
