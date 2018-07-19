@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "44599571-A032-4815-B439-CED604F6F9DE",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -75,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "7846A46F-4C58-4393-A17D-BF08BA3A92F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AF72B70-6ABC-4313-AD56-177F036145E3"
     }
   ],
   "name": "cart / basic-more-items-out-of-stock-one",

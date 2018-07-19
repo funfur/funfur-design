@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6A69D9D8-3B82-4952-A6A3-822DE7D60817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7861D9EF-769E-4BF9-B67C-A920F1A70900",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "061574AD-02C1-4323-A304-8C357EDBFED3",
+    "height": 139,
+    "width": 320,
+    "x": 0,
+    "y": 240
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / window / description-3lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D21252B5-F608-4717-831F-3EF383402EE8",
+      "overrideName": "45B1A490-7759-4F9E-AD9A-434BC092598F/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "주문취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0A6EB71-5A37-4EED-AFA1-DCFE2D4ACA64",
+      "overrideName": "F920A1F0-F593-4A1E-B550-22F9A37A5620/0E35BA04-DAE8-4A47-AB34-F51C98513813_stringValue",
+      "value": "주문취소는 물류센터 출발 전에만 가능합니다(배송비 부담 없음). 주문 취소시 물류센터에서 출발했을 경우, 왕복 배송비는 고객부담입니다."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD930792-1868-48C7-9FAD-EEE0513CF3B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE44215B-9832-42A4-BD10-3601C6B2E42A",
+  "verticalSpacing": 0
+}

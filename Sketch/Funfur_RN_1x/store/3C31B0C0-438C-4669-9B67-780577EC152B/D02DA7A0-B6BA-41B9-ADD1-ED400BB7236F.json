@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D02DA7A0-B6BA-41B9-ADD1-ED400BB7236F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "472D9BB5-097F-4547-A31D-DAF768D44D14",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C97C0BCD-265C-4D4D-9B90-5E0581A6DF59",
+    "height": 161,
+    "width": 320,
+    "x": 0,
+    "y": 351
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / qna / list-each-3lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33FF8B18-50E3-4290-AAD4-B3C8CFD3C1CD",
+      "overrideName": "323387CB-7D29-4D64-9F19-68DD91C706A0/C231AB4F-2162-4302-ACBC-4800499580D5_stringValue",
+      "value": "집에 받을 사람이 없어서 사무실에서 받..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FA48839-20F1-464A-B224-4CA0A1AF2AFB",
+      "overrideName": "14299661-0DF6-4FC4-8F84-90073CFC4835/93F5BFB7-5457-49EC-8828-B647F4C05129_stringValue",
+      "value": "문의주신 부분은 개인의 근력차가 있는 부분으로 안내드리기 어려우며, 상품의 무게는 총 12kg 내외입니다. 감사합니다."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5185559-9D40-455C-BB2B-A51E2DA6E021",
+      "overrideName": "ACE04F59-4936-411B-AB93-6CB0DC4D1680_stringValue",
+      "value": "2018. 06. 29"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90622830-5FCC-416D-9AE2-656611793DD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "07F76A67-9FB6-436D-A68C-C69E49F10709",
+  "verticalSpacing": 0
+}

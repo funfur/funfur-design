@@ -26,7 +26,7 @@
     "do_objectID": "DE958FFF-AA97-45E7-B707-7FEBDF3CF23C",
     "height": 568,
     "width": 320,
-    "x": 3377,
+    "x": 3797,
     "y": 534
   },
   "hasBackgroundColor": true,
@@ -103,13 +103,9 @@
     {
       "class": "symbolInstance",
       "id": "059132F6-44B7-4193-A8FE-B85123A63824"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "37BAB70B-153E-4BEB-ACAF-6683009F8432"
     }
   ],
-  "name": "store / product-details-out-of-stock-notification",
+  "name": "store / product-details-out-of-stock-notification-after",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "817CE821-5D72-4BB4-9031-5206AAB48D64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "277E0596-C3D3-4EF5-8741-B1A32B8CE57A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3076D126-7FAC-4E55-9481-AB3EAB2A06C3",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 475
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / product / accordion-menu",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC2E81F8-E865-4CE4-8A41-C0D265305963",
+      "overrideName": "AEEF1426-662A-4AF3-A212-8E74C6D09D27_stringValue",
+      "value": "업체 정보"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4BC1278-DDF1-4E74-8EFA-68BD3A5D8F4D",
+      "overrideName": "CD43968C-0786-4B44-AE87-1F1A30E1EFD8_symbolID",
+      "value": "F8712283-CA29-40B2-AA23-2FDED4DE5945"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4EC5676-D7C9-4D78-9FA6-0CE6B000CED0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B023D595-AA1A-4AF7-96BC-968821604676",
+  "verticalSpacing": 0
+}

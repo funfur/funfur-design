@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C5FDD328-9465-4407-853F-76368173E16E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AD8946C-610E-44B8-8336-331EC86362E6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07D44564-1A27-486E-8AEB-9F19D8A4B48E",
+    "height": 181,
+    "width": 320,
+    "x": 0,
+    "y": 379
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / window / description-5lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE34E819-1BDF-4346-B506-5A5E1E94E549",
+      "overrideName": "74615651-7904-4F49-8511-AF67B09CFCE7/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "교환ㆍ반품시 주의사항"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEB148F8-E991-4253-BE75-F28ADADCA624",
+      "overrideName": "54279E4A-50A5-4FCD-9FE1-CC833C90232E/1A89F5A1-81FF-4491-97FA-BBECDA85F418_stringValue",
+      "value": "상품수령 후 7일 이내에 정상적인 사용상태에서 하자 발생시 교환 및 환불이 가능합니다. 고객의 단순 변심에 의한 상품의 교환 및 환불은 상품 미훼손 및 미사용 상태일 경우 가능합니다(배송비 고객부담). 제품 조립 후에는 교환 및 환불이 불가합니다."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C4081C4-9E63-42A5-A9BA-A18D8C6CA4D1",
+      "overrideName": "17DA9325-7988-4E3A-A20C-DD7B1D165F7C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5B223B4-26C8-49A0-9358-402845613DA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50DA3D94-BAB9-491F-BE93-08D44AA5BC8C",
+  "verticalSpacing": 0
+}
