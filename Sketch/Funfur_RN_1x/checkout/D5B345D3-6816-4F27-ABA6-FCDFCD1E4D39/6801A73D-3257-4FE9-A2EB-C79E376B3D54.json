@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6801A73D-3257-4FE9-A2EB-C79E376B3D54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C79EF26E-8341-42E1-AA72-31F6263A2F4E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAF4968E-997A-4E18-9631-A9221DCFDBBB",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-progress",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54E4FB2F-D461-4BF0-803D-8E4ED9C40869",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/DC319A47-ECE9-4C17-8704-3DFB49AA8571_symbolID",
+      "value": "3F788066-24D8-47C9-BA57-CFE6F9CD61F6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20870686-A60F-47F9-8E50-CCFE5DA216B8",
+      "overrideName": "5DF4CDD8-AAD2-478C-8319-C01EF2A35CE8_stringValue",
+      "value": "주소지 검색"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "020DB593-C8B2-4DEF-9349-23F63C2B92D9",
+      "overrideName": "9928A226-9D93-4618-9460-A74DAF966983_stringValue",
+      "value": "예) 역삼동 604, 논현동 49-4, 함박로 4번길 6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "047B3AAD-9CF5-4B62-AA69-759FF740E719",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/9F388DC4-65AB-427F-9620-EB2C95BE780C_stringValue",
+      "value": "함박롱"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD337A82-6DF0-47E0-85B6-8EEDEFB449F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "407A5552-C504-44C7-BFBC-758538F0DB4C",
+  "verticalSpacing": 0
+}

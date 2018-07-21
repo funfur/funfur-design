@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E189EA83-BC24-4006-B58D-FF3BB4337FF6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "D5B345D3-6816-4F27-ABA6-FCDFCD1E4D39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79D26EC1-815F-4B5E-9C4E-D4D93A469E62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BACC10B-265D-4F35-A5C6-A4C64CB853FA",
+    "height": 568,
+    "width": 320,
+    "x": 1277,
+    "y": 1202
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4EBF937A-22AF-4341-90BE-AAD48E038F35",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "82530508-7761-4581-84CB-CF5CF8127895"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D30BBED-5259-4048-918B-FD7D34CDB15E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "371FA1BD-9567-4AB2-9FF7-0B21BA415DED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "380F54EF-9D10-43F6-B8BD-82DAD2DBAF55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6801A73D-3257-4FE9-A2EB-C79E376B3D54"
+    }
+  ],
+  "name": "checkout / add-address-info-progress-address-details-search-no-result",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02528AF0-DEB5-43C2-9409-EBAB436F07B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "38477E88-43E1-41F5-9B27-CC62DB2FE450",
+    "guides": [
+    ]
+  }
+}
