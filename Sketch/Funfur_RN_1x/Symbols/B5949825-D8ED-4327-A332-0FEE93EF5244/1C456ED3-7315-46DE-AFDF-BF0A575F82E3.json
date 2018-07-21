@@ -1,9 +1,10 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "3FCC3051-439A-437D-861B-17E8C0237FDC",
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1C456ED3-7315-46DE-AFDF-BF0A575F82E3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5801518B-D4DF-4CB8-8384-273785EB10A4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,43 +60,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 12,
-    "x": 6,
-    "y": 2
+    "do_objectID": "3E29EE47-CCB2-4BA8-B87D-01ED079FE7CE",
+    "height": 68,
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "faq / list / title-2lines",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "E25961DD-3E8E-4C8D-A861-925D7192A001"
+      "_class": "overrideValue",
+      "do_objectID": "4885C652-2470-478A-8AC0-C5F6DFF3ACAE",
+      "overrideName": "09DF492E-6AEC-498C-B9C1-884ABD486E00_stringValue",
+      "value": "집에 받을 사람이 없어서 사무실에서 받으려고 하는데, 혹시 배송지 설정 관련해서..."
     }
   ],
-  "name": "ic-back",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 9.818181818181817,
-      "type": 0
-    },
+    "do_objectID": "B1395115-7DFE-46C1-9540-B91FDC972684",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "C2C162D7-5433-4F67-8FF4-A5B140230668",
+  "verticalSpacing": 0
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "DC093523-5CB6-4785-AA71-A8963D982A43",
+  "booleanOperation": -1,
+  "do_objectID": "4B61DA89-95B9-4959-9E72-36ED0614DFCE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD2494CD-6C69-47EE-BE41-AEE0E2757DA3",
+    "do_objectID": "58D63333-4ECD-4817-85E9-5EFDD7507593",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AFB9E322-4EF1-4B9F-B51A-1B005B38D64B",
-    "height": 48,
-    "width": 288,
-    "x": 16,
-    "y": 504
+    "do_objectID": "86D0D2AC-A4DC-42F3-B1FB-CD05B16EFB4C",
+    "height": 63,
+    "width": 320,
+    "x": 0,
+    "y": 80
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,29 +73,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / btn-outline",
+  "name": "review / write-review-3lines",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A059ACB6-12BC-4849-9D52-53F817FB7ABF",
-      "overrideName": "24A58E18-B9E6-49C2-9790-6B71BD8F3A46_stringValue",
-      "value": "이 업체의 제품 모아보기"
+      "do_objectID": "FA455F1C-6F65-4BDF-925D-EA0777C1E263",
+      "overrideName": "93F5BFB7-5457-49EC-8828-B647F4C05129_stringValue",
+      "value": "문의주신 부분은 개인의 근력차가 있는 부분으로 안내드리기 어려우며, 상품의 무게는 총 12kg 내외입니다. 감사합니다."
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AF06383F-8098-4852-A903-072144FABF67",
+    "do_objectID": "4B742794-2D44-463E-AFC9-BBB665D0021F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "70F8CC25-B08A-4F85-9757-C6D6D0767AAD",
+  "symbolID": "B115AB90-025B-4010-BA76-EBC6D3A613B8",
   "verticalSpacing": 0
 }
