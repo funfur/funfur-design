@@ -61,7 +61,7 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "E639F22C-5ADB-49B7-BBAF-355798A37F9F",
-    "height": 18,
+    "height": 17,
     "width": 18,
     "x": 3,
     "y": 3
@@ -72,7 +72,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -83,8 +83,8 @@
       "id": "79E7ADEC-3BC5-41A9-A144-F825F37E74A7"
     }
   ],
-  "name": "-g-ic_home",
-  "nameIsFixed": false,
+  "name": "-g-ic-main-focused",
+  "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,

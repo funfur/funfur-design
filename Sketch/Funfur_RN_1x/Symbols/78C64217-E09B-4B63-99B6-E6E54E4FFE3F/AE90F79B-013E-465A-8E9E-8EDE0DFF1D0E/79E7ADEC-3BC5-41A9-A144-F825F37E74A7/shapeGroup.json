@@ -62,7 +62,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "937A9722-5103-4CDC-99BA-427CCE2BE181",
-    "height": 6,
+    "height": 5,
     "width": 6,
     "x": 6,
     "y": 12
@@ -74,7 +74,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -89,6 +89,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0980392156862745,
+          "green": 0.7450980392156863,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1.5
+      }
+    ],
     "do_objectID": "2FC4ACDE-E153-459C-ABC3-EF504A207291",
     "endMarkerType": 0,
     "fills": [
