@@ -17,21 +17,23 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Regular",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "인천광역시 연수구 함박로4번길 6, 영광빌딩 807호"
+    "string": "인천광역시 연수구 함박로4번길 6, 807호"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -96,12 +98,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E0A30CD9-5B4D-427D-B6C9-0035069713DE",
-    "height": 18,
+    "height": 21,
     "width": 288.2000122070312,
     "x": 16,
-    "y": 36
+    "y": 37
   },
-  "glyphBounds": "{{0, 4}, {250, 11}}",
+  "glyphBounds": "{{1, 4}, {236, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -109,7 +111,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-12-regular",
+  "name": "text-14-regular",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -136,13 +138,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Regular",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
         },
         "textStyleVerticalAlignmentKey": 0
       },

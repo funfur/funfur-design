@@ -24,6 +24,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -52,6 +54,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -80,6 +84,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -153,12 +159,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FDA5054-80C4-42FA-94D8-CF594CC817EA",
-    "height": 41,
+    "height": 43,
     "width": 288,
     "x": 16,
-    "y": 11
+    "y": 10
   },
-  "glyphBounds": "{{39, 4}, {209, 35}}",
+  "glyphBounds": "{{39, 4}, {209, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -200,6 +206,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21,
           "paragraphSpacing": 1
         },
         "textStyleVerticalAlignmentKey": 0

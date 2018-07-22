@@ -17,13 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Regular",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -96,12 +98,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0A728951-82B1-49FF-9DEA-16BFA7649F53",
-    "height": 18,
+    "height": 21,
     "width": 288.2000122070312,
     "x": 16,
-    "y": 74
+    "y": 81
   },
-  "glyphBounds": "{{0, 4}, {89, 11}}",
+  "glyphBounds": "{{0, 5}, {104, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -109,7 +111,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-12-regular",
+  "name": "text-14-regular",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -136,13 +138,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Regular",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
         },
         "textStyleVerticalAlignmentKey": 0
       },
