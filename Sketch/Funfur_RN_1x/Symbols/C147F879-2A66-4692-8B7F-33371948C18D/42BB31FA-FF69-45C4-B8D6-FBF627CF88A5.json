@@ -24,6 +24,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           }
         },
@@ -96,7 +98,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FED754F-3ADE-480C-AA15-04D970B9F41E",
-    "height": 20,
+    "height": 21,
     "width": 112,
     "x": 8,
     "y": 120
@@ -143,6 +145,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21,
           "paragraphSpacing": 1
         }
       },

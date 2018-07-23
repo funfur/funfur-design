@@ -17,13 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 12
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           }
         },
@@ -96,12 +98,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8886BB9E-C6F2-4537-BF1E-20B52476535D",
-    "height": 18,
+    "height": 21,
     "width": 112,
     "x": 8,
-    "y": 140
+    "y": 141
   },
-  "glyphBounds": "{{0, 3}, {49, 13}}",
+  "glyphBounds": "{{0, 4}, {57, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -109,7 +111,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-12-bold",
+  "name": "text-14-bold",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -136,13 +138,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 12
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21,
           "paragraphSpacing": 1
         }
       },

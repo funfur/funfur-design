@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0CA31C98-8F7E-4BBF-A221-84955CC511EB",
-    "height": 136,
+    "height": 148,
     "width": 320,
     "x": 0,
-    "y": 422
+    "y": 414
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -76,6 +76,12 @@
   "name": "profile / history / details / customer-info",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A46EA0D7-62DC-4108-897E-2EDBAB5CCDC9",
+      "overrideName": "C1AC604A-4DFB-4969-9695-B7C2B86A351A_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
