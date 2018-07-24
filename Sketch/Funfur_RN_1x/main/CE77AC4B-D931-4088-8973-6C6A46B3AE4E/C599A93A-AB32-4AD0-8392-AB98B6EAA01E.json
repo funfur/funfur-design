@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C599A93A-AB32-4AD0-8392-AB98B6EAA01E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C985003D-649F-4378-8C6D-40C001A04A80",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08138985-602E-42E6-AF1E-2F567B3E0B36",
+    "height": 226,
+    "width": 160,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / list / each-left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB95486-1C79-466F-9A3C-F0396AA67D02",
+      "overrideName": "60F20D29-7F2A-41E5-96E6-9D765673D9B0/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9b8f0146044c50a0e3b0b53ef6158408c9f3f02a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6867895-6659-491E-A147-D7547B1FF810",
+      "overrideName": "BE59072D-69CB-41E9-9A99-EE49E79E2FEC_stringValue",
+      "value": "박스 스탠드 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "199DA4A4-8D8F-4DAC-B8FA-62CFE7EE6AFA",
+      "overrideName": "A7120434-A972-491A-92E0-5FC9E3483F8A_stringValue",
+      "value": "86,900원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "731E8F83-D1C2-4C95-9722-48F8C14C9638",
+      "overrideName": "E6C12901-4C7D-426E-AB12-C446E6409039/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "64"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0B732A0-B382-41F0-81E9-B5ABDF82BA48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
+  "verticalSpacing": 0
+}

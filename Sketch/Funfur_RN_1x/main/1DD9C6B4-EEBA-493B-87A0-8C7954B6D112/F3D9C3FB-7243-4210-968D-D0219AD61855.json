@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F3D9C3FB-7243-4210-968D-D0219AD61855",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA3504EB-A673-4238-A5C2-19D6F02B7A17",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F042450D-761A-45DE-9696-7EC7703CECD8",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 176
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / 3rows-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B79674-49F4-4195-BD29-EF6DD247F40F/CBBE9D14-33EE-46D5-BEDC-4A6DED356133_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5603039856cd4438a800cfe19d8a1af833c4b1d5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
+      "value": "알망스타일 가구"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
+      "value": "안녕하세요, 알망스타일 가구입니다"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61963E97-D607-4117-A519-0B79BB517AD9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50927F75-C5FE-4D32-B8FE-A8D7B57160FE",
+  "verticalSpacing": 0
+}

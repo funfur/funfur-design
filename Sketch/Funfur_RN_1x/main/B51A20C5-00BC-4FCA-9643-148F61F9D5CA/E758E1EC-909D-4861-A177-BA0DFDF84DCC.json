@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E758E1EC-909D-4861-A177-BA0DFDF84DCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DB1286F-27BA-41FD-A4D9-2183EE6B0B51",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FFBB1DC-41E0-404A-8363-03EC55393DD5",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 304
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / 3rows-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B79674-49F4-4195-BD29-EF6DD247F40F/CBBE9D14-33EE-46D5-BEDC-4A6DED356133_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/458fb2a48d6212c7e9ce6948e72c5ddd2e790c61.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
+      "value": "스피머퍼니처"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
+      "value": "Digital product designer"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86397EAA-F398-4A15-BEFD-AEB110E4B26D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50927F75-C5FE-4D32-B8FE-A8D7B57160FE",
+  "verticalSpacing": 0
+}
