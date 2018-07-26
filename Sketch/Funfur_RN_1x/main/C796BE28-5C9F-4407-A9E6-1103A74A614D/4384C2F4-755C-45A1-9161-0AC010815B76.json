@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4384C2F4-755C-45A1-9161-0AC010815B76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8BE6427-5D38-48B4-844E-B703D5E14948",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3D718DB-7065-48F8-A8A5-3067B9263C4E",
+    "height": 226,
+    "width": 160,
+    "x": 160,
+    "y": 68
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / list / each-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5A68FCE-5E09-4CC5-B3B7-2272BCE8A73A",
+      "overrideName": "CA1F5820-AD7E-4251-826F-8ECBC1727B90/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/405f4bae4a8122c3b64c28f7dc63cfc3bb6cdc54.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AA1F13B-DCF5-4EEB-A6AB-C14E0F824F19",
+      "overrideName": "006E491F-56CE-4A32-8DD3-C3B55EF490FA_stringValue",
+      "value": "스틸 래그드 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0745F74E-1C93-4C79-B53F-CD19C2D4BB4F",
+      "overrideName": "D5C363AE-D2EF-474B-993F-834B7D810BAE_stringValue",
+      "value": "85,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0628ABF4-1727-450F-B8CF-1746E4BA832A",
+      "overrideName": "0AD59DD6-FEDF-45A2-B3AD-61E1EBF9897C/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "40"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ABCE2BA-0E74-45CC-8EA0-52E806ED25D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8E2A80FF-459E-4992-9826-DF0A324B0B0C",
+  "verticalSpacing": 0
+}

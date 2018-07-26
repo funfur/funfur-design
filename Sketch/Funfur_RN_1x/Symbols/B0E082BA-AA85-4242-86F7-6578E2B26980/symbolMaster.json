@@ -1,0 +1,146 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D8BF36CD-4664-4C37-AAC7-B15BB162758B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8618,
+  "do_objectID": "B0E082BA-AA85-4242-86F7-6578E2B26980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEFF557F-3EBD-4E5D-91DF-D6A1434E1E8D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97414CC0-F5BF-4072-9BBC-14B895E3CB62",
+    "height": 48,
+    "width": 320,
+    "x": 8342,
+    "y": 3118
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA3EF25F-D8B7-4D2C-B7F8-394539101AB0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "61CA49A5-9C7B-4C43-BC97-EB0B17AE5156"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C93B00C-4814-44AA-853C-0943EC8440A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE5E0ADB-AB16-44A8-9A62-31759480C330"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E8C151F-EAEC-40A5-8076-3177B5214EB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4764E044-44E6-4B67-B247-F2E9420CE77D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBD433B4-5412-4B80-B0C9-4C6D96F24DFF"
+    }
+  ],
+  "name": "review / header / swipe-room-filter-base",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3371F441-2658-4A95-AC0F-FE33C75182AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC4D6FF2-2AB9-4655-BA6B-30CF92DBFADA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "875ED976-7AB4-4CD3-86BD-BF064FE32C47",
+    "guides": [
+    ]
+  }
+}

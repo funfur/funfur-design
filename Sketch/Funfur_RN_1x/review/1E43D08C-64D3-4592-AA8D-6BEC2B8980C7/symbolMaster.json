@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
-  "changeIdentifier": 778,
+  "changeIdentifier": 937,
   "do_objectID": "1E43D08C-64D3-4592-AA8D-6BEC2B8980C7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,12 +44,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "F47DED6F-4D85-411B-A47B-7A687BC6739E"
-    },
     {
       "class": "symbolInstance",
       "id": "31547B36-C6CA-42F1-93AF-710988DF8B11"
@@ -69,6 +65,14 @@
     {
       "class": "symbolInstance",
       "id": "27062AEC-0313-492C-A355-6BD55AE3E9B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7256ABDD-8AEF-428A-B3BE-39212F2AF087"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F497DCA-F370-4DA9-9B1C-149A1E262403"
     }
   ],
   "name": "[SYMBOL] / review / basic",
