@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "99FFD4A4-4C38-43E9-8BD1-0C7722C6A52B",
+  "do_objectID": "6BEBA5B0-DD13-4958-BEFC-002CECFF2B3E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3B5FB640-DD63-4249-A673-1209B700DC85",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 180,
-    "width": 320,
-    "x": 0,
-    "y": 48
+    "do_objectID": "99BC5DB8-D58A-43A1-8D73-096408E19A02",
+    "height": 210,
+    "width": 160,
+    "x": 160,
+    "y": 128
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,22 +73,45 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "layer / layer-dim-16",
+  "name": "store / list / each-right",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE1E403F-97DB-4C28-B2E0-860F4A240E83",
+      "overrideName": "6A222D45-E99A-4E54-97C9-890F7861141E/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f1b5e5877095f0294eb872cfe2c5e7ae404a2e63.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "657ECD26-A45E-48D7-9342-2C909A214BC8",
+      "overrideName": "E5E34954-B35B-49A2-9495-04A39F1B3684_stringValue",
+      "value": "168,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2217468A-91DE-4F39-AC29-BA85E45DCD2B",
+      "overrideName": "F8C0AD50-0676-4A65-8669-A66A61A9C429_stringValue",
+      "value": "빈티지 철제 문서 수납함"
+    }
   ],
-  "resizingConstraint": 10,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "71BF57CC-3E5B-463B-8666-5D3D87F276D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FD3BBC28-7EEA-442D-AC0E-CA97A0400207",
+  "symbolID": "3FB69D7C-E510-4BB1-BEC6-1396D25996BB",
   "verticalSpacing": 0
 }

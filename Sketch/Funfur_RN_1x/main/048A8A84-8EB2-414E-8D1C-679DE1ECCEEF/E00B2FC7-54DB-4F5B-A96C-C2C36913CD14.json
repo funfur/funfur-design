@@ -1,10 +1,10 @@
 {
-  "_class": "shapeGroup",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "clippingMaskMode": 0,
-  "do_objectID": "E31F906A-ABB1-4860-A431-795CC7B2A64F",
+  "do_objectID": "E00B2FC7-54DB-4F5B-A96C-C2C36913CD14",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C0BA9A1B-8DB1-4642-A170-A086E7A176C7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,60 +60,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 180,
+    "do_objectID": "0999E838-57C1-4F64-AFCB-FA6F39BAE48A",
+    "height": 20,
     "width": 320,
     "x": 0,
-    "y": 48
+    "y": 0
   },
-  "hasClickThrough": false,
-  "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "96EF349B-5278-4A6B-B850-C36B90A6E905"
-    }
+  "layerListExpandedType": 0,
+  "name": "Bars/Status Bar/Status Bar - On Light",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "base",
-  "nameIsFixed": true,
-  "resizingConstraint": 10,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A8DCE6DA-2354-45A8-84CF-2B699761C997",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/5e23bf9db128d6c2644cc61a63709be02db30689.png",
-          "_ref_class": "MSImageData"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "windingRule": 1
+  "symbolID": "84C5F438-BAE7-43DB-A14D-97C9B3F45B87",
+  "verticalSpacing": 0
 }

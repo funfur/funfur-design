@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 13186,
+  "changeIdentifier": 13342,
   "do_objectID": "396246E3-696E-4E9B-B642-4260BC3D5DBD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": 1818
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,6 +96,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "0A843322-474A-4604-8C59-90A77EA82FD7"
+    },
+    {
+      "class": "text",
+      "id": "73C6B525-36A6-4E3B-832C-F454440772A2"
+    },
+    {
       "class": "text",
       "id": "751644A3-4F6C-403C-8769-7A86884EA9C8"
     },
@@ -110,14 +118,6 @@
     {
       "class": "symbolInstance",
       "id": "F6285226-5C36-4943-A884-BB14474C5664"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0A843322-474A-4604-8C59-90A77EA82FD7"
-    },
-    {
-      "class": "text",
-      "id": "73C6B525-36A6-4E3B-832C-F454440772A2"
     }
   ],
   "name": "header / center-text-6char-out-of-stock-after",

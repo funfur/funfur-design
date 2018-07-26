@@ -1,10 +1,11 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "96EF349B-5278-4A6B-B850-C36B90A6E905",
+  "do_objectID": "207495B0-589B-4EB7-94BF-6B168007E8D5",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4F972927-D679-42A7-BCEE-9C3941C2C956",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 180,
-    "width": 320,
+    "do_objectID": "EFE7351A-FAD5-4CA8-9C84-E427550BDEC1",
+    "height": 48,
+    "width": 48,
     "x": 0,
     "y": 0
   },
@@ -31,7 +33,7 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 2,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",

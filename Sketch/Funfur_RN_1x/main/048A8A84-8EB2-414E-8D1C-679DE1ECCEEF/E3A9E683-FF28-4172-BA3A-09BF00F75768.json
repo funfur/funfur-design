@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "B01F303D-D516-4DE5-83F5-56E456BE9374",
+  "booleanOperation": -1,
+  "do_objectID": "E3A9E683-FF28-4172-BA3A-09BF00F75768",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3AAA59C8-13DB-40C1-9977-1FF29C899EE8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 80,
-    "x": 120,
-    "y": 98
+    "do_objectID": "0C3BD3D4-5B46-48F3-85BB-6102647EA04B",
+    "height": 226,
+    "width": 160,
+    "x": 160,
+    "y": 60
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,22 +73,51 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / ic-main-play-btn",
+  "name": "main / list / each-right",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5A68FCE-5E09-4CC5-B3B7-2272BCE8A73A",
+      "overrideName": "CA1F5820-AD7E-4251-826F-8ECBC1727B90/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b83bdfc3e3ecfe3c09a6706de9376bc044a20a66.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AA1F13B-DCF5-4EEB-A6AB-C14E0F824F19",
+      "overrideName": "006E491F-56CE-4A32-8DD3-C3B55EF490FA_stringValue",
+      "value": "스틸 래그드 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0745F74E-1C93-4C79-B53F-CD19C2D4BB4F",
+      "overrideName": "D5C363AE-D2EF-474B-993F-834B7D810BAE_stringValue",
+      "value": "85,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0628ABF4-1727-450F-B8CF-1746E4BA832A",
+      "overrideName": "0AD59DD6-FEDF-45A2-B3AD-61E1EBF9897C/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "40"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0974D2F3-C6A0-4F51-B137-FE1A4B1C5CBC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A544DDF5-ED65-4239-AED9-8751015731D3",
+  "symbolID": "8E2A80FF-459E-4992-9826-DF0A324B0B0C",
   "verticalSpacing": 0
 }
