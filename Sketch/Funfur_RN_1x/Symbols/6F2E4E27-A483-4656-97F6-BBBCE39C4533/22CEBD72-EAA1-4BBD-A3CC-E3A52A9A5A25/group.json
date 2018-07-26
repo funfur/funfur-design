@@ -1,10 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "65F506F4-D7F7-4AB3-BEB2-40BB65F3E139",
+  "do_objectID": "22CEBD72-EAA1-4BBD-A3CC-E3A52A9A5A25",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0A491DAF-8E70-43AD-AE2E-857D5CA9D298",
+    "do_objectID": "BC8DD6A0-9407-43A9-A414-AD3917F79EAD",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,42 +60,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BB66C984-6304-45F2-90CE-42B66C246FF7",
-    "height": 48,
-    "width": 320,
+    "do_objectID": "6D19CB63-0118-47E4-A2AB-1E65B6ECA8B2",
+    "height": 24,
+    "width": 24,
     "x": 0,
-    "y": 32
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-sub-each",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
-      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "카카오톡 문의하기"
+      "class": "group",
+      "id": "003C6A63-8912-4868-9166-366591FB7E99"
+    },
+    {
+      "class": "group",
+      "id": "AB4A094F-85EB-4E3A-96FE-50D08EC40A0D"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "ic-share-white",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "58862DFB-DA89-4DD5-963B-A87517BFB085",
+    "do_objectID": "5D5360D7-E10A-4B01-BC81-3148DAC2746E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
-  "verticalSpacing": 0
+  }
 }

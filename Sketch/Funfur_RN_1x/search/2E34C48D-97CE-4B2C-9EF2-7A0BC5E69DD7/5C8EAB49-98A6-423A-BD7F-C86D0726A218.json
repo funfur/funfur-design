@@ -1,11 +1,10 @@
 {
-  "_class": "shapeGroup",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "clippingMaskMode": 0,
-  "do_objectID": "1E47A7A2-C299-4151-8BFB-5FBC7930D90E",
+  "do_objectID": "5C8EAB49-98A6-423A-BD7F-C86D0726A218",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C8D4E9C0-6849-48C4-BCC9-293B4AAFCF53",
+    "do_objectID": "D977B99F-44FD-4013-B253-603A48734DBC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,80 +59,43 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "05E3B75A-CEE9-4F42-90DF-E50038FC28D8",
-    "height": 19.92,
-    "width": 18,
+    "constrainProportions": false,
+    "do_objectID": "06E6664C-7F2C-4914-90CF-CC90C6512876",
+    "height": 224,
+    "width": 320,
     "x": 0,
-    "y": 0.03999999999996362
+    "y": 296
   },
-  "hasClickThrough": false,
-  "hasClippingMask": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "store / product / related-products / overall",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapePath",
-      "id": "36256BF8-6AA6-4143-BA93-1BBCE3A2BACD"
+      "_class": "overrideValue",
+      "do_objectID": "D2720EEB-9205-4CC9-BD59-048EE1D049FE",
+      "overrideName": "649AD7E0-A2DC-4048-A90C-AE0B93CE34C5/B46EA9C3-81ED-4AB1-AA20-C80BE37CE3EE_stringValue",
+      "value": "이런 상품은 어때요?"
     }
   ],
-  "name": "icon/social/share_24px",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "85304136-4F60-4036-9285-231B0945A2E1",
+    "do_objectID": "7595AA8A-522D-4BBD-B4F7-CC85A8FDED6B",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 2,
-        "color": {
-          "_class": "color",
-          "alpha": 0.54,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 0,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "symbolID": "23D331AC-C451-406F-A185-BC72E5452EBB",
+  "verticalSpacing": 0
 }

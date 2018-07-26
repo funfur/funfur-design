@@ -1,10 +1,9 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "64067082-9EF1-4E58-AB5C-5B1AAC785C56",
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "14770A73-4F4E-4ECE-9C98-9F743FB66D3C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD63E647-FF76-4482-AD9D-414E959D5218",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,37 +59,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "696113DE-6FA7-4D53-8CE9-329E1A834C54",
-    "height": 20,
-    "width": 18,
-    "x": 3,
-    "y": 2
+    "height": 2,
+    "width": 52,
+    "x": 16,
+    "y": 36
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "9F96D94D-BF7B-477C-8FF8-0E2F712E2654"
-    }
+  "layerListExpandedType": 0,
+  "name": "review / header / swipe-room-each-underline",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "ic-share-black",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A784318B-3F51-4996-898C-EBD986D748F4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "3D9842BD-9ACE-4E0A-8EA4-DBE811D57598",
+  "verticalSpacing": 0
 }

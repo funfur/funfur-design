@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "D9EA3C1C-46CB-4A71-BCB2-A750C7D1D363",
+  "do_objectID": "2078D0D5-52BB-4CB8-B52C-32D59C5E818F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8D75E7EC-8DE7-436B-93EE-8061EF921006",
+    "do_objectID": "B412E1DA-6CF1-40A7-9411-5E373A2F945F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "61E384BB-F269-48CF-87F4-F8AE5ABEACED",
-    "height": 240,
+    "do_objectID": "B5E683FE-6F05-4561-8949-76751AC50F2F",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 164
+    "y": 224
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,20 +73,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / no-result-symbol",
-  "nameIsFixed": false,
+  "name": "profile / submenu-sub-each",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5153EDF9-112C-41D4-987D-684A32FDC319",
-      "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
-      "value": "마음에 드는 상품들을 장바구니에 담고\n한번에 손쉽게 구매해보세요!"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2E14EA0E-6E25-42F3-8798-7B107A8BCEF1",
-      "overrideName": "C44B396A-C434-4A1D-94E4-296BF222CF4C_symbolID",
-      "value": "53552819-683E-4629-944D-3F4176B8DC72"
+      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
+      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
+      "value": "관심 카테고리 설정"
     }
   ],
   "resizingConstraint": 63,
@@ -96,12 +90,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A41D8AD9-0601-4E4D-8201-C0E6A9C80D7D",
+    "do_objectID": "602F7A57-4B0A-465E-8232-096FC9F1BAFB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B14B8FA0-F71E-48EF-B036-28BB8A93061F",
+  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
   "verticalSpacing": 0
 }

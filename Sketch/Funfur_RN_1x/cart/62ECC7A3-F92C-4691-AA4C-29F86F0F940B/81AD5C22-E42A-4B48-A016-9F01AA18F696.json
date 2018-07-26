@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "C6A99CA2-725E-4D64-8FC9-AAB3BE1F81DB",
+  "do_objectID": "81AD5C22-E42A-4B48-A016-9F01AA18F696",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "35E87CBE-2F15-4BEE-B136-5CED9CDF7C8E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,35 +60,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 18,
-    "x": 3,
-    "y": 2
+    "do_objectID": "8582F4C7-E822-4346-83B4-9DC4A471ED4A",
+    "height": 224,
+    "width": 320,
+    "x": 0,
+    "y": 296
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "store / product / related-products / overall",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "D5F01D8B-66D0-4237-A63A-96C19D97337E"
+      "_class": "overrideValue",
+      "do_objectID": "D2720EEB-9205-4CC9-BD59-048EE1D049FE",
+      "overrideName": "649AD7E0-A2DC-4048-A90C-AE0B93CE34C5/B46EA9C3-81ED-4AB1-AA20-C80BE37CE3EE_stringValue",
+      "value": "오늘의 추천상품"
     }
   ],
-  "name": "ic-share",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0999F6F8-5588-460A-8BDB-22A9568E3D3D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "23D331AC-C451-406F-A185-BC72E5452EBB",
+  "verticalSpacing": 0
 }
