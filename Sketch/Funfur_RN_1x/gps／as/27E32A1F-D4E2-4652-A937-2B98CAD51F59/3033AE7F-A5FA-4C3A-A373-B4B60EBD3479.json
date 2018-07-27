@@ -59,10 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
-    "width": 288,
-    "x": 419,
-    "y": 1074
+    "height": 369,
+    "width": 369,
+    "x": 378,
+    "y": 1034
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -78,7 +78,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.5625,
+  "scale": 0.72,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -87,7 +87,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 5.625,
+      "radius": 7.2,
       "type": 0
     },
     "endMarkerType": 0,

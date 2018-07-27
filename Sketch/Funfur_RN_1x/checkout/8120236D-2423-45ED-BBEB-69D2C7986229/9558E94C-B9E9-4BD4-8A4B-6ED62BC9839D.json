@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "A7FC4D22-3E26-43F7-8A3D-A46E10516734",
+  "do_objectID": "9558E94C-B9E9-4BD4-8A4B-6ED62BC9839D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7AAE02DC-6D0D-4827-A892-97A54825DABF",
+    "do_objectID": "9112BA95-5633-42A7-8183-AAFED1E8AB2A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1B92F700-6420-47E6-B615-10DE62A378C8",
-    "height": 184,
+    "do_objectID": "64B6777C-23D7-4F5D-905B-7A7D1460B5D7",
+    "height": 32,
     "width": 320,
     "x": 0,
-    "y": 384
+    "y": 224
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,32 +73,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "System/Keyboard/Light - Alphabetic",
-  "nameIsFixed": false,
+  "name": "profile / submenu-title",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2779ADC-207E-4064-9CD7-385A454DE416",
+      "overrideName": "ACDA1B10-E978-42EB-B780-DF1A96FF3730_stringValue",
+      "value": "배송 메세지 선택"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.8533333333333334,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "438FBFB2-953A-449C-ADF8-7BC26DB55FDF",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 8.533333333333333,
-      "type": 0
-    },
-    "do_objectID": "83337448-81A2-430C-A0AD-8D3555EBD031",
+    "do_objectID": "3861E2AA-E13F-4F5A-A62F-402BBDF99471",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E3140953-DFDA-4C11-BC0C-883D55EC4844",
+  "symbolID": "B6C239FD-0A58-41E2-8272-809183E3B61E",
   "verticalSpacing": 0
 }

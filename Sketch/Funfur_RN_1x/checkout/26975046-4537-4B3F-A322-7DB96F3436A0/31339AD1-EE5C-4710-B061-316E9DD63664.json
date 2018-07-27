@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "31339AD1-EE5C-4710-B061-316E9DD63664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CED1CB16-B36A-4607-AC81-844979954B92",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C52317F1-9A48-49F4-B2BE-DCBE26C6627A",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 112
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-progress",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38AE8110-5C4C-44A3-9762-D28AB6038DAE",
+      "overrideName": "9928A226-9D93-4618-9460-A74DAF966983_stringValue",
+      "value": "22/60"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50186F59-435C-412A-8277-88C38D40716A",
+      "overrideName": "5DF4CDD8-AAD2-478C-8319-C01EF2A35CE8_stringValue",
+      "value": "배송 메세지"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E9B74A-675C-4646-9C89-57FE016DDA32",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/9F388DC4-65AB-427F-9620-EB2C95BE780C_stringValue",
+      "value": "문 앞에 사과즙 하나 드시고 가세요 ^^"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FF4B613-25F8-4811-862F-7792756768F2",
+      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/DC319A47-ECE9-4C17-8704-3DFB49AA8571_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA1B4072-398B-4781-81F1-040F7028F99A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "407A5552-C504-44C7-BFBC-758538F0DB4C",
+  "verticalSpacing": 0
+}
