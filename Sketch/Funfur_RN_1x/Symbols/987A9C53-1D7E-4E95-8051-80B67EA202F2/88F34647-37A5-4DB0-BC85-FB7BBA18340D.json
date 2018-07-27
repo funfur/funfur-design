@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "2078D0D5-52BB-4CB8-B52C-32D59C5E818F",
+  "do_objectID": "88F34647-37A5-4DB0-BC85-FB7BBA18340D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B412E1DA-6CF1-40A7-9411-5E373A2F945F",
+    "do_objectID": "9B0C950F-FB8F-4506-9309-C5FD0DCD3D50",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B5E683FE-6F05-4561-8949-76751AC50F2F",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 224
+    "do_objectID": "9FD2D057-C831-4154-9D3F-9DCECED09C2B",
+    "height": 24,
+    "width": 24,
+    "x": 12,
+    "y": 12
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,29 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-sub-each",
-  "nameIsFixed": true,
+  "name": "-g-ic / ic-back",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
-      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "관심 카테고리 설정"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "602F7A57-4B0A-465E-8232-096FC9F1BAFB",
+    "do_objectID": "9E96F5E1-2CC9-4EE0-98A6-F6A1ABE06B54",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
+  "symbolID": "47134BAE-60FD-4A0F-A165-9FA931F838E1",
   "verticalSpacing": 0
 }
