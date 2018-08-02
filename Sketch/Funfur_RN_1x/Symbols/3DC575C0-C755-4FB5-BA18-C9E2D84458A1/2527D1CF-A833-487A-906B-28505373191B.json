@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "902F2B68-8D7C-4BD7-A4C7-7DF29DDB75DA",
+  "do_objectID": "2527D1CF-A833-487A-906B-28505373191B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F99560AB-240D-4B1E-873D-59CD991336DB",
+    "do_objectID": "165873D9-8F40-4DD6-8A87-C09B612B0730",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0F0502A6-633C-4B22-8FC7-DA4AFA76074F",
-    "height": 116,
+    "do_objectID": "D581EC6A-AD51-4DEC-BD06-44413DC7BBCC",
+    "height": 1,
     "width": 320,
     "x": 0,
-    "y": 452
+    "y": 187
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / price-card-base",
+  "name": "header / misc / bottom-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "25886F10-9134-4ADE-A1E7-E7D4255A1336",
+    "do_objectID": "6FBFCBC4-5CF4-433A-BA17-F1527D3ECF9B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F04E65E4-40D9-4D5E-9272-9BA7BC8E3426",
+  "symbolID": "AF6CBC48-A42D-492E-9041-90F4D338B7D4",
   "verticalSpacing": 0
 }

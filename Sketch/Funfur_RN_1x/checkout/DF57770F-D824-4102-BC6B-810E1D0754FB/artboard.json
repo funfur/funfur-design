@@ -25,7 +25,7 @@
     "do_objectID": "93DE610B-0A91-4D79-9F95-B5F211166360",
     "height": 568,
     "width": 320,
-    "x": -403,
+    "x": -823,
     "y": -134
   },
   "hasBackgroundColor": true,
@@ -61,10 +61,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "52D8FCE2-3490-4064-BE66-69E2F32A5C5C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "9409FAB5-0625-49EC-BC8B-20F691261522"
     },
     {
@@ -78,9 +74,13 @@
     {
       "class": "symbolInstance",
       "id": "25475597-97D0-4D09-84C2-7944944FCE4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8683EEF1-0B03-4016-B2E0-5FC9A2A52F1A"
     }
   ],
-  "name": "checkout / basic-swipe",
+  "name": "checkout / basic-bottom",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

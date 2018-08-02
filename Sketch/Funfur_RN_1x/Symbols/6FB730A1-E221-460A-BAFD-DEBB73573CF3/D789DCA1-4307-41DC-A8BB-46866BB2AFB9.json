@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "135974A6-B395-4CA2-89A1-806B554FE701",
+  "do_objectID": "D789DCA1-4307-41DC-A8BB-46866BB2AFB9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0EAAB58F-4B03-4BF7-9BAF-9D5C0B3DF677",
+    "do_objectID": "B8DE80FB-766C-4086-8C7E-1C39524A28C8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5911BAC8-66FF-41B5-A1ED-50BC38E7F5C1",
-    "height": 48,
+    "do_objectID": "1A4D6204-A440-43B4-AA7C-7BC776F20E26",
+    "height": 27,
     "width": 320,
     "x": 0,
-    "y": 520
+    "y": 16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,29 +73,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / full / btn-bottom-fill",
+  "name": "checkout / section-title",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "274F72DC-91A1-4533-8CBF-EBCE85374E7F",
-      "overrideName": "63501DA3-C709-4B67-BBC0-3D8C26E234F6_stringValue",
-      "value": "결제 진행하기"
+      "do_objectID": "F8CD158B-4944-44E6-BCF3-8F2DC0C43F6E",
+      "overrideName": "BCE025C4-6929-477A-B3E5-087BAA49750D_stringValue",
+      "value": "주문상품(1건)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D080ECB-1AC7-4128-AD74-AA87EFBF9621",
+      "overrideName": "5566D9DE-0DD6-4F28-9B25-38C6B64007C1_stringValue",
+      "value": " "
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F83220AB-C034-4774-BF6C-5C37B49A11D8",
+    "do_objectID": "9CC22D87-8507-4D0E-ABB6-D5A14E113E34",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0B6B08E9-3FA7-46BC-878A-58F855A0F6FD",
+  "symbolID": "4F6394E8-48EF-457D-9E5A-3DBF52731BF6",
   "verticalSpacing": 0
 }

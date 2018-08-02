@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "7A2E1DB2-C87B-4F4E-B2E2-019177B22E5F",
+  "booleanOperation": -1,
+  "do_objectID": "25288D48-7AC5-4475-A252-D7860E847E73",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4B3366BC-68F1-4883-9992-8D9C5C5E48D0",
+    "do_objectID": "31B12279-715E-4B04-B4CE-EBF4EC9A603A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4F66A6B2-B10F-4B48-954E-76EBEF67D5D9",
-    "height": 56,
-    "width": 320,
+    "do_objectID": "F1C4A952-5B1F-45F3-927E-C1A50DD14E48",
+    "height": 121,
+    "width": 375,
     "x": 0,
-    "y": 368
+    "y": 394
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,8 +73,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / agree-policy-text",
-  "nameIsFixed": false,
+  "name": "checkout / delivery-items-list-1item",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -84,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "54C8575B-D672-4D11-B767-ED972C29C084",
+    "do_objectID": "DF3C3F12-1B33-4E28-A49C-7F858ABC3014",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "14BCE8E2-C5E9-4976-AA83-0600139F5C0F",
+  "symbolID": "35C6E7A4-3845-4627-89AC-0BE269ABC9D2",
   "verticalSpacing": 0
 }

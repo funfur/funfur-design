@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "1B961BE5-E61E-46F6-AA5A-3AEB627C56DE",
+  "do_objectID": "208B1023-A905-43AB-8267-E12F14503A59",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A7B4319A-5B90-4755-8255-178A1CA8E588",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 320,
-    "x": 0,
-    "y": 370
+    "do_objectID": "D21A959E-5A5E-4546-B7E1-10D708EACBEF",
+    "height": 20,
+    "width": 288,
+    "x": 16,
+    "y": 77
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,22 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / agree-policy-text",
+  "name": "cart / price / text-product-subtext",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "92BB486A-45BD-4AF1-929D-75F9150CD558",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "14BCE8E2-C5E9-4976-AA83-0600139F5C0F",
+  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
   "verticalSpacing": 0
 }
