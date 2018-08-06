@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A99B04DC-5847-42A5-97E7-74B50E8448B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51622045-6C65-40AC-8AED-24D47D05E21D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFCC1E4D-7B37-438E-84C6-F13373820296",
+    "height": 568,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "[SYMBOL] / cart / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BB00662-3FED-4068-98CE-A417C698A568",
+      "overrideName": "DAEEE632-9B52-4A82-B3C9-82EA8E9C606C_symbolID",
+      "value": "99D7C9F6-2629-4B82-BBE7-2DA544AB7B7D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90F3483C-EC9F-4CD7-AD2D-394FA274FAF2",
+      "overrideName": "DAEEE632-9B52-4A82-B3C9-82EA8E9C606C/7ADE193D-C75C-4A28-A249-5281E2DFB4CB_stringValue",
+      "value": "수량 변경 완료"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9334A1B-CA71-47A2-82B7-8777CBC529CB",
+      "overrideName": "305F9025-1B85-49CF-BDFC-E23B60619F78/A936E49E-83D0-462C-9B1F-838197E20D5F/5E506E89-24E6-4E0F-B8B4-10E582B72221_symbolID",
+      "value": "334D8DEA-0C8F-4A6D-8B76-C4D637E6C5A9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6D571DD-FDA6-41AB-8640-D88D9D371C1C",
+      "overrideName": "305F9025-1B85-49CF-BDFC-E23B60619F78/A936E49E-83D0-462C-9B1F-838197E20D5F/5E506E89-24E6-4E0F-B8B4-10E582B72221/DC77028A-480A-44C9-946D-A80F2DCD5F80_symbolID",
+      "value": "622CC395-EC70-4CBF-BE26-BC61BB01B99A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88CABA5C-546E-4F3C-86CA-EDCAA1674568",
+      "overrideName": "305F9025-1B85-49CF-BDFC-E23B60619F78/A936E49E-83D0-462C-9B1F-838197E20D5F/731FD722-5E6E-4804-8F1C-0837F4CC74F1/71A8AB04-5724-4341-B6F1-9F85A3C75B52_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18555CE2-4ECF-4254-9AEB-8B5FB58CE11E",
+      "overrideName": "305F9025-1B85-49CF-BDFC-E23B60619F78/94FDF498-C314-4F8E-957D-A2C488229FCC/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "79,600원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3448E42E-7E5B-4E34-9322-DFDF041A0F66",
+      "overrideName": "6E7AD05C-8681-4827-AA44-627B1E750ED4/318758B9-2B9C-4D24-875E-949DAF332676/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "79,600원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D81EE8A1-FC4B-4684-B3F0-6DE988F45D58",
+      "overrideName": "6E7AD05C-8681-4827-AA44-627B1E750ED4/02C055E4-754A-4A91-8A0B-1A87EFE514A8/6BD7E54A-51A8-452B-8628-D446CCA0C02D_stringValue",
+      "value": "84,600원"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF896150-C6C5-4A21-894C-28390001C69B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A4D5AFB-9C41-4DD3-9D0B-8E358A232BD9",
+  "verticalSpacing": 0
+}

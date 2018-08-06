@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "5BA59C36-B523-4382-88C4-196DFEAA9778",
+  "do_objectID": "C6B09C95-9E8B-42A6-8194-66A83B6BA1F6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85BAE4EA-B80A-4475-8DBE-8E453166BF75",
+    "do_objectID": "32360337-FF53-4C75-BADB-E85E558DD4BD",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AC268309-16D8-443B-8BDE-9EEB440D1DCE",
-    "height": 20,
+    "do_objectID": "6C610407-C0BE-4BB1-A650-B1627582F74C",
+    "height": 100,
     "width": 320,
     "x": 0,
-    "y": 0
+    "y": 262
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,7 +73,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / misc / status-bar-base",
+  "name": "checkout / delivery-msg-on-checkout-page",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -84,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E6B72F97-AB66-48CC-BE40-D20E6962F03B",
+    "do_objectID": "D099ED7D-9190-4F4A-AB67-349DEF0E71DA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "50ACE2DF-41D7-4D23-ACDC-1A226AEF4902",
+  "symbolID": "D26109E8-BBE2-4342-8295-81BE37FE185C",
   "verticalSpacing": 0
 }

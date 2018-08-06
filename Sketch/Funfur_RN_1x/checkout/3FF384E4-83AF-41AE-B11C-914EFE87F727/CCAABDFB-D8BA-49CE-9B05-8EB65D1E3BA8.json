@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "970F2BF3-BE9E-4206-96A4-E09FADE8F335",
+  "do_objectID": "CCAABDFB-D8BA-49CE-9B05-8EB65D1E3BA8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D17671D8-5938-44C2-B034-3E60B8DB366F",
+    "do_objectID": "E8F429ED-F74F-497C-AF1C-58096BDCEE70",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7A1E88D7-9491-47FF-9284-CE3E578BF5CB",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 20
+    "do_objectID": "35720A3A-6070-4519-A573-1B79FA2E7C0C",
+    "height": 163,
+    "width": 256,
+    "x": 32,
+    "y": 203
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,26 +73,44 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / center-text",
-  "nameIsFixed": false,
+  "name": "modal / modal-confirm-1line",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D18238CF-ADEA-4BAE-BC44-CA8C21263A81",
-      "overrideName": "9CC620A2-F359-4C76-BDF7-49AA5F08FA92_stringValue",
-      "value": "주문 및 결제"
+      "do_objectID": "64B92903-8B71-463A-BD92-C79E39288F73",
+      "overrideName": "6BEE0253-8A50-4951-821C-47BB4FF1167B/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
+      "value": "주문을 취소하시겠습니까?"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E0812CE8-5016-4ED3-AE62-8636AA9D15E7",
-      "overrideName": "181587AB-F1E9-4BF5-A893-2C0A3144AF61_stringValue",
-      "value": " "
+      "do_objectID": "E21DFDA7-4D36-42D6-B30B-0545CC59540E",
+      "overrideName": "50E3CBC2-ECA0-499C-9D3D-D587344824A4_stringValue",
+      "value": "지금 주문을 취소하시면, 작성하신 주문내용이 모두 사라집니다."
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "66C4AF8D-A603-4004-AF93-C186B3B2B8E8",
-      "overrideName": "BD2C365D-9C4A-4BC2-B997-09A5BBCF14E1_symbolID",
-      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+      "do_objectID": "BD2A54F5-4E2B-43D6-A77D-A3B19D170143",
+      "overrideName": "A67027F0-963C-4D9F-AED2-7249F22C7D2B_symbolID",
+      "value": "7D63F83D-0567-43CC-9144-E030757365AF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C45C461F-5079-4EF7-88F1-09678DA3BBF8",
+      "overrideName": "F96BC77F-059D-41B1-AECE-B108587078DC_symbolID",
+      "value": "FF480080-CE5A-4C76-81CC-7772DDE4D1A5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6FDB1E7-6C92-4DE2-8E40-BC900B72B615",
+      "overrideName": "F96BC77F-059D-41B1-AECE-B108587078DC/B3425872-E79D-49B2-83D7-0FA6C9DC048D_stringValue",
+      "value": "계속 진행하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D842FAC4-0BD9-4608-8DFC-9854A13154A0",
+      "overrideName": "A67027F0-963C-4D9F-AED2-7249F22C7D2B/4DC2F886-DED7-4CA9-AF93-732D27BDCADD_stringValue",
+      "value": "주문 취소하기"
     }
   ],
   "resizingConstraint": 63,
@@ -102,12 +120,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BCF4C9A2-981F-4B3B-8DFC-0620A2AEF192",
+    "do_objectID": "61982D00-3D43-4A7A-B5F0-BEE35D790BDC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7D00F393-37DD-4201-9E38-0B405F875A58",
+  "symbolID": "1B62FC91-64BE-4A07-A4D6-7284A095093E",
   "verticalSpacing": 0
 }

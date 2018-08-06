@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "95FB9034-52A3-41A8-844A-C2F226B50C9D",
+  "do_objectID": "BE0869D2-AE0B-4FD0-BAC6-4BBD3B7D6F0F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "65ED1FE9-DCEA-4298-8FF9-C1CBA0ACC3B9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "do_objectID": "3B6C7729-EEE2-452C-B5FC-7A71D74C1245",
+    "height": 178,
     "width": 320,
     "x": 0,
-    "y": 262
+    "y": 76
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,7 +73,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / delivery-msg-on-checkout-page",
+  "name": "checkout / address-list-on-checkout-page",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -82,11 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E128E1B8-42F0-460B-B8E2-FC255CD7E622",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D26109E8-BBE2-4342-8295-81BE37FE185C",
+  "symbolID": "255FFA88-FD19-4D27-9FCF-7E6FC19A3F5C",
   "verticalSpacing": 0
 }
