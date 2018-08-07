@@ -57,6 +57,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "3E936525-A341-40C8-9440-551D9A863A51"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -80,7 +85,7 @@
       "_class": "overrideValue",
       "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
       "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "내 정보 수정"
+      "value": "프로필 수정"
     }
   ],
   "resizingConstraint": 63,
