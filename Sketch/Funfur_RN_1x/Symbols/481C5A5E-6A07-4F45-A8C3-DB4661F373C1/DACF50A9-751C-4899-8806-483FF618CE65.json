@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DACF50A9-751C-4899-8806-483FF618CE65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFF94F0F-CC02-451D-9353-08871B0F2077",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F34B449B-4A35-4670-81B7-47B2462BDEF8",
+    "height": 212,
+    "width": 128,
+    "x": 264,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / basic-custom-order-each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5189D620-343A-4509-88B8-DD393D550DBC",
+      "overrideName": "A01919A2-A665-44FE-906E-EB0F9E290B0A/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f71936f7a8d045bb770c585f93a160637125b0aa.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B44C590-192B-4F0F-BCD7-BFD82740AAC0",
+      "overrideName": "B9D4A5E4-165B-4364-86C0-21B131C74BFF_stringValue",
+      "value": "상아 코듀로이 암..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A440B533-AD08-4617-8016-F02A6F3C90B9",
+      "overrideName": "CC24614F-0BA4-4666-9D1A-BBE01B1315D3_stringValue",
+      "value": "99,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75830754-A48E-4C27-8B43-4CAC9A9EF595",
+      "overrideName": "2A51521D-EF74-42FB-AF4D-81680215E985/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "36"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8EB435D-B545-49BF-AC3D-A5DEA67418D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8F689BB-4D12-40A9-894A-4C1C207E96D9",
+  "verticalSpacing": 0
+}

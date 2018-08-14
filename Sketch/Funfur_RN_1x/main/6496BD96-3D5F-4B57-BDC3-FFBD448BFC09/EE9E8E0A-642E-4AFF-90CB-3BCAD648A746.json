@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "EE9E8E0A-642E-4AFF-90CB-3BCAD648A746",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "616ADEB5-BCF6-4674-AC41-0D9D616BD555",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3047A655-13CB-4EFF-A5A6-C90B08E4B99C",
+    "height": 248,
+    "width": 160,
+    "x": 0,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / list / each-left-custom-order",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5812FA6-7BCB-4FF7-A75A-5F736F5987C9",
+      "overrideName": "4FE94A2A-22DC-4092-9B0C-6D5E7807EAC2/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/33eb2a99cfb866e4c2cf61a709277e68d16df4b0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F735142-654C-4AC7-992C-6C3115280B87",
+      "overrideName": "B0BCFC50-DE4E-4EFD-86A2-8B470411B474_stringValue",
+      "value": "솔리드 튤립 쉐이프 암..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B1E43FA-7EC7-4261-92F3-49905FF51E55",
+      "overrideName": "6F1739AB-B86A-4AE8-9486-BEB2CB6B9305_stringValue",
+      "value": "89,000원"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C1D550A-4F5A-4F16-B176-E280F11A3477",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37265895-ECD1-4A6B-AC07-7B5678436B0D",
+  "verticalSpacing": 0
+}

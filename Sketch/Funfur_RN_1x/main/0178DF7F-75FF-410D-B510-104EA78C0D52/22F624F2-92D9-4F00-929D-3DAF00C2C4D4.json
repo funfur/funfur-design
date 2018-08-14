@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2A6D9A7-2632-4FE8-A4CA-59F01FAD602F",
-    "height": 210,
+    "height": 248,
     "width": 160,
     "x": 0,
-    "y": 338
+    "y": 376
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,13 +73,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / list / each-left",
+  "name": "store / list / each-left-custom-order",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1B9CF92E-BE04-4724-A75C-BFCA2478492E",
-      "overrideName": "EA7C5E5D-4D10-4DFA-AE90-7F13A638A152/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "00596DE9-E989-41D5-83DB-1D5EE8FA672B",
+      "overrideName": "4FE94A2A-22DC-4092-9B0C-6D5E7807EAC2/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/a13f1203839bb4d5b599d8a0523ac8de01c7b66d.png",
@@ -88,14 +88,14 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A2BE38A4-AA80-4ABF-B029-351336D8FCBF",
-      "overrideName": "6367FBFE-C62A-4DFB-91BC-17F6F0E8D32D_stringValue",
+      "do_objectID": "C1B71101-DFC9-4DAD-B30A-C365F1B7253D",
+      "overrideName": "B0BCFC50-DE4E-4EFD-86A2-8B470411B474_stringValue",
       "value": "클래식 원목 수납장"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "31C5869E-5FBC-40F2-915F-4EB10536D594",
-      "overrideName": "7A26AB42-54E3-41E0-91F3-008A9621F92D_stringValue",
+      "do_objectID": "86A668BA-BB50-4558-9DF9-B88FE4145016",
+      "overrideName": "6F1739AB-B86A-4AE8-9486-BEB2CB6B9305_stringValue",
       "value": "340,500원"
     }
   ],
@@ -112,6 +112,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1795EDC4-B7F0-4958-980F-9DEF5D781361",
+  "symbolID": "37265895-ECD1-4A6B-AC07-7B5678436B0D",
   "verticalSpacing": 0
 }

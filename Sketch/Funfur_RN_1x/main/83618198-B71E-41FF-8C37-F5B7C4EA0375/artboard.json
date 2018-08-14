@@ -50,10 +50,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0CAEC633-702A-4835-A6A1-E7340492F223"
-    },
-    {
-      "class": "symbolInstance",
       "id": "70980D91-6F01-4462-B852-9190A5BB379B"
     },
     {
@@ -71,6 +67,10 @@
     {
       "class": "symbolInstance",
       "id": "DE7072AC-8A55-480D-8577-3B007DFD564C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B5832C3-8568-4DB0-A42B-F1029624F751"
     }
   ],
   "name": "main / horizontal-swipe-swipe",

@@ -61,7 +61,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7E460BBF-2098-484C-93D6-3D9A4EEE0D57",
-    "height": 210,
+    "height": 248,
     "width": 160,
     "x": 0,
     "y": 128
@@ -73,13 +73,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / list / each-left",
+  "name": "store / list / each-left-custom-order",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0CB04B0C-677E-4F15-9D24-D3573D43D1B1",
-      "overrideName": "EA7C5E5D-4D10-4DFA-AE90-7F13A638A152/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "C5812FA6-7BCB-4FF7-A75A-5F736F5987C9",
+      "overrideName": "4FE94A2A-22DC-4092-9B0C-6D5E7807EAC2/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/33eb2a99cfb866e4c2cf61a709277e68d16df4b0.png",
@@ -88,14 +88,14 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B682F296-386E-4140-A9EF-60691238F5D8",
-      "overrideName": "6367FBFE-C62A-4DFB-91BC-17F6F0E8D32D_stringValue",
+      "do_objectID": "3F735142-654C-4AC7-992C-6C3115280B87",
+      "overrideName": "B0BCFC50-DE4E-4EFD-86A2-8B470411B474_stringValue",
       "value": "솔리드 튤립 쉐이프 암..."
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8B198455-3B72-4093-8829-E24F7A1DFC3E",
-      "overrideName": "7A26AB42-54E3-41E0-91F3-008A9621F92D_stringValue",
+      "do_objectID": "1B1E43FA-7EC7-4261-92F3-49905FF51E55",
+      "overrideName": "6F1739AB-B86A-4AE8-9486-BEB2CB6B9305_stringValue",
       "value": "89,000원"
     }
   ],
@@ -112,6 +112,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1795EDC4-B7F0-4958-980F-9DEF5D781361",
+  "symbolID": "37265895-ECD1-4A6B-AC07-7B5678436B0D",
   "verticalSpacing": 0
 }

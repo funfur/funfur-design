@@ -61,7 +61,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "17203B06-A848-4B69-97E6-C3444C3D2D0D",
-    "height": 210,
+    "height": 248,
     "width": 160,
     "x": 160,
     "y": 128
@@ -73,13 +73,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / list / each-right",
+  "name": "store / list / each-right-custom-order",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "BE1E403F-97DB-4C28-B2E0-860F4A240E83",
-      "overrideName": "6A222D45-E99A-4E54-97C9-890F7861141E/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "6FDB858A-8323-4DA0-8839-884B640B366F",
+      "overrideName": "BBD7C1B5-6A70-436A-88A2-10814DAC0CA8/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/f1b5e5877095f0294eb872cfe2c5e7ae404a2e63.png",
@@ -88,14 +88,14 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "657ECD26-A45E-48D7-9342-2C909A214BC8",
-      "overrideName": "E5E34954-B35B-49A2-9495-04A39F1B3684_stringValue",
+      "do_objectID": "A10D3649-B890-40E0-A54A-0A4914764C41",
+      "overrideName": "9DD48230-58EA-451B-B061-5D308D9D7F4C_stringValue",
       "value": "168,000원"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2217468A-91DE-4F39-AC29-BA85E45DCD2B",
-      "overrideName": "F8C0AD50-0676-4A65-8669-A66A61A9C429_stringValue",
+      "do_objectID": "33C17541-8538-4115-AD82-A2230F840FF5",
+      "overrideName": "5F750444-F0CD-47FA-8D50-23119F90FB80_stringValue",
       "value": "빈티지 철제 문서 수납함"
     }
   ],
@@ -112,6 +112,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3FB69D7C-E510-4BB1-BEC6-1396D25996BB",
+  "symbolID": "FE523768-CFA8-4CF3-A8A4-7D12C1588A2D",
   "verticalSpacing": 0
 }

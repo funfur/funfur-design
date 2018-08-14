@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4F11F162-CE2F-456E-8CA9-3FDD84962A96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7BB2106-DED3-4E35-8D62-6AE5B01C0CCC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFB1ABB6-465A-4780-816D-EBCD4E02313E",
+    "height": 248,
+    "width": 160,
+    "x": 160,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / list / each-right-custom-order",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FDB858A-8323-4DA0-8839-884B640B366F",
+      "overrideName": "BBD7C1B5-6A70-436A-88A2-10814DAC0CA8/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f1b5e5877095f0294eb872cfe2c5e7ae404a2e63.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A10D3649-B890-40E0-A54A-0A4914764C41",
+      "overrideName": "9DD48230-58EA-451B-B061-5D308D9D7F4C_stringValue",
+      "value": "168,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33C17541-8538-4115-AD82-A2230F840FF5",
+      "overrideName": "5F750444-F0CD-47FA-8D50-23119F90FB80_stringValue",
+      "value": "빈티지 철제 문서 수납함"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73502518-FC8E-479F-8AC0-074F7CC384E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE523768-CFA8-4CF3-A8A4-7D12C1588A2D",
+  "verticalSpacing": 0
+}

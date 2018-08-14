@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0339B1FF-6B0C-4486-9391-C3FF23F6BD1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF180D86-B09B-491F-82B2-596178AAD271",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA0EEE47-2D5F-425E-8179-5A34FCE45C12",
+    "height": 212,
+    "width": 128,
+    "x": 136,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / basic-custom-order-each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7546235-2E69-484D-AD37-9438DD2E5BD9",
+      "overrideName": "A01919A2-A665-44FE-906E-EB0F9E290B0A/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db8e1fab5a30d1e102a4c038c35123bd29a1a066.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89625A11-5173-4F49-8D9A-A4747E03D846",
+      "overrideName": "B9D4A5E4-165B-4364-86C0-21B131C74BFF_stringValue",
+      "value": "옐로우캡 심플체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE27FAEE-AB1A-4140-A2DA-A6793B88FABD",
+      "overrideName": "CC24614F-0BA4-4666-9D1A-BBE01B1315D3_stringValue",
+      "value": "120,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B6BF294-33A3-4357-81F0-1CA9360E078E",
+      "overrideName": "2A51521D-EF74-42FB-AF4D-81680215E985/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "16"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BB27AB4-AEE9-4BB4-8BBC-7F3A2133B30B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8F689BB-4D12-40A9-894A-4C1C207E96D9",
+  "verticalSpacing": 0
+}
