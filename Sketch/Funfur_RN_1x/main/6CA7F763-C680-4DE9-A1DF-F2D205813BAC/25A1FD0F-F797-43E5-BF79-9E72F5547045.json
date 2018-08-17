@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "25A1FD0F-F797-43E5-BF79-9E72F5547045",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8E3656E-33E8-47DC-A5A1-732FD8CD0412",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07724026-6D2A-4340-A944-030374F661F4",
+    "height": 118,
+    "width": 320,
+    "x": 0,
+    "y": 318
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / store-introduce-text-4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C57E9D5-A88B-4DCF-B3DD-C92ADD0F2B9E",
+      "overrideName": "1F1C98CD-EDF7-4852-9E2E-92063C0F5A2F_stringValue",
+      "value": "뻔뻐 서비스 런칭 이벤트의 일환으로 사용자 피드백을 받고있습니다. 피드백을 남겨주신 분들께는, 추첨을 통해 뻔뻐의 입점 공방인 '우드포유'의 미키도마를 선물로 드립니다!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92490AC0-EBFD-4203-8AB1-96FFA4F744B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62F9403F-7DD1-4684-AE79-D09AA6B6C816",
+  "verticalSpacing": 0
+}

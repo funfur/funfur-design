@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5019,
+  "changeIdentifier": 5244,
   "do_objectID": "A436B146-88B3-4F21-8536-7EE391ABB9A3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -67,10 +67,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 211,
-    "width": 272,
+    "height": 220,
+    "width": 288,
     "x": 3214,
-    "y": 2117
+    "y": 5553
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -100,8 +100,8 @@
       "id": "EE30ED83-2546-4C67-ABD0-0052AFED7FC0"
     },
     {
-      "class": "shapeGroup",
-      "id": "7A6BF9C2-1FF6-42FA-B600-1D4023786386"
+      "class": "symbolInstance",
+      "id": "7734A7F2-DD99-48F0-87DD-9821CB4DCEB3"
     }
   ],
   "name": "main / horizontal / full-width-image-base",
