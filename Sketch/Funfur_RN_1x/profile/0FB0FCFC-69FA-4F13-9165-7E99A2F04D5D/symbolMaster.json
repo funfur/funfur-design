@@ -8,11 +8,56 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3599,
+  "changeIdentifier": 3701,
   "do_objectID": "0FB0FCFC-69FA-4F13-9165-7E99A2F04D5D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -28,7 +73,7 @@
     "y": 1202
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -80,11 +125,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "57C9119D-C8EE-4BA3-B549-F1DCAFD32AFE"
+      "id": "CB37AAFE-2FD8-4B9C-AF9C-05EE2EDD8CAD"
     },
     {
       "class": "symbolInstance",
-      "id": "D9D4BEC4-3C02-42A6-8A2D-F3FE2E3D557D"
+      "id": "57C9119D-C8EE-4BA3-B549-F1DCAFD32AFE"
     },
     {
       "class": "symbolInstance",

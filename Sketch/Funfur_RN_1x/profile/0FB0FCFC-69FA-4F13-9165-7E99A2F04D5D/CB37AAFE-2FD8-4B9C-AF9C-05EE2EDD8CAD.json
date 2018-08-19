@@ -1,18 +1,10 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "do_objectID": "A5927A4D-B159-434E-9890-7E7D34A327A5",
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "1CB09F6A-A361-416A-9EA3-2BFE24616E28",
+  "do_objectID": "CB37AAFE-2FD8-4B9C-AF9C-05EE2EDD8CAD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0CC22288-73B6-4C0D-95FE-9DA787CAD161",
+    "do_objectID": "73D5DC3C-3F01-4F35-8196-579F658AE9EF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -65,66 +57,51 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "3E936525-A341-40C8-9440-551D9A863A51",
+    "do_objectID": "52C98FBC-9A8F-470F-89A3-BA3A6DD0D0FC"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CE393812-37EB-42AC-B7DE-636792E01FCE",
-    "height": 568,
+    "do_objectID": "837929D8-99D4-4ED3-B8B4-31091061A1E0",
+    "height": 48,
     "width": 320,
-    "x": 1277,
-    "y": -134
+    "x": 0,
+    "y": 80
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "do_objectID": "03571444-2F5B-4E6C-A6CB-D8805624C0E7",
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "profile / submenu-sub-each",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "3E5CA679-C318-4478-8264-2460966DA473"
+      "_class": "overrideValue",
+      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
+      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
+      "value": "QR코드 스캔"
     }
   ],
-  "name": "profile / order-edit-address",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 568,
-    "name": "iPhone SE",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4097F35F-064C-4016-9FBB-4FBE57D11FFD",
+    "do_objectID": "5F1EC9B7-1EFE-4B42-8F9E-631076F73E8E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "do_objectID": "32297C28-A258-49F8-9B38-E5047EA29C54",
-    "guides": [
-    ]
-  }
+  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
+  "verticalSpacing": 0
 }
