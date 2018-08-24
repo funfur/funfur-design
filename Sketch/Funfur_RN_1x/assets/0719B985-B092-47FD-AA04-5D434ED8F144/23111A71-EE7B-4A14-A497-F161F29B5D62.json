@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "72B41817-3D25-49C9-9DF2-2D9F43868676",
+  "booleanOperation": -1,
+  "do_objectID": "23111A71-EE7B-4A14-A497-F161F29B5D62",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F148750A-E42C-4047-9D91-279FE1C1FA8B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -57,19 +56,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "79DB4804-2818-4F3F-BA92-CA10D8B9FDED"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DBB95FC4-7FAE-4E2A-9841-8A93E61EEB70",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 452
+    "height": 24,
+    "width": 24,
+    "x": 912,
+    "y": 334
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -78,15 +71,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-sub-each",
-  "nameIsFixed": true,
+  "name": "-g-ic / ic-kakao-grey",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
-      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "교환ㆍ환불신청내역"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,12 +82,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C416D414-9AD5-4374-81C7-9419D80CA9BB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
+  "symbolID": "57422375-82DE-4305-9533-B430D35F475A",
   "verticalSpacing": 0
 }
