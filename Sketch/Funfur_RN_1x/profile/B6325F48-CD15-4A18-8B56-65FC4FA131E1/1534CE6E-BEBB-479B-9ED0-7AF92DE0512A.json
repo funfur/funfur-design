@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1534CE6E-BEBB-479B-9ED0-7AF92DE0512A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E19F2A75-2993-4094-8FA5-51AF031E31EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49963D01-DBC5-4971-B1FE-CBE51DE524C1",
+    "height": 144,
+    "width": 320,
+    "x": 0,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sheet / sheet-body-2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA8C36D8-840E-4437-8246-982589F44C0F",
+      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A_symbolID",
+      "value": "D9A96E9D-6AF6-4363-AF0C-409812D44877"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F00E0A2D-6982-4A98-AAE0-1EF825EBA2D9",
+      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
+      "value": "57422375-82DE-4305-9533-B430D35F475A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6033DDD-C0A6-4357-B11A-7D0ED664E3A3",
+      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "제조업체 카카오톡 연락하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F601BFC4-E2D3-44CD-A26C-6A1823B68D70",
+      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB_symbolID",
+      "value": "D9A96E9D-6AF6-4363-AF0C-409812D44877"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "648949C7-26BE-4669-8F35-646A0EAE0E4E",
+      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "제조업체에 전화하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80CFB812-DB53-47C8-B0D8-E1CF171CF5BD",
+      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/F206179C-AEB9-4686-9196-51332F53EF6D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCEA62D3-B711-4BEC-8DF5-6DF0894F7FC2",
+      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
+      "value": "F122755A-112D-4841-98AB-F698CE66E07D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07DE9C18-D1C0-43E6-A7F6-0BB3BFB4739C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F715BC1-8540-4B78-BEDB-50D0F2A5AE3D",
+  "verticalSpacing": 0
+}
