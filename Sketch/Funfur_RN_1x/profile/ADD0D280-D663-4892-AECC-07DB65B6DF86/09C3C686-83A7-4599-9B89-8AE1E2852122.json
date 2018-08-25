@@ -1,0 +1,135 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "09C3C686-83A7-4599-9B89-8AE1E2852122",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3FF5308-942F-4446-A359-0035ACBDCF63",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "760AC993-4003-4E41-AAF4-ED99B28D9A1C",
+    "height": 116,
+    "width": 320,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / history / product-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB8CA6E3-8F00-451C-BD16-4DD4A38AD6CC",
+      "overrideName": "3BDBB2C9-BA21-42D6-BD30-E84316335CCD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72F9A1FD-8FD6-4B2A-A4FC-818382549416",
+      "overrideName": "8FD1D3E6-4E73-4914-AC40-B8A5B05AAA4E/02AB67EF-2343-42E9-9334-8952B6A6C55E_stringValue",
+      "value": "1개, 환불신청 반려"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E97E120-613A-40EA-A9A2-90455E2B9FB4",
+      "overrideName": "EF83534C-0F55-4B9D-BDB8-0AC0CA861625/9AE6340D-344B-43A8-A76E-93E4882BDB8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/802b33d5ddea47a3346f8ded1beb858ee11e2aac.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2F2F3C2-8F59-4B09-9B41-C3BD8C15E268",
+      "overrideName": "27028081-15E6-4012-AA56-A16A886C5E66/4D55F225-DF30-4AB4-B7AD-0E267FA0BAF4_stringValue",
+      "value": "솔리드 튤립 쉐이프 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66418C64-9DBC-4B5D-B18F-39B01A7C770D",
+      "overrideName": "81BF2FF6-EF6C-4264-B341-D40544D7168D/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "89,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67A12D81-AB74-4670-BD71-23300E638C28",
+      "overrideName": "32A13704-886B-4F31-AB82-96E0E908D77A/02AB67EF-2343-42E9-9334-8952B6A6C55E_stringValue",
+      "value": "알망스타일 가구"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77814A51-6E76-4AE2-9B20-352EC7F27B18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "858A411C-4568-4135-A708-0202F13BFB5D",
+  "verticalSpacing": 0
+}
