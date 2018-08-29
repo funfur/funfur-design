@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "12DE5714-BF51-4BB3-8506-3B3B2FA43313",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4329DA6-6A0F-4EF3-B37B-5BC0E0AAFAE9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23D2BF44-FB56-4AD8-BA75-9A25A7941FD3",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / form / textbox-error",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "294EA749-FB53-4AD7-91BA-A7ED72D5FB82",
+      "overrideName": "9D22E2EF-7947-4778-BB87-D9C31DBDBEF2_stringValue",
+      "value": "전화번호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7764DD88-433B-4392-8EAD-25DB76BF8907",
+      "overrideName": "36D4E2C7-9C8E-41E1-934E-CD332F651601/25BE056F-491B-4D9F-A368-E9F3BA8473AF_stringValue",
+      "value": "010-2994-2758"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6622375C-E2C3-439E-ABE1-57938D59D340",
+      "overrideName": "0ED821F3-F265-4AEF-8032-B98A42AEE196_stringValue",
+      "value": "이미 등록되어있는 전화번호입니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52C691AF-B86F-4DC6-AA22-2ADD8E66F3D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BDA89C78-B936-4D62-98F6-57F78FB35E54",
+  "verticalSpacing": 0
+}
