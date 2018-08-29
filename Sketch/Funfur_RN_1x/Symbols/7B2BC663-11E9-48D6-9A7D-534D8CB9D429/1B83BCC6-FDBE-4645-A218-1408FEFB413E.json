@@ -73,20 +73,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-price-each copy",
-  "nameIsFixed": false,
+  "name": "cart / price / text-price-each-shipping",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3DDE8A6F-8C1D-4C8C-B2DB-6B191A4D7922",
-      "overrideName": "1828D706-CB24-40DA-B845-7BDBB54B3CA7_stringValue",
+      "do_objectID": "2F126A52-676F-42DC-8BF4-8F550692F4B2",
+      "overrideName": "FB759E6D-5394-4D6A-982B-EAB3D22D51A2_stringValue",
       "value": "총 배송비"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CF9A23F0-1459-43B8-979B-3D2D6E55FB76",
-      "overrideName": "3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
-      "value": "+ 5,000원"
     }
   ],
   "resizingConstraint": 11,
@@ -102,6 +96,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "96D2EB9D-D8BE-4EED-A58A-D98EB234FD2E",
+  "symbolID": "D294A920-EDC0-4040-A213-92116D3181FF",
   "verticalSpacing": 0
 }

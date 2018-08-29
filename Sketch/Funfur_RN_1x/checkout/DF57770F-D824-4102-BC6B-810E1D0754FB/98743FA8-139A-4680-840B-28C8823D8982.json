@@ -76,6 +76,24 @@
   "name": "cart / price / price-card-base",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DAE6922-C60E-4FBC-AD1D-728EFB0D99A9",
+      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E_symbolID",
+      "value": "96D2EB9D-D8BE-4EED-A58A-D98EB234FD2E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2AA7123-3442-4E02-8800-1A4FBB7DE8F0",
+      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/1828D706-CB24-40DA-B845-7BDBB54B3CA7_stringValue",
+      "value": "총 배송비"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C0A4260-284F-43DD-838A-74A7B1E9C2B2",
+      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
+      "value": "+ 5,000원"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
