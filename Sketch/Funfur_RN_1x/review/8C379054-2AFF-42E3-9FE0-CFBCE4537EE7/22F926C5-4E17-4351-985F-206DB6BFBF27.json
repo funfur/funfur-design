@@ -59,10 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 152,
     "width": 320,
     "x": 0,
-    "y": 164
+    "y": 208
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -85,6 +85,12 @@
       "do_objectID": "48721691-4DBA-4158-90A2-5B056EA12613",
       "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
       "value": "누군가는 감사해 할 당신의 진짜 리뷰\n소중한 후기를 남겨주셔서 감사합니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B2CDB27-439D-45B0-83BF-7753E56ECD84",
+      "overrideName": "884240CB-D07C-40EB-A888-069640DDC2A0_symbolID",
+      "value": "154DCD01-49CC-4B13-9A38-BC72BCDEB865"
     }
   ],
   "resizingConstraint": 63,

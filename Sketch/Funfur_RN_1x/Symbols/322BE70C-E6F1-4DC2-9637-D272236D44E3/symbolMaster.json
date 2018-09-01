@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4376,
+  "changeIdentifier": 4550,
   "do_objectID": "322BE70C-E6F1-4DC2-9637-D272236D44E3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -67,13 +67,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 152,
     "width": 320,
     "x": 3734,
-    "y": -262
+    "y": -138
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -89,7 +89,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,12 +97,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C44B396A-C434-4A1D-94E4-296BF222CF4C"
+      "id": "884240CB-D07C-40EB-A888-069640DDC2A0"
     }
   ],
   "name": "search / no-result-symbol",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B09E14D1-5163-494B-8B12-45E9BBA28CE8",
-    "height": 240,
+    "height": 152,
     "width": 320,
     "x": 0,
-    "y": 164
+    "y": 208
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -87,6 +87,12 @@
       "do_objectID": "9D923166-9394-4CCC-9B39-9B251CC84535",
       "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
       "value": "주문 및 결제가 완료되었어요!\n빠르고 안전하게 배송해드리겠습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "468D0AEC-334F-40CE-A397-DA7BA4CA4D91",
+      "overrideName": "884240CB-D07C-40EB-A888-069640DDC2A0_symbolID",
+      "value": "1D48EE7A-0AFE-4E3E-B2F9-432CFE5D2DB2"
     }
   ],
   "resizingConstraint": 63,

@@ -75,7 +75,7 @@
     "y": 709
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -95,27 +95,31 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "BF964E9D-5CA4-41B7-9E0F-D82024E2876A"
+      "id": "84580367-0AB8-45B5-AA6E-4D0E2EF80C12"
     },
     {
       "class": "symbolInstance",
-      "id": "8C46BD3D-880D-404E-BECD-451C87E63183"
+      "id": "F4AB7B33-07B4-406A-A4F5-DE04E855EC0B"
     },
     {
       "class": "symbolInstance",
-      "id": "165BEB6C-83F3-455F-8FE9-1E402147F4FD"
+      "id": "54702C3D-D5AE-4579-AB95-18CD26B3C2D0"
     },
     {
       "class": "symbolInstance",
-      "id": "777584DE-DF7C-429D-BC3A-DAED78884E34"
+      "id": "C7DC553C-1EA0-4DFA-BB3B-B4A7896E3C36"
     },
     {
       "class": "symbolInstance",
-      "id": "730122BD-9BE9-4750-AF0A-043B7E1CD195"
+      "id": "12B79D04-60F7-4294-B4F9-4EF9D9144C62"
     },
     {
       "class": "symbolInstance",
-      "id": "17BE17C3-42D5-4E76-AB1B-91D6BC76D1EC"
+      "id": "C2D91DC1-1B8F-480C-8493-818CEC57DD6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A45E63F7-35F0-4E44-A43D-30D55D429478"
     }
   ],
   "name": "icons-lg",

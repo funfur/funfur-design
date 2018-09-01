@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "47513327-6562-4A98-84E0-948628679998",
-    "height": 240,
+    "height": 152,
     "width": 320,
     "x": 0,
-    "y": 164
+    "y": 208
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -81,6 +81,12 @@
       "do_objectID": "71FBFFEB-74DA-4518-B4C5-A4AE385F33FC",
       "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
       "value": "저장된 배송지가 없어요. 간편한 주문을 위해,\n자주 사용하는 배송지를 추가해보세요!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA32447D-EA8C-4815-9B3F-D6B296FCC9A6",
+      "overrideName": "884240CB-D07C-40EB-A888-069640DDC2A0_symbolID",
+      "value": "3A6E49CE-B690-4541-B20D-495CE06FE041"
     }
   ],
   "resizingConstraint": 63,

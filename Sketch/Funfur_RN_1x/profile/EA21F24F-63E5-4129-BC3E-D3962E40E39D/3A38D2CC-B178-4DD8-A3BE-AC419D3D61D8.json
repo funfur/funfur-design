@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CE4CA4F5-6CA1-4238-B416-95B24069CAF3",
-    "height": 240,
+    "height": 152,
     "width": 320,
     "x": 0,
-    "y": 164
+    "y": 208
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -87,6 +87,12 @@
       "do_objectID": "9D923166-9394-4CCC-9B39-9B251CC84535",
       "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
       "value": "환불신청이 완료되었습니다. 빠른 처리 후,\n환불 진행상황에 대해 안내드리겠습니다."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4BCBC00-366D-4B0A-8E67-C827591DF50D",
+      "overrideName": "884240CB-D07C-40EB-A888-069640DDC2A0_symbolID",
+      "value": "65EAAA79-2D05-4ABC-90EC-6B085E82B700"
     }
   ],
   "resizingConstraint": 63,
