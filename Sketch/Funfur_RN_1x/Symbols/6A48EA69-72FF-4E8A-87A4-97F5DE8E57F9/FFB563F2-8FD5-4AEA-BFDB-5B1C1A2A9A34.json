@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FFB563F2-8FD5-4AEA-BFDB-5B1C1A2A9A34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99FF295B-EE95-4103-82FE-57F0DBC587F4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AED38743-BEC6-4F10-9D71-39FF97EEC8AF",
+    "height": 20,
+    "width": 320,
+    "x": 0,
+    "y": 66
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / price / text-price-shipping-each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DAA6A9A-6759-4D35-9201-387546F3B5F5",
+      "overrideName": "F9D813AC-E962-465F-A7A2-B7DD78EAB04E_stringValue",
+      "value": "우든 코튼 블랭킷 흔들의자"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6343E813-207E-454D-B0D5-8C86E46B0FC4",
+      "overrideName": "26DE8D21-AE5B-4196-B584-991C36C91F1A_stringValue",
+      "value": "+ 30,000원"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A59F3617-DE54-4730-93BA-89F1BE8CDFBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A7B5F45-C037-4BCC-A729-4606E9389008",
+  "verticalSpacing": 0
+}

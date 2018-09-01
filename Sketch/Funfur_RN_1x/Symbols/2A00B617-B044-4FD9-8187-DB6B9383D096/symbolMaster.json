@@ -1,10 +1,19 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A033A5B5-CB4C-46DF-BB3E-DFAC90BB88F5",
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": 0,
-  "do_objectID": "98743FA8-139A-4680-840B-28C8823D8982",
+  "changeIdentifier": 4616,
+  "do_objectID": "2A00B617-B044-4FD9-8187-DB6B9383D096",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "56C5F675-FF87-4B46-BCCD-85CA815C3132",
+    "do_objectID": "0A5D6883-5D3B-4CE8-9BE4-A265F9A76B31",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,54 +69,62 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F916A8D2-1A7D-4D25-A6FA-F5058E627B09",
-    "height": 116,
+    "do_objectID": "E1CFD693-B4CE-4632-9860-F1890F77EDD9",
+    "height": 20,
     "width": 320,
-    "x": 0,
-    "y": 404
+    "x": 9382,
+    "y": 2616
   },
-  "horizontalSpacing": 0,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "60B5C3FF-345D-4BD9-A89E-E87ECD300C84",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "cart / price / price-card-base",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "4DAE6922-C60E-4FBC-AD1D-728EFB0D99A9",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E_symbolID",
-      "value": "96D2EB9D-D8BE-4EED-A58A-D98EB234FD2E"
+      "class": "text",
+      "id": "26DE8D21-AE5B-4196-B584-991C36C91F1A"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "C2AA7123-3442-4E02-8800-1A4FBB7DE8F0",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/1828D706-CB24-40DA-B845-7BDBB54B3CA7_stringValue",
-      "value": "총 배송비"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2C0A4260-284F-43DD-838A-74A7B1E9C2B2",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
-      "value": "+ 5,000원"
+      "class": "text",
+      "id": "F9D813AC-E962-465F-A7A2-B7DD78EAB04E"
     }
   ],
+  "name": "checkout / price / text-price-shipping-each",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "E327F700-F11A-40AF-94CF-B36C5062930D",
+    "do_objectID": "966E77C5-7635-47CF-A80F-A59A56599919",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F04E65E4-40D9-4D5E-9272-9BA7BC8E3426",
-  "verticalSpacing": 0
+  "symbolID": "0A7B5F45-C037-4BCC-A729-4606E9389008",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "44FACE5F-7BD1-4072-B323-A7785A86D40B",
+    "guides": [
+    ]
+  }
 }

@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "131BDA08-7B9E-4F4A-A973-F587CB85D344",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "165F42A8-CDE3-4066-9FDE-7ED8E88FC122",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D357012-4A59-4BF8-9C49-3EB6A14816AB",
+    "height": 20,
+    "width": 320,
+    "x": 0,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "checkout / price / text-price-shipping-each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D85FAA7-A335-4D49-AF41-2B21A035818E",
+      "overrideName": "F9D813AC-E962-465F-A7A2-B7DD78EAB04E_stringValue",
+      "value": "블랙 가죽 모던 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CD17AA1-A395-4C66-B9D3-B3E2D34A0A04",
+      "overrideName": "26DE8D21-AE5B-4196-B584-991C36C91F1A_stringValue",
+      "value": "+ 30,000원"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9DA92BF-DC7B-4293-8833-4730FDA4862F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A7B5F45-C037-4BCC-A729-4606E9389008",
+  "verticalSpacing": 0
+}

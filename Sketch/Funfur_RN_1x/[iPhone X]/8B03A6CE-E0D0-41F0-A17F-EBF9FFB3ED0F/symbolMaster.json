@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": -1,
-  "changeIdentifier": 399,
+  "changeIdentifier": 436,
   "do_objectID": "8B03A6CE-E0D0-41F0-A17F-EBF9FFB3ED0F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -89,12 +89,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "40827A4C-64D5-48F0-BEF3-377BB833DB73"
-    },
     {
       "class": "symbolInstance",
       "id": "E0FA3C94-2DB8-4AE8-B686-1C5E5082FD64"
@@ -114,6 +110,10 @@
     {
       "class": "symbolInstance",
       "id": "969D95EB-34EE-455B-B300-9DB8289B1838"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "099557C4-0804-4D47-9680-E5C02B248A09"
     }
   ],
   "name": "[iPhone X] / profile / order-history-details-swipe",

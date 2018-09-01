@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": -1,
-  "changeIdentifier": 662,
+  "changeIdentifier": 671,
   "do_objectID": "BC890655-1693-4F0B-BB52-78D18670363F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -89,12 +89,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "3DB76871-1486-4C21-BDED-0445A7AEB527"
-    },
     {
       "class": "symbolInstance",
       "id": "8EC9C82A-15D2-47F2-B16F-13BE49C70E5F"
@@ -126,6 +122,10 @@
     {
       "class": "symbolInstance",
       "id": "17BFF66C-762D-4C8B-85F7-D86B0F83DA2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F784B8E-64C3-4D25-B8FF-F9028478B8DD"
     }
   ],
   "name": "[iPhone X] / checkout / basic",

@@ -1,0 +1,154 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FF299055-8854-456B-9E60-81B55D5A6284",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8714,
+  "do_objectID": "6A48EA69-72FF-4E8A-87A4-97F5DE8E57F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34261AA4-DAEF-406B-A352-3DB79A153305",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B328BA96-8127-4AD1-9A4D-5FB9669AC456",
+    "height": 166,
+    "width": 320,
+    "x": 9382,
+    "y": 2947
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A26ACFA-E887-4CC6-8C71-B23BF132C8E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "21AC957F-D5B3-48EA-AE1C-0520DF856DBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B1C57BC-BB55-4245-99C6-752FF7DD05A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05C07877-60D1-4133-B5C5-B49A6832C8D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "131BDA08-7B9E-4F4A-A973-F587CB85D344"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFB563F2-8FD5-4AEA-BFDB-5B1C1A2A9A34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55D66467-5C18-4165-9187-1C19F8D624A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5DCB2A3-A038-4F1C-A1EF-B027DDC4DEB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28778E9A-CB37-4A07-B18F-F51BE551330F"
+    }
+  ],
+  "name": "checkout / price / price-card-base-2",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB530955-F567-46E2-A7FA-9F0BE90AAD35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D066AF6-6430-45BD-B640-4F89F609BD16",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "493E6017-8B15-445D-A23B-08E79D22A52C",
+    "guides": [
+    ]
+  }
+}

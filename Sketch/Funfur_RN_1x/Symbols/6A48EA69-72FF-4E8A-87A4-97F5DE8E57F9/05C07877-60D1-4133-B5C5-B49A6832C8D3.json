@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "4618E1E9-4365-4D13-9D72-BF594347561F",
+  "do_objectID": "05C07877-60D1-4133-B5C5-B49A6832C8D3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE3D8670-21C2-45FA-A045-5882C5016BAD",
+    "do_objectID": "02DA348B-D9B8-4769-BBF7-24F985821BF3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E503C418-48F6-48AB-906E-8BC964B4F39B",
-    "height": 116,
+    "do_objectID": "4D84D793-EBA9-4D5A-9849-2CB88BDE8D12",
+    "height": 1,
     "width": 320,
     "x": 0,
-    "y": 492
+    "y": 165
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,41 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / price-card-base",
-  "nameIsFixed": false,
+  "name": "header / misc / bottom-line",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2A1AE2C6-6437-4978-B51E-E4A199390491",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E_symbolID",
-      "value": "96D2EB9D-D8BE-4EED-A58A-D98EB234FD2E"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "573128F1-74A5-40BA-8D0D-7A54F63FD822",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/1828D706-CB24-40DA-B845-7BDBB54B3CA7_stringValue",
-      "value": "총 배송비"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6AF8A78E-DDEA-44A3-9654-E24E793DC2F2",
-      "overrideName": "1B83BCC6-FDBE-4645-A218-1408FEFB413E/3494C4F1-DC80-4413-8F75-7C05331A6B17_stringValue",
-      "value": "+ 5,000원"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DE7D4C1-E738-4C26-A28C-A1B0CD095E53",
+    "do_objectID": "EC4AD2A8-F6CC-45E1-9336-94EA92C36EED",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F04E65E4-40D9-4D5E-9272-9BA7BC8E3426",
+  "symbolID": "AF6CBC48-A42D-492E-9041-90F4D338B7D4",
   "verticalSpacing": 0
 }

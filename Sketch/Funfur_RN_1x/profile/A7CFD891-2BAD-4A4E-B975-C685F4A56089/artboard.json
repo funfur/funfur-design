@@ -94,10 +94,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "818C16C7-3C98-4EBC-A595-B0FA0DDA2688"
-    },
-    {
-      "class": "symbolInstance",
       "id": "98019837-3A8C-4931-9B97-9AEBB4B1C5CD"
     },
     {
@@ -115,6 +111,10 @@
     {
       "class": "symbolInstance",
       "id": "F434A6EF-9B17-422E-99ED-9AFF62FD4F42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A37E0F73-A87C-4283-80B8-84BC797D622E"
     }
   ],
   "name": "profile / order-history-details-swipe",
