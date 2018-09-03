@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "30352FF7-ECC4-4C08-BB78-0C0224760E5F",
+  "booleanOperation": -1,
+  "do_objectID": "2717C5AD-A78B-40A0-ADDF-5E8891F2B366",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4163BA65-B25E-431C-98C6-7570A7D9DE14",
+    "do_objectID": "E0A1A0C9-8B66-44EF-A674-40B53A5AF89E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "737E2AEB-1167-4574-95DC-2816CC4A9602",
-    "height": 200,
+    "do_objectID": "29746EF2-758E-4580-AC02-D1BC1B3C292C",
+    "height": 226,
     "width": 160,
-    "x": 0,
-    "y": 312
+    "x": 160,
+    "y": 334
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,24 +73,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each",
-  "nameIsFixed": true,
+  "name": "main / list / each-right",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "087B254B-FB2C-492F-8E7A-1457584A279B",
-      "overrideName": "D5CA948A-D985-42F7-8ED7-73AC19E5FC38/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "F5A68FCE-5E09-4CC5-B3B7-2272BCE8A73A",
+      "overrideName": "CA1F5820-AD7E-4251-826F-8ECBC1727B90/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/66b2f2f17129169ecd8ea636b3570d5c1a1029d2.png",
+        "_ref": "images/b83bdfc3e3ecfe3c09a6706de9376bc044a20a66.png",
         "_ref_class": "MSImageData"
       }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "89F91A2F-4695-44BB-9133-424834E17DA4",
-      "overrideName": "A1E0C6BB-0520-4D3E-B5F3-BDC43E5F9012_stringValue",
-      "value": "원형 심플 통나무 스툴"
+      "do_objectID": "2AA1F13B-DCF5-4EEB-A6AB-C14E0F824F19",
+      "overrideName": "006E491F-56CE-4A32-8DD3-C3B55EF490FA_stringValue",
+      "value": "스틸 래그드 암체어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0745F74E-1C93-4C79-B53F-CD19C2D4BB4F",
+      "overrideName": "D5C363AE-D2EF-474B-993F-834B7D810BAE_stringValue",
+      "value": "85,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0628ABF4-1727-450F-B8CF-1746E4BA832A",
+      "overrideName": "0AD59DD6-FEDF-45A2-B3AD-61E1EBF9897C/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "40"
     }
   ],
   "resizingConstraint": 63,
@@ -100,12 +112,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BBC0C63E-87F8-4B7A-B8D2-67383B12B09F",
+    "do_objectID": "69DCB284-76C1-481E-B8AE-EA007AC5F0A4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CE4536-A64D-4E91-9A18-40BB1A4EB5FE",
+  "symbolID": "8E2A80FF-459E-4992-9826-DF0A324B0B0C",
   "verticalSpacing": 0
 }

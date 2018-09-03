@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "26293A71-838E-42F0-B29D-E4F75D02C755",
+  "booleanOperation": -1,
+  "do_objectID": "DF9FD4BA-C70B-4D0C-B77F-F57EA3D8EC14",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F2A0D168-3222-496F-B891-BDBEC6FDF14A",
+    "do_objectID": "63406293-2001-4C4C-BF0E-44FCF224E9BC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5980FE2-22CE-4AA3-889A-7D68A6097FCA",
-    "height": 200,
+    "do_objectID": "83BD380C-10E5-47D2-9377-A1B6E5962A5B",
+    "height": 226,
     "width": 160,
     "x": 0,
-    "y": 232
+    "y": 108
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,25 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each",
-  "nameIsFixed": true,
+  "name": "main / list / each-left",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "087B254B-FB2C-492F-8E7A-1457584A279B",
-      "overrideName": "D5CA948A-D985-42F7-8ED7-73AC19E5FC38/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/e1a2dbc11a39b694fd9b700c0246629bb571bd8c.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "89F91A2F-4695-44BB-9133-424834E17DA4",
-      "overrideName": "A1E0C6BB-0520-4D3E-B5F3-BDC43E5F9012_stringValue",
-      "value": "오크 원목 티테이블\n롱체어 세트"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AEBA7DEE-34B8-4B4F-96F6-001FE3478F78",
+    "do_objectID": "7E9126D2-73C8-4DE7-934C-6D7DDE931E2E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CE4536-A64D-4E91-9A18-40BB1A4EB5FE",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }

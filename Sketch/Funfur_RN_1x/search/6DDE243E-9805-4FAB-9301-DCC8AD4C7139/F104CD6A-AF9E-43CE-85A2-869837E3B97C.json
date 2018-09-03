@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "517901D9-C229-4B05-9D6E-019DE64AD8B7",
+  "booleanOperation": -1,
+  "do_objectID": "F104CD6A-AF9E-43CE-85A2-869837E3B97C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "48D1089D-4849-46D1-BAD3-C5E71261E823",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "do_objectID": "2E18AF72-979D-4CDC-9F76-ED57C2D1CF64",
+    "height": 226,
     "width": 160,
-    "x": 160,
-    "y": 108
+    "x": 0,
+    "y": 210
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,24 +73,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each-right",
-  "nameIsFixed": false,
+  "name": "main / list / each-left",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "18AD8BF6-ED62-4B3E-BB60-A3C683CA9744",
-      "overrideName": "BB8A645F-07F0-4C6E-8BD1-2BB518D30685/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "AC0ADCE8-2684-42F4-BFB9-4A5ED8EF9DC8",
+      "overrideName": "60F20D29-7F2A-41E5-96E6-9D765673D9B0/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/be731e58945783dd9360ee92ff124583f75a8f3d.png",
+        "_ref": "images/5859b211d48e8e0dd111bd6f6d47cd1bda961133.png",
         "_ref_class": "MSImageData"
       }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "206C6D56-4E9D-4A0A-8462-33DA26EE1C39",
-      "overrideName": "DB988C05-15BB-41AD-A7E7-EA37E3EC9F97_stringValue",
-      "value": "웨하스 사무용 원목 \n쉐어데스크"
+      "do_objectID": "B1356348-0EA3-4B33-8F82-CCC355F7C074",
+      "overrideName": "BE59072D-69CB-41E9-9A99-EE49E79E2FEC_stringValue",
+      "value": "올댓 베드테이블"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "839FAC91-A2FE-4E85-95A5-D68FD9B76BF2",
+      "overrideName": "A7120434-A972-491A-92E0-5FC9E3483F8A_stringValue",
+      "value": "240,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C823E929-DC8A-43DD-8D80-EC2282BCC8BF",
+      "overrideName": "E6C12901-4C7D-426E-AB12-C446E6409039/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "12"
     }
   ],
   "resizingConstraint": 63,
@@ -98,11 +112,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "10C67EA6-7742-425F-9966-EE9CCD828D0C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FE23263B-F1CD-44E6-8D96-8BBF2813E5DC",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }

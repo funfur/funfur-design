@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "D5564633-560F-4B4B-BF1F-507EDB2B8532",
+  "booleanOperation": -1,
+  "do_objectID": "A453371C-3BC6-4019-A6CD-58B2A724EFE9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85329859-82DA-468A-AC1E-9DA821EDDF9D",
+    "do_objectID": "50858F3D-F69C-4C0A-B26E-4357588374D0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5EAE6926-E794-49E3-AB36-5D030E3C86A9",
-    "height": 200,
+    "do_objectID": "4985E8CD-8A0C-4F0E-847D-249B5E5DD68F",
+    "height": 226,
     "width": 160,
     "x": 0,
-    "y": 32
+    "y": 334
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,24 +73,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each",
-  "nameIsFixed": false,
+  "name": "main / list / each-left",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "087B254B-FB2C-492F-8E7A-1457584A279B",
-      "overrideName": "D5CA948A-D985-42F7-8ED7-73AC19E5FC38/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "AC0ADCE8-2684-42F4-BFB9-4A5ED8EF9DC8",
+      "overrideName": "60F20D29-7F2A-41E5-96E6-9D765673D9B0/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/92be9856d0e72571b3bc5c428333aeee61ee672c.png",
+        "_ref": "images/5859b211d48e8e0dd111bd6f6d47cd1bda961133.png",
         "_ref_class": "MSImageData"
       }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "89F91A2F-4695-44BB-9133-424834E17DA4",
-      "overrideName": "A1E0C6BB-0520-4D3E-B5F3-BDC43E5F9012_stringValue",
-      "value": "체리 원목 스툴"
+      "do_objectID": "B1356348-0EA3-4B33-8F82-CCC355F7C074",
+      "overrideName": "BE59072D-69CB-41E9-9A99-EE49E79E2FEC_stringValue",
+      "value": "올댓 베드테이블"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "839FAC91-A2FE-4E85-95A5-D68FD9B76BF2",
+      "overrideName": "A7120434-A972-491A-92E0-5FC9E3483F8A_stringValue",
+      "value": "240,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C823E929-DC8A-43DD-8D80-EC2282BCC8BF",
+      "overrideName": "E6C12901-4C7D-426E-AB12-C446E6409039/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "12"
     }
   ],
   "resizingConstraint": 63,
@@ -100,12 +112,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BF0DE2B9-3497-4EB4-B965-D4E34A727BAF",
+    "do_objectID": "BBEAA6CC-D698-4BC2-992B-65232EF7B1B5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CE4536-A64D-4E91-9A18-40BB1A4EB5FE",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }

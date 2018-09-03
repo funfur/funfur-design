@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "388E71A5-3B7E-4E4C-8D22-F86D05370EC0",
+  "booleanOperation": -1,
+  "do_objectID": "5D261639-9C91-498F-9556-A98DA9835AFF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E8CF0DC0-44D4-4F4D-8035-D67C4115D0AF",
+    "do_objectID": "C98D3321-A568-4BF1-A559-13A31FE7CD3C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4CFBA37E-AE3E-49CA-A707-DC77B72DD90F",
-    "height": 200,
+    "do_objectID": "69D5C05A-3CFD-49B0-BE10-6220B0489E26",
+    "height": 226,
     "width": 160,
     "x": 0,
-    "y": 112
+    "y": 436
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,24 +73,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each",
+  "name": "main / list / each-left",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "087B254B-FB2C-492F-8E7A-1457584A279B",
-      "overrideName": "D5CA948A-D985-42F7-8ED7-73AC19E5FC38/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "AC0ADCE8-2684-42F4-BFB9-4A5ED8EF9DC8",
+      "overrideName": "60F20D29-7F2A-41E5-96E6-9D765673D9B0/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/e1a2dbc11a39b694fd9b700c0246629bb571bd8c.png",
+        "_ref": "images/db90d9722cae00d3dd28f294528b07bc6afbd2a8.png",
         "_ref_class": "MSImageData"
       }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "89F91A2F-4695-44BB-9133-424834E17DA4",
-      "overrideName": "A1E0C6BB-0520-4D3E-B5F3-BDC43E5F9012_stringValue",
-      "value": "오크 원목 티테이블\n롱체어 세트"
+      "do_objectID": "B1356348-0EA3-4B33-8F82-CCC355F7C074",
+      "overrideName": "BE59072D-69CB-41E9-9A99-EE49E79E2FEC_stringValue",
+      "value": "린 코튼 스툴"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "839FAC91-A2FE-4E85-95A5-D68FD9B76BF2",
+      "overrideName": "A7120434-A972-491A-92E0-5FC9E3483F8A_stringValue",
+      "value": "120,500원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C823E929-DC8A-43DD-8D80-EC2282BCC8BF",
+      "overrideName": "E6C12901-4C7D-426E-AB12-C446E6409039/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "16"
     }
   ],
   "resizingConstraint": 63,
@@ -100,12 +112,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "544AFAAF-8E62-4B82-98AC-9712F92C841B",
+    "do_objectID": "E41605A4-0F5E-4350-AF55-CAA7F10E34FE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CE4536-A64D-4E91-9A18-40BB1A4EB5FE",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }

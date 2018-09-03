@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "F3C1DCF7-6A07-46AB-9A29-4E1234D99146",
+  "booleanOperation": -1,
+  "do_objectID": "5E899FF0-5890-4C57-B0B0-6A71AB9805D6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0D081B5D-B7A8-4F3F-8EB2-0ADA2862BD29",
+    "do_objectID": "5CE642BC-E810-493D-B51E-5BAEEFC2F2DD",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "02C04A5C-1D11-40A2-8FFE-D3DD25F55BD6",
-    "height": 200,
+    "do_objectID": "04B10165-478E-4592-99BC-8FD15C3AAF6A",
+    "height": 226,
     "width": 160,
     "x": 160,
-    "y": 32
+    "y": -16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,24 +73,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each-right",
-  "nameIsFixed": false,
+  "name": "main / list / each-right",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "18AD8BF6-ED62-4B3E-BB60-A3C683CA9744",
-      "overrideName": "BB8A645F-07F0-4C6E-8BD1-2BB518D30685/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "do_objectID": "A09F5D10-DECC-4CCE-BA89-680A4AADEF53",
+      "overrideName": "CA1F5820-AD7E-4251-826F-8ECBC1727B90/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/be731e58945783dd9360ee92ff124583f75a8f3d.png",
+        "_ref": "images/ceee9a8ec6032ef25dd554358ff0be3c8d8881cf.png",
         "_ref_class": "MSImageData"
       }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "206C6D56-4E9D-4A0A-8462-33DA26EE1C39",
-      "overrideName": "DB988C05-15BB-41AD-A7E7-EA37E3EC9F97_stringValue",
-      "value": "웨하스 사무용 원목 \n쉐어데스크"
+      "do_objectID": "68723048-6167-438D-BECA-FD4C6AC8DE52",
+      "overrideName": "006E491F-56CE-4A32-8DD3-C3B55EF490FA_stringValue",
+      "value": "코듀로이 삼발이 쇼파"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4E4F858-29EE-4C7F-B839-075C6F878A62",
+      "overrideName": "D5C363AE-D2EF-474B-993F-834B7D810BAE_stringValue",
+      "value": "210,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51E3E936-587E-4DA7-B3EB-B1B65F81E072",
+      "overrideName": "0AD59DD6-FEDF-45A2-B3AD-61E1EBF9897C/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "64"
     }
   ],
   "resizingConstraint": 63,
@@ -100,12 +112,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "19F1D32D-F62C-482D-ADCE-3BB37A956E6F",
+    "do_objectID": "8149219D-EB2F-4EE0-9536-34ABD52F3441",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FE23263B-F1CD-44E6-8D96-8BBF2813E5DC",
+  "symbolID": "8E2A80FF-459E-4992-9826-DF0A324B0B0C",
   "verticalSpacing": 0
 }

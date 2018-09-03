@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "BCBFB5C3-5588-4086-AF0C-D30C00DB783B",
+  "booleanOperation": -1,
+  "do_objectID": "FD2390C7-3298-4074-A960-475A351FE33E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A0E199A6-4E99-4172-B431-CA938BBF064D",
+    "do_objectID": "2BF8F328-EF9A-48D6-9F01-1D399BC9ABB4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "81357BBE-82F2-4245-99CE-075DE55287F5",
-    "height": 200,
+    "do_objectID": "55063707-EB1B-468A-860E-B8CA7E8A3379",
+    "height": 226,
     "width": 160,
-    "x": 160,
-    "y": 232
+    "x": 0,
+    "y": -16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,25 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each-right",
-  "nameIsFixed": true,
+  "name": "main / list / each-left",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "18AD8BF6-ED62-4B3E-BB60-A3C683CA9744",
-      "overrideName": "BB8A645F-07F0-4C6E-8BD1-2BB518D30685/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/760f47e349922c39b9f708a360695e1c32f94533.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "206C6D56-4E9D-4A0A-8462-33DA26EE1C39",
-      "overrideName": "DB988C05-15BB-41AD-A7E7-EA37E3EC9F97_stringValue",
-      "value": "니스리스 원목 기드체어"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1F308BC8-E356-4E9B-96A8-F45723DE93F9",
+    "do_objectID": "998FF4C4-D9C7-4920-88E6-40E457992736",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FE23263B-F1CD-44E6-8D96-8BBF2813E5DC",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }

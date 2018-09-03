@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "F6412A44-180B-48DD-B9EC-344EF0475D82",
+  "booleanOperation": -1,
+  "do_objectID": "986090D8-B762-4B2D-85DB-0900AC84DE01",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "13522795-76FE-477C-93F4-3BFCEEB7673D",
+    "do_objectID": "79C4576E-A540-4BB0-AA82-AC53C72610B6",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6A88DDD5-DA47-402C-BC00-589DE6EB5656",
-    "height": 200,
+    "do_objectID": "55A7F217-250C-487F-A30D-BD6D0303048F",
+    "height": 226,
     "width": 160,
     "x": 0,
-    "y": 32
+    "y": -16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,25 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search / list / each",
+  "name": "main / list / each-left",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "087B254B-FB2C-492F-8E7A-1457584A279B",
-      "overrideName": "D5CA948A-D985-42F7-8ED7-73AC19E5FC38/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/92be9856d0e72571b3bc5c428333aeee61ee672c.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "89F91A2F-4695-44BB-9133-424834E17DA4",
-      "overrideName": "A1E0C6BB-0520-4D3E-B5F3-BDC43E5F9012_stringValue",
-      "value": "체리 원목 스툴"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8097F6C1-3879-4B3A-948F-0381A7DDE302",
+    "do_objectID": "EAAF2F37-B74B-4336-92D3-4F7A0FEC02E9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CE4536-A64D-4E91-9A18-40BB1A4EB5FE",
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
   "verticalSpacing": 0
 }
