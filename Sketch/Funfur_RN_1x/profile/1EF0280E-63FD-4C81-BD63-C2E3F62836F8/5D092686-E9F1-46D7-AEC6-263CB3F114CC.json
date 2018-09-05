@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5D092686-E9F1-46D7-AEC6-263CB3F114CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "124E05E8-FE43-4A19-8F13-4DD8FFEA477B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6764A5A-A5F7-4A98-85D3-6CE984B0FF3D",
+    "height": 152,
+    "width": 320,
+    "x": 0,
+    "y": 208
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "search / no-result-symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9963E3F-C4E7-485E-A618-1E2E6180EC2D",
+      "overrideName": "C44B396A-C434-4A1D-94E4-296BF222CF4C_symbolID",
+      "value": "B4F38915-BA80-4B38-BB2C-EBC93902564B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D923166-9394-4CCC-9B39-9B251CC84535",
+      "overrideName": "C46EE372-FFAF-45A5-AB8A-D81D8FB86658/5C98F7EE-2469-4FC4-B197-26EB4BB5C01F_stringValue",
+      "value": "아직 작성한 리뷰가 없어요.\n구매한 상품을 리뷰하고, 의견을 나눠보세요!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4BCBC00-366D-4B0A-8E67-C827591DF50D",
+      "overrideName": "884240CB-D07C-40EB-A888-069640DDC2A0_symbolID",
+      "value": "3E0851F6-DE21-4BB8-A3FC-AA7983EC8328"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B49572EF-7A92-4027-952E-C6BE6BA785C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B14B8FA0-F71E-48EF-B036-28BB8A93061F",
+  "verticalSpacing": 0
+}

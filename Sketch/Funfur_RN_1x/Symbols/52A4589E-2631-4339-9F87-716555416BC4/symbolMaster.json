@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 20491,
+  "changeIdentifier": 20661,
   "do_objectID": "52A4589E-2631-4339-9F87-716555416BC4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": 1066
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -95,10 +95,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "C26DAE1F-2383-4032-9F5B-1C56377F04AA"
-    },
     {
       "class": "symbolInstance",
       "id": "1541BBD6-1649-47EF-96A8-C63ED60EB8E8"
@@ -130,6 +126,10 @@
     {
       "class": "symbolInstance",
       "id": "CB87043B-F697-44D8-BA37-D14F64DCA454"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C26DAE1F-2383-4032-9F5B-1C56377F04AA"
     }
   ],
   "name": "header / product-details",

@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B1698951-2546-4A99-A9DB-578BE121DD91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AAF97AC-ACA5-4390-8A4E-527F6A6F6B79",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D1D5983-8B7C-46AD-AB87-57C23498E242",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 520
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar / tabbar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8569CEF-FCA8-43C8-985A-9318103842BE",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3_symbolID",
+      "value": "70F387F5-B3F0-407B-BFE0-5A76B1E91E7A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA16494B-0BDB-4171-8D02-4E11D3537ECF",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3/F6D29A1A-561C-419F-A6E3-308ADFA6E683_stringValue",
+      "value": "홈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A620DDA-92DC-4514-87C4-FE0AD4C30B2D",
+      "overrideName": "07E634EA-C094-4208-8A8D-74FF59967442/F6D29A1A-561C-419F-A6E3-308ADFA6E683_stringValue",
+      "value": "스토어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D292316-2279-4AC5-BFCD-5986FC2C18B9",
+      "overrideName": "E3A17107-E8F4-49AA-A4B0-B48B99F8D7B4/F6D29A1A-561C-419F-A6E3-308ADFA6E683_stringValue",
+      "value": "리뷰"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3465A113-1242-42B4-A7EA-67378FEC5784",
+      "overrideName": "F0DA018B-5780-49F2-936D-84588268B467_symbolID",
+      "value": "98F14B8A-BC92-4CFA-B7B5-E1C20C89E6EB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34ACC0F5-54C7-4191-9892-EC89E29A7618",
+      "overrideName": "F0DA018B-5780-49F2-936D-84588268B467/1F995532-C368-40A6-BF0E-E8A5E74EA3E4_symbolID",
+      "value": "FA7830B9-5DD3-4D19-80C9-C015068D7D82"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D5E56A3-98C1-4D3F-9878-A15AF1C1196C",
+      "overrideName": "F0DA018B-5780-49F2-936D-84588268B467/0C5509F1-9B0E-4373-9E0D-C165C030EC24_stringValue",
+      "value": "프로필"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C17908CF-FB98-4275-AB04-5678BDD3FE8D",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3/1E370CCB-AA3E-48D8-8C52-EB9376C21A37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A083702E-DC71-462C-AD7D-F78E0750C179",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A00C5BC2-B03D-4247-B7C7-035BCD6274A1",
+  "verticalSpacing": 0
+}
