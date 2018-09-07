@@ -60,10 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 17,
-    "width": 14,
-    "x": 3,
-    "y": 1.5
+    "height": 15,
+    "width": 12,
+    "x": 4,
+    "y": 2.5
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -96,7 +96,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.777777777777777,
+      "radius": 6.666666666666665,
       "type": 0
     },
     "endMarkerType": 0,

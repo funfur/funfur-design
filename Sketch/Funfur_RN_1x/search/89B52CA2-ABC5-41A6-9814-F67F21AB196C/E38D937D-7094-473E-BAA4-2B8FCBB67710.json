@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E38D937D-7094-473E-BAA4-2B8FCBB67710",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B74FA9A-7488-407E-AD48-B556AEAA8334",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AB5A878-3294-4D16-94E1-FA68418E3E9B",
+    "height": 226,
+    "width": 160,
+    "x": 160,
+    "y": -16
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / list / each-right",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A09F5D10-DECC-4CCE-BA89-680A4AADEF53",
+      "overrideName": "CA1F5820-AD7E-4251-826F-8ECBC1727B90/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ceee9a8ec6032ef25dd554358ff0be3c8d8881cf.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68723048-6167-438D-BECA-FD4C6AC8DE52",
+      "overrideName": "006E491F-56CE-4A32-8DD3-C3B55EF490FA_stringValue",
+      "value": "코듀로이 삼발이 쇼파"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4E4F858-29EE-4C7F-B839-075C6F878A62",
+      "overrideName": "D5C363AE-D2EF-474B-993F-834B7D810BAE_stringValue",
+      "value": "210,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51E3E936-587E-4DA7-B3EB-B1B65F81E072",
+      "overrideName": "0AD59DD6-FEDF-45A2-B3AD-61E1EBF9897C/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "64"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCBAED5A-4DD8-40C6-869C-F6D8C7AF728B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8E2A80FF-459E-4992-9826-DF0A324B0B0C",
+  "verticalSpacing": 0
+}
