@@ -1,0 +1,28 @@
+{
+  "name": "funfur",
+  "version": "1.0.0",
+  "description": "funfur-design",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funfur/funfur-design.git"
+  },
+  "keywords": [
+    "funfur"
+  ],
+  "author": "Spemer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funfur/funfur-design/issues"
+  },
+  "homepage": "https://github.com/funfur/funfur-design#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "sketch-preview": "^1.0.9"
+  }
+}
