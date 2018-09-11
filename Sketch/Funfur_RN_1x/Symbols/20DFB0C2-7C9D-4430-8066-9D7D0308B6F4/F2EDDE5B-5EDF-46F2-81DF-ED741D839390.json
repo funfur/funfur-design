@@ -1,0 +1,129 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F2EDDE5B-5EDF-46F2-81DF-ED741D839390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3C393B1-BEBC-4811-9195-8151A56622E9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B65B178F-3C91-4431-A9BE-A40C00ADF9A1",
+    "height": 208,
+    "width": 128,
+    "x": 136,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / basic-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDB0CA98-BD39-4B99-B42B-9B4EBD98A6B5",
+      "overrideName": "F1169258-66AF-4D3A-BE70-E07A5AF82A7F/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3618D73-95C0-46BF-87FD-792EE985C47B",
+      "overrideName": "73D2D6A4-C5FC-4A14-894B-DA1C2C677DBA/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3e972bcb3b2e6dc56034ec44b7b95dcad208d465.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AB8710B-5738-4D0C-A050-02AB20BD97DE",
+      "overrideName": "2C4F97EB-5BCB-42B1-A0D8-013489D636FC_stringValue",
+      "value": "169,800원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D01D72FC-45A0-4510-B7E5-1538F7876BA1",
+      "overrideName": "B2B12D37-14D8-4301-B45B-3B7D3911A816_stringValue",
+      "value": "따뜻한 안방의 브..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51B28565-B7FD-49F1-B12C-661A0A21641C",
+      "overrideName": "8077F568-A272-4A04-8B96-36F2C949D20E/4348B2B6-C27B-4562-95F1-99E406C6B22D_stringValue",
+      "value": "준엄산업디자인스튜..."
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD58E1EB-1E2F-44A0-8AF0-1EAF8A19AF54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A3C73668-D050-4290-B036-9A78E62DAAC7",
+  "verticalSpacing": 0
+}
