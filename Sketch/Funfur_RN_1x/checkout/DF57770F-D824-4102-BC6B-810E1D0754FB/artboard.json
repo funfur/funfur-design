@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9568627450980391,
-    "green": 0.9568627450980391,
-    "red": 0.9568627450980391
+    "blue": 0.9764705882352941,
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
   },
   "booleanOperation": 0,
   "do_objectID": "DF57770F-D824-4102-BC6B-810E1D0754FB",
@@ -123,6 +123,10 @@
     {
       "class": "symbolInstance",
       "id": "8683EEF1-0B03-4016-B2E0-5FC9A2A52F1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9E13541-B591-4CDA-A893-C5126C2D6809"
     }
   ],
   "name": "checkout / basic-bottom",

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "AB3E0649-C351-4A67-A29E-CF9C74A21B1A",
+  "do_objectID": "9DD13DC3-981D-4E66-A7B5-0429A47CB5B2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BF090F0D-8AEE-4298-B747-03D00B1F0B64",
+    "do_objectID": "77AC86AA-BE7A-4479-A9C1-D24127878685",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E297257D-F8A5-4FAA-8705-9C4173DAF2D9",
-    "height": 72,
-    "width": 72,
-    "x": 144,
-    "y": 35
+    "do_objectID": "C2B00255-6F7D-4780-9B98-B68DF6F781B4",
+    "height": 20,
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,19 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / img-thumbnail-basic",
-  "nameIsFixed": true,
+  "name": "header / misc / status-bar-base",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "B1A4D454-5CE3-405F-BEAD-378D5E3B6743",
-      "overrideName": "658084F1-ED6A-4FC4-A8E1-F6AA7CC7FE4A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/f05af623a0e06b6dbca3b2bd54384fbf2fe87ab9.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AFF3BE35-2FEE-4E27-A0EF-D1D1FC6732DF",
+    "do_objectID": "B71F524A-AF75-43CF-949C-12572B7CB898",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D727C70C-F10C-432B-AB35-82806DEF60E0",
+  "symbolID": "50ACE2DF-41D7-4D23-ACDC-1A226AEF4902",
   "verticalSpacing": 0
 }

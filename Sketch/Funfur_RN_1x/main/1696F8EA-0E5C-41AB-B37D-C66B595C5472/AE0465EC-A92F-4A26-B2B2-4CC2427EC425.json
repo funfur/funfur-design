@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "EF01281E-6015-4707-A4B5-83D598219A60",
+  "do_objectID": "AE0465EC-A92F-4A26-B2B2-4CC2427EC425",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F35512E3-B066-4FD0-B4D4-BA9E975951D4",
+    "do_objectID": "3B6D0734-8EE0-49A5-92C8-79407F6C4773",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "39D66AEF-547E-4F81-B0DA-5DAF8966F7BF",
-    "height": 72,
-    "width": 72,
+    "do_objectID": "D3B616A0-062D-433D-AF83-FBB83CB3A546",
+    "height": 48,
+    "width": 320,
     "x": 0,
-    "y": 35
+    "y": 20
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,9 +73,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / img-thumbnail-focused",
+  "name": "header / main / header-basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7752EE07-487B-482A-92A9-884E9D286D7B",
+      "overrideName": "14320A43-4F9B-4615-8676-777A2901F0DA_symbolID",
+      "value": "0C873D7A-F044-4A36-9320-1680B2AC85F2"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -84,12 +90,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "137B8E2F-CFE5-4B7C-8357-88A2E9CA345A",
+    "do_objectID": "3A6042BE-A7B9-43EE-AB2D-757C57513D6C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C6EA58D6-3262-4F69-BEA1-2ECA85E0499E",
+  "symbolID": "DFBFAA22-C24B-4315-B7DD-D570570CE372",
   "verticalSpacing": 0
 }

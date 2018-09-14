@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7132,
+  "changeIdentifier": 7237,
   "do_objectID": "3E16E7D5-D80A-46C6-9595-B7BDB6A9B735",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": 2260
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,6 +102,10 @@
     {
       "class": "symbolInstance",
       "id": "16BA7AAD-842A-4D1D-91F6-49945190B975"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98E24C23-58EE-420E-9D88-729C9F12B991"
     }
   ],
   "name": "store / product / custom-order-text",

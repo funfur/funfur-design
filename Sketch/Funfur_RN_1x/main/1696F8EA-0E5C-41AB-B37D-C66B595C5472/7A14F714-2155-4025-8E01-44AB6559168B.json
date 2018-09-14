@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "92108818-01FD-4FF6-969E-F8511EB326F9",
+  "booleanOperation": -1,
+  "do_objectID": "7A14F714-2155-4025-8E01-44AB6559168B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E250A587-9707-49B8-B125-54F9340158C6",
+    "do_objectID": "3A2F1B83-4FF4-45B0-AD44-1FD7728FD4A4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E22B5BD7-90FF-4CCB-AE91-63594BA9C7CB",
-    "height": 120,
+    "do_objectID": "7E5F7215-C58A-45A3-93E6-EC423FD78EE0",
+    "height": 36,
     "width": 320,
-    "x": 720,
-    "y": 416
+    "x": 0,
+    "y": 368
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,9 +73,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / hero-img-dim-grad",
-  "nameIsFixed": true,
+  "name": "main / company-information-accordion-before copy",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08423F52-A00F-496E-BB7C-C9C95432A27A",
+      "overrideName": "756C54AF-1A99-46B3-A6D5-110A7748745E_stringValue",
+      "value": "닫기"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -84,12 +90,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0B0EA373-43D8-4783-A285-80948694E202",
+    "do_objectID": "B5F6E4F2-3518-4AE9-88B7-5251C7F07A22",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "45722B4B-EC79-4B72-906E-024EA5F01AD4",
+  "symbolID": "6951DAB4-EF8A-4D83-8C6A-A43F7059F9D1",
   "verticalSpacing": 0
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "18A39CA0-A13C-4A79-871A-59CBB9AD2E12",
+  "booleanOperation": -1,
+  "do_objectID": "430677A2-BF6F-4660-B13B-91671768793C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "469D7238-E4ED-4FF6-9127-75515C83FD97",
+    "do_objectID": "D5E47448-489E-4AE6-898E-E8CD8B75AAEF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BE8A3EC9-46EE-43F9-B48B-986352113183",
-    "height": 72,
-    "width": 72,
-    "x": 216,
-    "y": 35
+    "do_objectID": "79A3F54A-48B9-4A9C-BEC4-1D60E437ABEE",
+    "height": 32,
+    "width": 375,
+    "x": 0,
+    "y": 178
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,19 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / img-thumbnail-basic",
+  "name": "store / product / custom-order-text",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "09AE6F6F-F28D-4C10-B0CA-67088425D531",
-      "overrideName": "658084F1-ED6A-4FC4-A8E1-F6AA7CC7FE4A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/c6f3e17536860a40fdf18df11fd11f300814c025.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D51DC4F0-C11D-4CB3-B42C-88B00CEAF830",
+    "do_objectID": "7C3A6F39-0A64-4480-8D49-594767A7059E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D727C70C-F10C-432B-AB35-82806DEF60E0",
+  "symbolID": "76782CA3-B13B-4B4C-82A8-7D14219AADA5",
   "verticalSpacing": 0
 }

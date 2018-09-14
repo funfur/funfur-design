@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "F225AFF1-EC0C-4ED6-88E8-F6FD307FA04F",
+  "booleanOperation": -1,
+  "do_objectID": "D3A32212-E8CA-481D-B3DF-F597A90DF580",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "10E1B0C3-D5E1-450B-8BAA-740F79E4CDEA",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "327FCB86-5DD1-4951-B66D-8183746ACD06",
-    "height": 48,
+    "height": 1,
     "width": 320,
     "x": 0,
-    "y": 520
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +71,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tabbar / tabbar",
+  "name": "header / misc / bottom-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1CF9E533-93A8-4451-9091-56C6FB641F58",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A00C5BC2-B03D-4247-B7C7-035BCD6274A1",
+  "symbolID": "AF6CBC48-A42D-492E-9041-90F4D338B7D4",
   "verticalSpacing": 0
 }

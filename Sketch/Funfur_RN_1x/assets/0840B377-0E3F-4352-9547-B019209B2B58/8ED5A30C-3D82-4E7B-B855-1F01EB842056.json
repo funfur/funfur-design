@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "5A86063E-0B46-4D40-BB2B-7138F9141C96",
+  "booleanOperation": -1,
+  "do_objectID": "8ED5A30C-3D82-4E7B-B855-1F01EB842056",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "02DBE398-B621-460B-9269-22E7C0C35550",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0F05A0A8-99AF-4CFB-87B9-5451F40AF420",
-    "height": 72,
-    "width": 72,
-    "x": 72,
-    "y": 35
+    "height": 36,
+    "width": 320,
+    "x": 720,
+    "y": 416
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,7 +71,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / img-thumbnail-basic",
+  "name": "main / company-information-accordion-before",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -84,12 +82,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FAB5FCB0-9402-4195-B669-6FF4B5B961EA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D727C70C-F10C-432B-AB35-82806DEF60E0",
+  "symbolID": "6951DAB4-EF8A-4D83-8C6A-A43F7059F9D1",
   "verticalSpacing": 0
 }

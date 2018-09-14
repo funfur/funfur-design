@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "CAE21CC6-879C-42D0-A12A-3C8F22CC9F9F",
+  "do_objectID": "5020BCDC-7F71-435D-873A-2A8DBD126A2A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "24C495C5-F9A0-4FFB-A7BF-280B35D45163",
+    "do_objectID": "E3873755-813C-4304-8409-094D0D9AB049",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0BA3B154-0981-464E-99BD-6FAFB0005625",
-    "height": 72,
-    "width": 72,
-    "x": 288,
-    "y": 35
+    "do_objectID": "6FB46FA0-627B-4545-B433-D809017E391A",
+    "height": 264,
+    "width": 320,
+    "x": 0,
+    "y": 96
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,18 +73,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / product / img-thumbnail-basic",
+  "name": "main / horizontal / following-company",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "09AE6F6F-F28D-4C10-B0CA-67088425D531",
-      "overrideName": "658084F1-ED6A-4FC4-A8E1-F6AA7CC7FE4A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/5603039856cd4438a800cfe19d8a1af833c4b1d5.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "BE2A5B38-BBFC-4834-A21C-2E90CF497BC7",
+      "overrideName": "5DE41AC7-2AC2-4F4B-B970-19447375C321/3CF58AF0-5ADA-4EEC-9C15-C6A25108F8E0_symbolID",
+      "value": "916B94DA-AFE6-4AD4-839C-1B248E06EBC2"
     }
   ],
   "resizingConstraint": 63,
@@ -94,12 +90,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "406575DB-8379-4DA7-918B-02FF7C3B36E7",
+    "do_objectID": "26D4626E-29E5-482A-AEF3-4D55CE2B7C40",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D727C70C-F10C-432B-AB35-82806DEF60E0",
+  "symbolID": "F88DCD3F-E063-4D57-94F5-BE823FE08F5F",
   "verticalSpacing": 0
 }
