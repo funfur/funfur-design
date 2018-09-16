@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1168,
+  "changeIdentifier": 1177,
   "do_objectID": "D43F69D3-5C2C-4AC3-8A60-0F2C429360B6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": 866
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,7 +102,7 @@
   ],
   "name": "-g-ic / ic-flash-on",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

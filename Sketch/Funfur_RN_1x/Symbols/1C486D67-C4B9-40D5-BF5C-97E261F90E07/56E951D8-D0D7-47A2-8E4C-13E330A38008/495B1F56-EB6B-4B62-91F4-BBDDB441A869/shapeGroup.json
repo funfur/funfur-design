@@ -57,6 +57,22 @@
       "radius": 8.88888888888889,
       "type": 0
     },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.1
+      }
+    ],
     "do_objectID": "753378CB-31E3-4461-AAAD-8CD4DC035F1A",
     "endMarkerType": 0,
     "fills": [
@@ -65,9 +81,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4666666666666667,
-          "red": 0.4666666666666667
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,

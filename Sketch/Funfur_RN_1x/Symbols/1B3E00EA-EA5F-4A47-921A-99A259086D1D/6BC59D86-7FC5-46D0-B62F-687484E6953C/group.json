@@ -58,11 +58,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 20,
     "width": 20,
-    "x": 2.5,
-    "y": 2.5
+    "x": 2,
+    "y": 2
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -79,7 +79,7 @@
   ],
   "name": "ic-search",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

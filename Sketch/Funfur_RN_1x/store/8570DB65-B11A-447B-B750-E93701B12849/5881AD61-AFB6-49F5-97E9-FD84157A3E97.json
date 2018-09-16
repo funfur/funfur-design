@@ -1,0 +1,167 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5881AD61-AFB6-49F5-97E9-FD84157A3E97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B980BC3-7C97-4576-99D9-B2F7304398BD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68EB760-5CC0-41F4-AB83-8FF149317FE7",
+    "height": 224,
+    "width": 320,
+    "x": 0,
+    "y": 116
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "store / product / related-products / overall",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C94A2EC1-8AD3-4A19-977D-5367D481599F",
+      "overrideName": "649AD7E0-A2DC-4048-A90C-AE0B93CE34C5/B46EA9C3-81ED-4AB1-AA20-C80BE37CE3EE_stringValue",
+      "value": "이 상품의 다른 옵션"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "877C58DC-343E-4A13-A62A-BDB691DFD4DE",
+      "overrideName": "CAB452F6-5FA2-4EF2-8FA2-5FDF90EC88AE/F13E2E53-042B-45BC-9141-E519128EA89B/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/740e1fb5b307923fd2b59ade8994106117428547.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FCCEEAD-CD54-4A07-87FC-6C6D755C32AC",
+      "overrideName": "CAB452F6-5FA2-4EF2-8FA2-5FDF90EC88AE/8F6AF380-5EE4-4063-A513-31A648B33BC1_stringValue",
+      "value": "65,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "074468D3-1088-407C-902E-1584CC1B65E6",
+      "overrideName": "CAB452F6-5FA2-4EF2-8FA2-5FDF90EC88AE/7068D82D-2588-4E05-A935-C3A52E8DDC0E_stringValue",
+      "value": "원목 롱체어(사각)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE26A43E-FADA-4C71-8D92-4E9AD198A463",
+      "overrideName": "30A8D93B-35C6-4FE5-B4EC-53839BDFF931/F13E2E53-042B-45BC-9141-E519128EA89B/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db8e1fab5a30d1e102a4c038c35123bd29a1a066.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D26DB9BE-19E6-4863-A796-C8D93E11A1CD",
+      "overrideName": "30A8D93B-35C6-4FE5-B4EC-53839BDFF931/7068D82D-2588-4E05-A935-C3A52E8DDC0E_stringValue",
+      "value": "플라스틱 원형의자"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "352C1023-DAD5-475B-A19B-0F9DD820C0D2",
+      "overrideName": "30A8D93B-35C6-4FE5-B4EC-53839BDFF931/8F6AF380-5EE4-4063-A513-31A648B33BC1_stringValue",
+      "value": "65,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F9625FA-E3C2-47BF-AA0D-B387714140F8",
+      "overrideName": "0A9EF7FF-B62B-4A83-9310-14C3A80DE878/F13E2E53-042B-45BC-9141-E519128EA89B/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/802b33d5ddea47a3346f8ded1beb858ee11e2aac.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB69F73F-D6D9-40A3-B093-D37E5AFF7F06",
+      "overrideName": "0A9EF7FF-B62B-4A83-9310-14C3A80DE878/8F6AF380-5EE4-4063-A513-31A648B33BC1_stringValue",
+      "value": "65,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF57515B-6DE3-45D4-A171-EC13B6B52531",
+      "overrideName": "0A9EF7FF-B62B-4A83-9310-14C3A80DE878/7068D82D-2588-4E05-A935-C3A52E8DDC0E_stringValue",
+      "value": "플라스틱 화이트"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4248E723-96AE-4EA0-B3E4-EFFA40CB81EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23D331AC-C451-406F-A185-BC72E5452EBB",
+  "verticalSpacing": 0
+}
