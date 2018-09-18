@@ -64,10 +64,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 192,
+    "height": 320,
     "width": 320,
     "x": 0,
-    "y": 188
+    "y": 124
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -79,6 +79,16 @@
   "name": "review / review-images",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95830FEA-160B-484F-8BCA-790E4DD91A33",
+      "overrideName": "A9B7A5C8-FE97-4F95-B01E-D4E650F01E1D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/29be1951fa1610d16458f2e51e3b9c8f96845f29.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,6 +102,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "16BF3DBD-1EC2-4922-A0C9-407347FD1BDF",
+  "symbolID": "3903C593-4205-4146-A1B5-90F2B1CDEC3D",
   "verticalSpacing": 0
 }

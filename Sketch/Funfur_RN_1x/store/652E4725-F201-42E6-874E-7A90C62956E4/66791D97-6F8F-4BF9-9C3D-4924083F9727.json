@@ -66,10 +66,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4EA4B4B3-EEBB-4CB2-B75E-E69E2E430D3B",
-    "height": 192,
+    "height": 320,
     "width": 320,
     "x": 0,
-    "y": 188
+    "y": 124
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -81,6 +81,16 @@
   "name": "review / review-images",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D7D919C-DEFF-4A6D-B98D-E861C4378C60",
+      "overrideName": "A9B7A5C8-FE97-4F95-B01E-D4E650F01E1D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/29be1951fa1610d16458f2e51e3b9c8f96845f29.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,6 +105,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "16BF3DBD-1EC2-4922-A0C9-407347FD1BDF",
+  "symbolID": "3903C593-4205-4146-A1B5-90F2B1CDEC3D",
   "verticalSpacing": 0
 }

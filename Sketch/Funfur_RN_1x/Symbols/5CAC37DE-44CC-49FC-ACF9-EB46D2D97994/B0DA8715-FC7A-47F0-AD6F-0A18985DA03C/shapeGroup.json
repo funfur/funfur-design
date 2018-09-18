@@ -62,10 +62,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7D1DBA03-9F4D-4B75-959A-7422389ADDBE",
-    "height": 172,
+    "height": 288,
     "width": 288,
     "x": 16,
-    "y": 0
+    "y": 16
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -83,7 +83,7 @@
   ],
   "name": "write-review-images",
   "nameIsFixed": true,
-  "resizingConstraint": 10,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -129,7 +129,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/4426fe16a673e99df308210857d07995a3ef662d.png",
+          "_ref": "images/ad1d6824cb02d3e3c03640879aa9f6f77838c7c5.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

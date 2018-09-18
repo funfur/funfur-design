@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 996,
+  "changeIdentifier": 1140,
   "do_objectID": "6E52EFC3-A76C-43D0-BCA9-D9A5AA236BA3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -67,13 +67,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 96,
+    "height": 64,
     "width": 64,
     "x": 8870,
-    "y": 2983
+    "y": 3503
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,7 +102,7 @@
   ],
   "name": "review / write-review-thumbnail",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

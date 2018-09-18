@@ -95,18 +95,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2DB03F1D-E265-4A49-8A55-62E8788F9E5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "43FA0EFB-9D62-47FE-9BCF-87D42640C809"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BBBA402F-9135-4179-A060-FB6F66617506"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3BF5D702-14D5-4224-B9EE-587A6112B68F"
     },
     {
@@ -127,11 +115,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6256FA15-C02F-4D4F-9235-5DA6035610F8"
+      "id": "EB0D5234-8271-48BB-8C69-1768F096D1F0"
     },
     {
       "class": "symbolInstance",
-      "id": "EB0D5234-8271-48BB-8C69-1768F096D1F0"
+      "id": "2DB03F1D-E265-4A49-8A55-62E8788F9E5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43FA0EFB-9D62-47FE-9BCF-87D42640C809"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBBA402F-9135-4179-A060-FB6F66617506"
     }
   ],
   "name": "review / write-review-next",

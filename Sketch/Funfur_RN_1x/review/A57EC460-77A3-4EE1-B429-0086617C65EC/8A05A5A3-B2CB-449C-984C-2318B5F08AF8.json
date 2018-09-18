@@ -61,10 +61,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7BBDE53D-7545-47EF-AA41-AE61AC1DFF5D",
-    "height": 172,
+    "height": 320,
     "width": 320,
     "x": 0,
-    "y": 76
+    "y": 6
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -76,6 +76,16 @@
   "name": "review / write-review-images",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00D98C0A-9DBB-42CB-9F84-ED6E714D9373",
+      "overrideName": "B0DA8715-FC7A-47F0-AD6F-0A18985DA03C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b8bc8bae43bdd67a0ea6eae0f1d7c5ffcaa4922d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

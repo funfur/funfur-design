@@ -1,9 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "shapeGroup",
   "booleanOperation": 0,
-  "do_objectID": "3A111431-903C-4D9E-BE85-1CF743C293D8",
+  "clippingMaskMode": 0,
+  "do_objectID": "A9B7A5C8-FE97-4F95-B01E-D4E650F01E1D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2B1FD6C1-3C6F-4852-808C-8BFCF1EF1127",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,34 +61,62 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 63,
+    "do_objectID": "FFEF47C2-3231-416E-B0B1-F7FEF150FCEF",
+    "height": 320,
     "width": 320,
     "x": 0,
-    "y": 406
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "review / write-review-3lines",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C0AF34D6-77B7-4D87-ADE3-6E498008A365"
+    }
   ],
+  "name": "img-login-hero",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "FB9A6037-05FB-4431-9335-0F31A862C32A",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/c095119e64807723d81950fcec1ac0df27576655.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B115AB90-025B-4010-BA76-EBC6D3A613B8",
-  "verticalSpacing": 0
+  "windingRule": 1
 }
