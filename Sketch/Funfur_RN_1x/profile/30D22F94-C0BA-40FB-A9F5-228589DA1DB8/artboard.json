@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "71B1AE5F-3FE6-4DA5-ACE7-F21EF5651754",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "30D22F94-C0BA-40FB-A9F5-228589DA1DB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2673A9E-F402-46FD-8B84-4794BB1F93FC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB29A361-C7CB-42FA-83CE-7FBE67FED90A",
+    "height": 568,
+    "width": 320,
+    "x": 857,
+    "y": 3206
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3A0FCA63-036E-4207-AC42-9588CB93608B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8F5BF63F-61A0-4E7B-88CE-A3517B0C05F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F64C5DD1-0B5E-4242-904B-544ED035ACCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4073CF6D-DD16-4AE9-9C72-42D27B73D77A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF6A4B5B-1D40-4BA4-BEAF-BB994C94A3D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E43B263-7045-4D27-B6B6-E59D90B63D1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE94DC2D-7CF5-421E-BA2A-D66EE6410B00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22357DDA-2C7C-41E4-AA06-CED2E12FDED0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46EDB47F-C79A-40E3-96F7-8D4423E2A6C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8BF5384-C526-448D-890D-509D9800BBED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42AE8FC3-17BD-448C-A4CD-DFB1A85F6B61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB5C926A-8728-400B-943D-20EA1847D1C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B244BAB5-06F3-4799-A7E7-DC267EF3AF6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71281DC3-49D1-4C20-81EA-533393F7366A"
+    }
+  ],
+  "name": "profile / faq-list-swipe",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E09D16A-F403-4E0C-9C90-F7606DCB0872",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F7CE02CD-6D99-44BD-B3C4-799A2771AF3D",
+    "guides": [
+    ]
+  }
+}

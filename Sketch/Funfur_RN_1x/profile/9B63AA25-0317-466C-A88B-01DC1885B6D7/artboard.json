@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "9B63AA25-0317-466C-A88B-01DC1885B6D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52416B7C-3E9C-447F-935B-B3947E120D70",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "681CBEC1-48E0-4E18-85D0-DE6B7780126D",
+    "height": 568,
+    "width": 320,
+    "x": 2537,
+    "y": 3874
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "047F944C-3C3A-41B0-B014-70B92DDF724F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "61E1AB50-C383-446B-953A-30E43BC5141E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB7C086C-A34D-4854-BFEB-FE3DBB877EE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "129506F8-2FC0-4008-A046-F6E4A0B440D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20E5B9A1-E117-4129-A911-5C25C0458AEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C0C5323-861D-445B-99D1-612C7E8D9984"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECB42305-57FA-47B4-957F-EE0B28089608"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E945FDB2-4762-458B-AC3F-F493194FA1A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7AB1870-32A1-4013-8FA2-959EE60C5462"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39D67FD0-AA19-4FF1-AF85-ACC5FDF88732"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9669C8D3-EC59-4B1F-AD96-A71478034B48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5F43FB8-299F-4D3D-8B5D-6157613E7A32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C91F834-3658-4236-8E30-BC4DF5E059B9"
+    }
+  ],
+  "name": "profile / alert-restock-items",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "161AA15B-E45C-4EFE-B398-7B1A7B4D8DE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C32075C3-31F9-4EC2-8ECE-37962DFA3A89",
+    "guides": [
+    ]
+  }
+}

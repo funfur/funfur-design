@@ -57,12 +57,6 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "3E936525-A341-40C8-9440-551D9A863A51",
-    "do_objectID": "52C98FBC-9A8F-470F-89A3-BA3A6DD0D0FC"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -70,7 +64,7 @@
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 80
+    "y": 32
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,

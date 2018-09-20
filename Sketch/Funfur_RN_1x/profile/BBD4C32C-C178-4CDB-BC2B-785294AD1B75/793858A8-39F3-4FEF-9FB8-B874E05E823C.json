@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "793858A8-39F3-4FEF-9FB8-B874E05E823C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35D41FA0-F8B3-4C37-8D22-08C934767B4B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13E8CBBC-4780-48BC-AB2F-4AD7255C8C49",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 344
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / 3rows-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B79674-49F4-4195-BD29-EF6DD247F40F/CBBE9D14-33EE-46D5-BEDC-4A6DED356133_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d640fcdc44e4ad4a5f0a536d8bb670a54b5320c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
+      "value": "옐로우캡 철제의자"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
+      "value": "64,000원"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6698F898-3DE7-4EF1-8C59-1EB446AC65A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50927F75-C5FE-4D32-B8FE-A8D7B57160FE",
+  "verticalSpacing": 0
+}

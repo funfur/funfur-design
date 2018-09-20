@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F7AB1870-32A1-4013-8FA2-959EE60C5462",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2769FF9A-DC75-43B6-8AF6-35C04F082BEC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF454F83-F962-460E-BCE7-9D6F4398C486",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 136
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / 3rows-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
+      "value": "720,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ED1804D-6709-43AA-91F8-46FD927D61CD",
+      "overrideName": "B1B79674-49F4-4195-BD29-EF6DD247F40F/CBBE9D14-33EE-46D5-BEDC-4A6DED356133_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a13f1203839bb4d5b599d8a0523ac8de01c7b66d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF2B682D-82C7-4032-9929-B48DF5CF054D",
+      "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
+      "value": "벽붙이 캣타워 책장(대)"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "619F91C5-A23E-4524-AF7E-D8FB310E5860",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50927F75-C5FE-4D32-B8FE-A8D7B57160FE",
+  "verticalSpacing": 0
+}

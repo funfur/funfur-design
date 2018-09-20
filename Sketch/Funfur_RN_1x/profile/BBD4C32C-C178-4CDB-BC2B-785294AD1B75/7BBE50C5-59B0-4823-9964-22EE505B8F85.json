@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7BBE50C5-59B0-4823-9964-22EE505B8F85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9F43B34-D6C5-4FA9-8B94-39193E3C3D69",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E5DDD19-BA35-40A6-AF66-1EFE2572797C",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / 3rows-each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1B79674-49F4-4195-BD29-EF6DD247F40F/CBBE9D14-33EE-46D5-BEDC-4A6DED356133_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dc70b3154014537d0311cf7051c3f47d2cc4d5d0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
+      "value": "가설치 원목 장테이블"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
+      "value": "320,500원"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2500A3B6-8335-489A-A658-A21CD1ED63AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50927F75-C5FE-4D32-B8FE-A8D7B57160FE",
+  "verticalSpacing": 0
+}

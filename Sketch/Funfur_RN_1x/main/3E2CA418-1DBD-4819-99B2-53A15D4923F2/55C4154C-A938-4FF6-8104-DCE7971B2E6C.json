@@ -73,19 +73,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / center-text",
-  "nameIsFixed": false,
+  "name": "header / center-text-left-align",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "33CA6F34-BD4E-44DE-BBC5-D0B4BCB91BBF",
-      "overrideName": "815B200D-B17F-4853-B289-612D73259887_stringValue",
-      "value": " "
+      "do_objectID": "17CE81FF-FE69-4592-B708-F98845BABFC7",
+      "overrideName": "E6CFEDE3-BE29-40D7-A185-0A95E2716125_stringValue",
+      "value": "이달의 추천상품"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "67612C2B-3CE9-4319-A029-C666D479694F",
-      "overrideName": "67679CF6-E9D4-48AE-AC7B-C6F64F8B2742_stringValue",
+      "do_objectID": "5D090CF0-2208-4EAE-AE47-546F626B9658",
+      "overrideName": "91EA1486-2AB3-42D4-9791-257BEFD405BC_stringValue",
       "value": "정렬"
     }
   ],
@@ -102,6 +102,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3B94951-DAD5-451E-A2D1-8E59C8F8831A",
+  "symbolID": "69EEF010-A5C1-4A88-9BE0-88346015B1BD",
   "verticalSpacing": 0
 }
