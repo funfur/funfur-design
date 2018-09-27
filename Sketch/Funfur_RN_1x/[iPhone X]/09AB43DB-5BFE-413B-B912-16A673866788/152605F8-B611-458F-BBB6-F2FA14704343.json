@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "DD65164E-BABA-4A9C-9C8D-CD782BB0B85F",
+  "do_objectID": "152605F8-B611-458F-BBB6-F2FA14704343",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4BE1D93E-FA3B-4A5C-91F3-A799315D233F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 320,
+    "do_objectID": "9742346A-0DAA-406B-9899-DAB0C5BD7455",
+    "height": 34,
+    "width": 375,
     "x": 0,
-    "y": 171
+    "y": 778
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,22 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / review / report",
-  "nameIsFixed": false,
+  "name": "-g-ic / indicators / brand",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
-  "resizingConstraint": 10,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8C3BB3F6-2708-427B-A571-B9358F4FC7F3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5285D27B-AEC6-4557-ADF2-6F536256E95A",
+  "symbolID": "32A5573F-D8AC-422E-ACC2-7A26A8FE1360",
   "verticalSpacing": 0
 }

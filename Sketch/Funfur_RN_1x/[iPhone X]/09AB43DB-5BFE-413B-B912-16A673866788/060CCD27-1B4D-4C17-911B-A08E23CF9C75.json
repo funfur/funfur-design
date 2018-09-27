@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "8A05A5A3-B2CB-449C-984C-2318B5F08AF8",
+  "booleanOperation": -1,
+  "do_objectID": "060CCD27-1B4D-4C17-911B-A08E23CF9C75",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0ECE3CAF-3A62-4CA4-A988-151BC4120657",
+    "do_objectID": "CC312BCF-B2F7-40F9-A6C2-D434334532AE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7BBDE53D-7545-47EF-AA41-AE61AC1DFF5D",
-    "height": 320,
-    "width": 320,
+    "do_objectID": "206F271B-99C2-4A50-8577-0A49E9D98546",
+    "height": 144,
+    "width": 375,
     "x": 0,
-    "y": 6
+    "y": 550
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,19 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "review / write-review-images",
+  "name": "checkout / price / price-card-base",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "00D98C0A-9DBB-42CB-9F84-ED6E714D9373",
-      "overrideName": "B0DA8715-FC7A-47F0-AD6F-0A18985DA03C_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/0075b6f154d178cd380ed006a5b344c96b964ace.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7C481CDB-C5F5-4B52-A28C-A497C9328E5F",
+    "do_objectID": "D993610F-11DF-4F78-BC26-7CB5F611B3B8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A078F633-C2A7-4699-B898-225FBFC412E8",
+  "symbolID": "B4013A21-3DA1-4631-9822-0F4B9D29AA4B",
   "verticalSpacing": 0
 }

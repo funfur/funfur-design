@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "F495999D-1BAE-4B8B-88CF-BCAF6E8F3A6B",
+  "do_objectID": "4D763D61-3062-4CA8-9A55-FD92628C2615",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "02EB0943-F86C-4323-AB82-B9436FBB5A26",
+    "do_objectID": "649E2537-AEA7-4009-8529-411D63975905",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2B2015D8-8B40-43B0-9FE5-B39D30E25FF4",
-    "height": 56,
-    "width": 320,
+    "do_objectID": "AEE53958-86D1-4F1D-B32F-AAF515E1C583",
+    "height": 100,
+    "width": 375,
     "x": 0,
-    "y": 497
+    "y": 32
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,7 +73,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / agree-policy-text",
+  "name": "checkout / delivery-msg-on-checkout-page",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -84,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0992BEB5-E759-4D1B-BD66-699A2E0F6D69",
+    "do_objectID": "C2D09379-9DDE-4078-AB48-5D82307A9C00",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "14BCE8E2-C5E9-4976-AA83-0600139F5C0F",
+  "symbolID": "D26109E8-BBE2-4342-8295-81BE37FE185C",
   "verticalSpacing": 0
 }

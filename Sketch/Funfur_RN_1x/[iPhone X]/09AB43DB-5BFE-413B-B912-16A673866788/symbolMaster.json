@@ -1,0 +1,162 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "do_objectID": "8C45CAE8-6E46-4EFE-9B13-7D3DCB5D960C",
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1345,
+  "do_objectID": "09AB43DB-5BFE-413B-B912-16A673866788",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49875140-299C-4D48-A838-AC4167881C25",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6154D2BF-9223-4F25-9A85-E2DAEA042365",
+    "height": 812,
+    "width": 375,
+    "x": -3086,
+    "y": -1318
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "682296C0-64F0-40A2-BFC2-4A963B6E6634",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5744ABC4-C806-4D3B-AAF3-7EC06AC13271"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A9163C1-E92E-4138-84E5-3CDB8F83A8D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D763D61-3062-4CA8-9A55-FD92628C2615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F23B6546-63C9-46D8-9076-E6B8DF6FFF35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0ED450F-8297-4FC7-A623-C470D393D403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3FEF8D0-D292-4C96-B67E-E952ABCEE8AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69ECF723-99AF-4235-9B86-31A646791FAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "152605F8-B611-458F-BBB6-F2FA14704343"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "060CCD27-1B4D-4C17-911B-A08E23CF9C75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F42DC04C-0997-420F-99AB-C7763EB1797A"
+    }
+  ],
+  "name": "[iPhone X] / checkout / basic-swipe",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C53C9C88-FF26-4949-8F3C-04C3B4F6720E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE1DEC7C-D2B5-4227-93B9-9CD5A2C67840",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F04BAF7-EB4A-4FE6-8424-6575925F0A90",
+    "guides": [
+    ]
+  }
+}

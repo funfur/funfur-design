@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "B2E4D9C1-A9B5-4EB9-AC32-F56DBAD1454F",
+  "do_objectID": "F39E3BC3-C8AB-4BFA-8099-75AA13CCD53E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5CBFE0CD-5B2E-418D-A6EA-25C162E34E6F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
+    "do_objectID": "F95D6D59-8292-4FBA-9CFB-4D7376D360D6",
+    "height": 1,
     "width": 320,
     "x": 0,
-    "y": 438
+    "y": 210
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,22 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "review / write-review-title",
+  "name": "header / misc / bottom-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "FC1F0956-23B6-4C7C-AFEF-45AC1F54855B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "66C062F4-1650-4AEC-A028-BE43637752AF",
+  "symbolID": "AF6CBC48-A42D-492E-9041-90F4D338B7D4",
   "verticalSpacing": 0
 }

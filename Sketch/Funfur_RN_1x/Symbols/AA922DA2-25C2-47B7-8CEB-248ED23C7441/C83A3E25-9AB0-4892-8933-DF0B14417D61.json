@@ -59,10 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 123,
-    "y": 10
+    "height": 14,
+    "width": 14,
+    "x": 125,
+    "y": 16
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,8 +71,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / ic-star-full",
-  "nameIsFixed": false,
+  "name": "-g-ic / ic-star-full-small",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 9,
@@ -87,6 +87,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D3ACD21B-D60C-4899-B11D-14D56ACD31C1",
+  "symbolID": "E3FF994E-C0CB-4D79-8162-84D38A67429B",
   "verticalSpacing": 0
 }

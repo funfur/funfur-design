@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "4F784B8E-64C3-4D25-B8FF-F9028478B8DD",
+  "do_objectID": "68109B08-96F7-47C9-BCF2-C2D97CEE89D9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2D49F23B-01B8-462C-B896-5726C691EF80",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,10 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
+    "do_objectID": "2F68662F-4A25-44F9-BBCF-34D7076F415B",
+    "height": 812,
     "width": 375,
     "x": 0,
-    "y": 586
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,8 +73,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / price / price-card-base",
-  "nameIsFixed": false,
+  "name": "[iPhone X] / checkout / basic-swipe",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -82,11 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "59D209B0-21F2-4263-9F47-0A802DA2E7AD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B4013A21-3DA1-4631-9822-0F4B9D29AA4B",
+  "symbolID": "FE1DEC7C-D2B5-4227-93B9-9CD5A2C67840",
   "verticalSpacing": 0
 }

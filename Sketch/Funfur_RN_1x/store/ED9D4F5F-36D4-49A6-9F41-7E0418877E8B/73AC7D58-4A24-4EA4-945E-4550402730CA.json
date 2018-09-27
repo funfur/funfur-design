@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "E929AD06-E805-4ED0-B9AC-D7E8D490F679",
+  "do_objectID": "73AC7D58-4A24-4EA4-945E-4550402730CA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E3FF7FC7-7414-4501-9C4F-10A8441F4F26",
+    "do_objectID": "5600D0BE-B8D8-4E56-95D6-82EE905F4657",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "92020B70-9888-4B29-A2CB-41FB53AFBAA9",
-    "height": 18,
+    "do_objectID": "051F28D0-AC1F-4CC3-8249-BE8318F05A71",
+    "height": 175,
     "width": 320,
     "x": 0,
-    "y": 267
+    "y": -69
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,51 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / review / report",
+  "name": "store / review / each-card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A7B81F8-BA9F-4A13-BC2E-2A63C4A0BE02",
+      "overrideName": "1164A774-2369-4E03-904F-F53A310128C9/2A11E83E-E561-4260-9CCC-699596702206_stringValue",
+      "value": "디자인때문에 구매하게된 가구인데, 품질 역시 실망시키지 않는군요 ㅎㅎ 앞으로 뻔뻐에서 더 많은 가구들을 구매할것같아요!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29793052-34E5-4A2B-B6F7-13EE3682579C",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/F8AB0DCB-EE9F-4D1B-9EA0-C1B94965A862_stringValue",
+      "value": "tomodachi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D86BB01-4CDB-490C-A812-52727A3198EA",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/0B617B79-1999-4954-8EEA-F4D87F2C282C_stringValue",
+      "value": "1주 전"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54DFE130-15AB-4C5E-AE46-421105F71A33",
+      "overrideName": "8E786AB8-B2C7-4596-BF38-AEB0A98CA4FD/FF422C85-91F0-47E5-938A-70C68A9870F4/EF19734E-43B4-4711-970E-4A2930EAA8C8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/edc0a952502696f4a09add3ce112ccaa870cae72.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
-  "resizingConstraint": 10,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "46D4E64E-D6CA-465D-85AC-8CAF8D771B03",
+    "do_objectID": "BAA804A7-09F7-4968-91D7-62B507068012",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5285D27B-AEC6-4557-ADF2-6F536256E95A",
+  "symbolID": "C69B3C4E-040A-454B-A906-4D8EEE957FF4",
   "verticalSpacing": 0
 }

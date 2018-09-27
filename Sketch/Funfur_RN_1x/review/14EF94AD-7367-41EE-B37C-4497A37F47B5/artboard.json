@@ -74,7 +74,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,22 +94,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B2E4D9C1-A9B5-4EB9-AC32-F56DBAD1454F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "742E2950-41C8-4188-BD3A-31B9931C47D5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "72BC0FA3-F901-40BB-9836-BD3873B47898"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FEA1B89D-0220-4254-8E02-50A3B91E5A21"
-    },
-    {
-      "class": "symbolInstance",
       "id": "299B4437-5049-49B6-AFFC-066A5D096BC1"
     },
     {
@@ -127,6 +111,22 @@
     {
       "class": "symbolInstance",
       "id": "2402720E-2DB6-46E0-87FA-637AB2A2D04B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85719237-1C06-4234-B0B1-2F0CAE71711F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C888D36-99F3-4BE3-B9D5-475D83FD4499"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D172DD62-6483-4F7D-8F95-A383EF32890A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "518A2DC9-8FDC-46CC-AA52-5E0C51E40E02"
     }
   ],
   "name": "review / write-review-before",

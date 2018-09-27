@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "8A2C0C9F-6063-4A64-A812-6E531783F4D7",
+  "booleanOperation": -1,
+  "do_objectID": "A5E74015-158A-4CF2-93AF-3E22DB2EEF5A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "530FE8DF-24BE-4B1F-A60A-BB278A8EB9C1",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +59,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "17119953-7B39-4ECE-9E5E-A5EE07362C7C",
-    "height": 34,
-    "width": 375,
+    "height": 211,
+    "width": 320,
     "x": 0,
-    "y": 778
+    "y": 257
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,8 +71,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / indicators / transparent",
-  "nameIsFixed": true,
+  "name": "checkout / set-checkout-method",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -84,12 +82,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DDC2A7E6-BAAB-4757-BFA9-73B77535C175",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FD1255C0-096F-40F2-AC2A-47C2377D9F48",
+  "symbolID": "7DF97F9E-FA98-48D4-BAD0-B902F17B6E44",
   "verticalSpacing": 0
 }

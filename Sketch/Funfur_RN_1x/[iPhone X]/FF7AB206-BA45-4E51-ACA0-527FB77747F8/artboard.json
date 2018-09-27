@@ -1,9 +1,18 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "FEA1B89D-0220-4254-8E02-50A3B91E5A21",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7B5A5CD8-FADB-4E95-B614-41A6D90E5462",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "FF7AB206-BA45-4E51-ACA0-527FB77747F8",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "62676FCD-7C0D-42C8-A4A8-659BC2C1EB63",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,44 +68,63 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 320,
-    "width": 320,
-    "x": 0,
-    "y": 68
+    "do_objectID": "6C72DBBD-139F-427E-900C-69672C58A311",
+    "height": 812,
+    "width": 375,
+    "x": 1739,
+    "y": -1318
   },
-  "horizontalSpacing": 0,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "76EA580C-C6AD-4837-89E3-B8B47ABC1820",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "review / write-review-images",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "C234DF1E-9B9D-4E34-82A2-04DFF2C9C095",
-      "overrideName": "B0DA8715-FC7A-47F0-AD6F-0A18985DA03C_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/0075b6f154d178cd380ed006a5b344c96b964ace.png",
-        "_ref_class": "MSImageData"
-      }
+      "class": "symbolInstance",
+      "id": "68109B08-96F7-47C9-BCF2-C2D97CEE89D9"
     }
   ],
+  "name": "[iPhone X] / checkout / basic-swipe",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5706F069-F1A1-4566-BC9E-B9EC27C264F5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A078F633-C2A7-4699-B898-225FBFC412E8",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F986181D-2CD3-4538-B843-13091531321C",
+    "guides": [
+    ]
+  }
 }

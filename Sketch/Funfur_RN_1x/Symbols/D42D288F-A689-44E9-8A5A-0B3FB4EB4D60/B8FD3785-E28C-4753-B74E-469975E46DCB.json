@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "742E2950-41C8-4188-BD3A-31B9931C47D5",
+  "booleanOperation": -1,
+  "do_objectID": "B8FD3785-E28C-4753-B74E-469975E46DCB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5FED396F-30C2-4AE0-9DB4-F10102DE948E",
+    "do_objectID": "5C3C1F3D-A405-46AF-8909-164A654196C8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DB56FEE5-5DDB-47C2-AF38-44410BEC267B",
-    "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 410
+    "do_objectID": "7D1D5645-E85A-4811-A755-377419849A4D",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 51
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-subtext",
-  "nameIsFixed": false,
+  "name": "checkout / form-radio-each",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EE709C3-C815-4573-9605-A61AA852F0F2",
+      "overrideName": "BF6E47C7-29DA-4C11-A388-9AEB4247FBCA_symbolID",
+      "value": "E61E5BB5-EE2C-45A8-936D-25B54CC0B42E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "150C2BF0-BFA5-4EBC-A2FF-C5A0C9AA2E10",
+      "overrideName": "750595B1-D0CE-4931-8219-6B1ADEF574CF_stringValue",
+      "value": "카드결제"
+    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EB5AD1D5-8A40-479D-889E-1BD9304CCCD2",
+    "do_objectID": "D1C2EEEC-F4AB-4C45-BB87-F1B3F251A5A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
+  "symbolID": "94E46544-930E-4A14-A79A-CC1A0CA23C2F",
   "verticalSpacing": 0
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "17BFF66C-762D-4C8B-85F7-D86B0F83DA2E",
+  "booleanOperation": -1,
+  "do_objectID": "34CFB4E1-14AB-4DDD-BBA4-51D73A42206D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "17E2EA33-C5E2-4254-A131-A55DD90D75CD",
+    "do_objectID": "B9249128-0079-467C-AE1B-D0C78D381B21",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ACC81D11-C1A5-4D98-A460-C1C190B7FA37",
-    "height": 34,
-    "width": 375,
+    "do_objectID": "D267AA29-4E9B-40AB-96E1-5B33C43AF283",
+    "height": 48,
+    "width": 320,
     "x": 0,
-    "y": 778
+    "y": 99
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / indicators / brand",
-  "nameIsFixed": true,
+  "name": "checkout / form-radio-each",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A853A475-A3A9-4A3D-B59D-E11E0DA4903C",
+      "overrideName": "BF6E47C7-29DA-4C11-A388-9AEB4247FBCA_symbolID",
+      "value": "E61E5BB5-EE2C-45A8-936D-25B54CC0B42E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81B6FB07-C633-4D75-8EF2-861D833DB1C0",
+      "overrideName": "750595B1-D0CE-4931-8219-6B1ADEF574CF_stringValue",
+      "value": "실시간 계좌이체"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3262C54B-3D82-41B0-9304-FA44422FEC46",
+    "do_objectID": "A26A1002-35E4-4145-8CB6-3F597CEC83DC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "32A5573F-D8AC-422E-ACC2-7A26A8FE1360",
+  "symbolID": "94E46544-930E-4A14-A79A-CC1A0CA23C2F",
   "verticalSpacing": 0
 }
