@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C98258A6-E30E-4F63-B451-FD60F5DBA68F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CB6F0AC-BDDC-434F-BEE2-09BA68CC7593",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "076DD148-1679-4000-9E3E-9028967DA867",
+    "height": 68,
+    "width": 375,
+    "x": 0,
+    "y": 308
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / horizontal / heading-w-subtitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB49C551-74B2-45E7-8BBE-15652A4F1654",
+      "overrideName": "ADC1E803-9DD4-4314-9729-1FED2035A060_stringValue",
+      "value": "좌식 우든 티테이블(베이지)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C305AFA-2357-49C8-8C0D-3CA6CC3727E2",
+      "overrideName": "0F2FCAAD-B9F9-45AA-9B97-578E9FAB206F/6AF3429B-CEDD-46A7-AA71-1FBC91A64075_stringValue",
+      "value": "알망스타일 가구"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25F6DE28-E364-40A0-AA58-CAE25E83D06F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "532A9A2D-1BE5-48F2-8EB0-ACB459195C5A",
+  "verticalSpacing": 0
+}

@@ -1,10 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "585FBA7A-3C0A-4F78-BF75-22CBAA82A146",
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5CADA34C-2C15-42FD-A859-DC0EEB0DAB9D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4E4FE0F3-FE07-4BBB-B744-1E763367F13B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,36 +59,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8C867ECD-5E1B-4B87-801D-BBBE31B1390D",
     "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 308
+    "width": 20,
+    "x": 2,
+    "y": 2
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-subtext",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BEAC7A29-0626-4646-8C29-A7B7A47ED175"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDA98017-52C5-4F6B-9B1C-20266463C75E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7107E58-2DE7-4EA0-A51E-BC44B7C8DC20"
+    }
   ],
-  "resizingConstraint": 9,
+  "name": "ic-cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "67D66EB5-DBF4-4353-8E45-DFD9AB4F5427",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
-  "verticalSpacing": 0
+  }
 }

@@ -1,10 +1,19 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3120DBE9-8E74-435F-A63F-CFEE33094AEB",
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": 0,
-  "do_objectID": "D172DD62-6483-4F7D-8F95-A383EF32890A",
+  "changeIdentifier": 4046,
+  "do_objectID": "4FFDF5F7-1E3E-47EE-9A3C-2E6F37EB5B9B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1304306D-16A5-421A-BB71-79642ECBFD62",
+    "do_objectID": "61E62387-18A1-4DD5-922C-1C2B87FBDD00",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,36 +69,58 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5FB06F4-6859-4B57-AB72-D162DABA9FCB",
-    "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 308
+    "do_objectID": "2B3167BD-7DE3-49FF-A4DC-87FA4F2D94A6",
+    "height": 568,
+    "width": 320,
+    "x": -1282,
+    "y": 806
   },
-  "horizontalSpacing": 0,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3146625A-0443-4C7D-A934-B21FE8CF708A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-subtext",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C99AF6A-2833-4FA8-97A3-F43140038E60"
+    }
   ],
-  "resizingConstraint": 9,
+  "name": "layer / layer-dim-8",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "0F1B4941-FED2-4A4C-89F5-E5B15C74F4A6",
+    "do_objectID": "966167E8-3049-4662-A8D9-A0BACB80C081",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
-  "verticalSpacing": 0
+  "symbolID": "90F50030-BAB8-479C-9BF6-9BBF7E435D0B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1E0E8CF-7E95-4BF3-BC4A-AA0C3B01C0D7",
+    "guides": [
+    ]
+  }
 }

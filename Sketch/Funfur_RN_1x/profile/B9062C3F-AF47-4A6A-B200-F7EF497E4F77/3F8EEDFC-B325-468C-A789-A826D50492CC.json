@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "1229A013-B211-4C42-A452-CD32B4DAE8E2",
+  "do_objectID": "3F8EEDFC-B325-468C-A789-A826D50492CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CBB8793E-9604-4167-9FB2-88BF34463091",
+    "do_objectID": "DEC92C6C-9840-422F-B8BA-23B87D86053F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F51BBFC6-9008-48D5-AAC7-EB36646D03AF",
+    "do_objectID": "71C7ADF8-B29A-42E9-ADE3-F4297A01263C",
     "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 286
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-title",
+  "name": "Bars/Status Bar/Status Bar - On Light",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "839FE7F7-9BC7-4C09-8975-C8B7B54B133F",
+    "do_objectID": "B141FD6F-9980-4C25-BE81-5611FE41191E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "406BA6B8-D76E-40CF-AAB8-D6212DE2B762",
+  "symbolID": "84C5F438-BAE7-43DB-A14D-97C9B3F45B87",
   "verticalSpacing": 0
 }

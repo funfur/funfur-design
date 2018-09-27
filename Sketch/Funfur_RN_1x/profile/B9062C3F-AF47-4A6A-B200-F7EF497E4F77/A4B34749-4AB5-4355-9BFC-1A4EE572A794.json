@@ -1,9 +1,10 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "4ADE5D88-B0BD-4023-B0EB-5C1B30FB0EE6",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A4B34749-4AB5-4355-9BFC-1A4EE572A794",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E9CF9DDB-A59A-43C4-8A99-1FBC2EF24684",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,51 +60,60 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 2,
-    "y": 2
+    "do_objectID": "F552978E-001A-46AD-AEB8-7998EF8B1A68",
+    "height": 163,
+    "width": 256,
+    "x": 32,
+    "y": 203
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "modal / modal-confirm-1line",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "BEAC7A29-0626-4646-8C29-A7B7A47ED175"
+      "_class": "overrideValue",
+      "do_objectID": "CCC8FF21-924A-4E5D-85DB-7DA3FC3361A6",
+      "overrideName": "6BEE0253-8A50-4951-821C-47BB4FF1167B/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
+      "value": "주문을 취소하시겠습니까?"
     },
     {
-      "class": "shapeGroup",
-      "id": "EDA98017-52C5-4F6B-9B1C-20266463C75E"
+      "_class": "overrideValue",
+      "do_objectID": "A09427BC-ED56-410C-BD9C-E9D549E6BF02",
+      "overrideName": "50E3CBC2-ECA0-499C-9D3D-D587344824A4_stringValue",
+      "value": "주문 취소는 바로 진행되며, 주문 금액은 계좌로 환불됩니다."
     },
     {
-      "class": "shapeGroup",
-      "id": "E7107E58-2DE7-4EA0-A51E-BC44B7C8DC20"
+      "_class": "overrideValue",
+      "do_objectID": "C0CF208B-778F-48A4-B511-37789D31C984",
+      "overrideName": "F96BC77F-059D-41B1-AECE-B108587078DC/4DC2F886-DED7-4CA9-AF93-732D27BDCADD_stringValue",
+      "value": "주문취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76CAF25C-CADA-4CE0-97F7-3A970E7B793E",
+      "overrideName": "A67027F0-963C-4D9F-AED2-7249F22C7D2B/B3425872-E79D-49B2-83D7-0FA6C9DC048D_stringValue",
+      "value": "돌아가기"
     }
   ],
-  "name": "shopping-cart",
-  "nameIsFixed": false,
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 0.390625,
-      "type": 0
-    },
+    "do_objectID": "FEA611E1-0A51-4E38-83A7-0607152DED31",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1B62FC91-64BE-4A07-A4D6-7284A095093E",
+  "verticalSpacing": 0
 }

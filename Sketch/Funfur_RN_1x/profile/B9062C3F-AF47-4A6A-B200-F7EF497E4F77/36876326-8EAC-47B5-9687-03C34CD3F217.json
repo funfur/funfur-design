@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "D8C5CB8A-06C3-4CDD-A53B-CEEA5AA44762",
+  "do_objectID": "36876326-8EAC-47B5-9687-03C34CD3F217",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "768AA973-35C2-4408-90AF-E070C271F720",
+    "do_objectID": "737E95FC-9F36-4C07-BCE2-85DE53065E62",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D96C3F59-CDDB-4076-831B-DC2E5E09D1E4",
-    "height": 20,
-    "width": 343,
-    "x": 16,
-    "y": 467
+    "do_objectID": "D06D71D8-E9E9-451D-A240-625A9B099DD8",
+    "height": 220,
+    "width": 320,
+    "x": 0,
+    "y": 76
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-title",
+  "name": "profile / history / card-each",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "777772F9-D033-4F58-B997-98FC7EFCA9D4",
+    "do_objectID": "1227B629-BF13-4122-B9C6-6DD5274A6476",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "406BA6B8-D76E-40CF-AAB8-D6212DE2B762",
+  "symbolID": "0DDA25CB-94EA-499F-A3FB-3648853AE709",
   "verticalSpacing": 0
 }

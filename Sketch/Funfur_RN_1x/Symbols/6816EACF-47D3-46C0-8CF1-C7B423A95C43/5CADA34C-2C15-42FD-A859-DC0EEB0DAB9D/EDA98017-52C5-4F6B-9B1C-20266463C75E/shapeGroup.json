@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 3.60991983122363,
-    "width": 3.517890625,
-    "x": 12.7969140625,
-    "y": 16.3855105485232
+    "constrainProportions": true,
+    "height": 3.5,
+    "width": 3.5,
+    "x": 13.5,
+    "y": 16.5
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,20 +27,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "2B7E670E-38F6-49C5-8F6B-50ED95061A8B"
-    },
-    {
-      "class": "shapePath",
-      "id": "48E3DEFB-569A-4B35-A20F-6AE199B99316"
     }
   ],
   "name": "Shape",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -51,25 +47,9 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 0.390625,
+      "radius": 0.37109375,
       "type": 0
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 0.75
-      }
-    ],
     "endMarkerType": 0,
     "fills": [
       {

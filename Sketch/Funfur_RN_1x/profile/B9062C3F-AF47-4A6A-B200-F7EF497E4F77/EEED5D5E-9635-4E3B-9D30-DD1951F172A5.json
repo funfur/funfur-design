@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "B2423392-2D7D-46AD-8611-C4667F17612F",
+  "do_objectID": "EEED5D5E-9635-4E3B-9D30-DD1951F172A5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9175AAF-CBEB-4918-9F67-DDE1CE6A55CF",
+    "do_objectID": "69B86302-5E74-492D-A44D-0E6367E309B8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0C3D6497-0D33-4869-81D2-A4B523A84B95",
-    "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 286
+    "do_objectID": "B4707950-1E7E-4B36-93FE-4E3BD4AAFF3C",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 20
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-title",
+  "name": "header / center-text-2-icons",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F43906CC-A2C5-4CE2-91CD-CE408DFD7B64",
+      "overrideName": "E155E95F-0EDB-490A-A988-59625B6BCEA0_stringValue",
+      "value": "주문내역ㆍ배송조회"
+    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38F251B7-7291-45A1-9B5C-B07823D197EA",
+    "do_objectID": "2F8BD96A-644F-4309-B215-426477C8E254",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "406BA6B8-D76E-40CF-AAB8-D6212DE2B762",
+  "symbolID": "35B01909-37D8-4E98-98C2-7F2FB4FB6428",
   "verticalSpacing": 0
 }

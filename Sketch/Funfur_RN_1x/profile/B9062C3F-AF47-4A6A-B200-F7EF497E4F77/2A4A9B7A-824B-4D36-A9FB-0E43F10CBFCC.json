@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "E89B5C3F-B740-4375-85A4-8B84EFD66472",
+  "do_objectID": "2A4A9B7A-824B-4D36-A9FB-0E43F10CBFCC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "693B3EBA-5B35-4D84-95B5-466C98F7EB34",
+    "do_objectID": "814828DF-6A8F-43C8-87F9-29EC31986405",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FD42354D-528B-495D-BAF1-EB75DB3619AF",
+    "do_objectID": "901C14D2-E0B0-4C01-B9C6-68C5DD73E1B1",
     "height": 20,
-    "width": 343,
-    "x": 16,
-    "y": 489
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,23 +73,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cart / price / text-product-subtext",
+  "name": "header / misc / status-bar-base",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3D78F528-1302-47C4-A264-C69E662B5730",
+    "do_objectID": "C551A531-219D-4C27-8F5D-E843D6525283",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
+  "symbolID": "50ACE2DF-41D7-4D23-ACDC-1A226AEF4902",
   "verticalSpacing": 0
 }

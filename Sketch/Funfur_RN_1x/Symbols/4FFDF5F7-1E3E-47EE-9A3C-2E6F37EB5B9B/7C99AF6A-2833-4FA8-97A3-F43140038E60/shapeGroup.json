@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "shapeGroup",
   "booleanOperation": 0,
-  "do_objectID": "63EAB31A-5A61-4CF3-BA27-4FD9D828E7E1",
+  "clippingMaskMode": 0,
+  "do_objectID": "7C99AF6A-2833-4FA8-97A3-F43140038E60",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "54EF33AB-E725-413A-934B-A48F7DA12C6E",
+    "do_objectID": "20B256F2-AF61-44A9-ADD9-7063D4206C31",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,36 +61,66 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B8571D0F-8180-42B4-9AFF-D9FD990B81FC",
-    "height": 20,
-    "width": 288,
-    "x": 16,
-    "y": 308
+    "do_objectID": "7E767DC6-1CF7-4CAF-B2A3-C332CBB82489",
+    "height": 568,
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "cart / price / text-product-subtext",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5EEF5A5C-10D6-469C-A5EA-E4A7C5DEB45B"
+    }
   ],
-  "resizingConstraint": 9,
+  "name": "layer-dim-8",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AE4F5785-D832-459A-B406-FC79D54BB27F",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BC44776D-E291-4127-9A88-CF8776A4A007",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0,
+      "type": 3
+    },
+    "do_objectID": "3C996B22-5825-40AB-864A-C0B953E8619D",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.08,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9A4C26-BBF9-4857-A011-3B7DA2330CA0",
-  "verticalSpacing": 0
+  "windingRule": 1
 }
