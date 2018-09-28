@@ -1,10 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BF453FB4-6E67-45EB-8201-D07E954AE8C3",
+  "do_objectID": "AB210FFB-04D9-4E38-B26D-E8D3FEABDE93",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4E31CA67-1D4B-4614-BA8F-23EFD405E9F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 18.95347288127768,
-    "width": 18.94236177016657,
-    "x": 0.5288191149167181,
-    "y": 0.5232635593611374
+    "constrainProportions": false,
+    "do_objectID": "08B87DB9-12CA-460C-8456-E668E21D3E9F",
+    "height": 9,
+    "width": 1.25,
+    "x": 16.75,
+    "y": 9
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -27,18 +29,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "53660BB3-FA63-49D2-AB7E-CAA7E00E46F5"
-    },
-    {
-      "class": "shapePath",
-      "id": "539BD7BC-CE19-4858-AA44-3DFDC87B7C85"
+      "class": "rectangle",
+      "id": "A51F75DE-C4D4-4614-88AB-0A9917CEDA81"
     }
   ],
-  "name": "icon/action/search_24px",
+  "name": "Path",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,14 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 11.11111111111111,
-      "type": 0
-    },
+    "do_objectID": "C43CB723-9BAA-4260-805A-3ABB3F697E50",
     "endMarkerType": 0,
     "fills": [
       {
@@ -61,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.0980392156862745,
+          "green": 0.7450980392156863,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

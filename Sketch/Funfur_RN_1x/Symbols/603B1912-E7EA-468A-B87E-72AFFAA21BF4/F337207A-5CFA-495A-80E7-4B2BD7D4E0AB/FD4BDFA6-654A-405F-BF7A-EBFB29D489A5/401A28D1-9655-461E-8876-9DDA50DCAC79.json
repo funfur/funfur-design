@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "rectangle",
   "booleanOperation": 0,
-  "do_objectID": "E27D4B45-E71D-4E2C-AC4A-EB2474CBD137",
+  "do_objectID": "401A28D1-9655-461E-8876-9DDA50DCAC79",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "511FC9D8-F33F-487E-B650-33172099C450",
+    "do_objectID": "687A23D6-9930-4364-A76A-BD7123A65AEE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -57,40 +58,71 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0.75,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ABB14343-5139-4A61-B226-A4CB5E6F37F4",
-    "height": 18,
-    "width": 20,
-    "x": 2,
-    "y": 3
+    "do_objectID": "9E7D8F6E-4BB3-480A-AC94-C5E56FBFA423",
+    "height": 1.25,
+    "width": 14,
+    "x": 2.178784501959399,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 2,
+  "points": [
     {
-      "class": "shapeGroup",
-      "id": "35523FCD-1A37-4BFC-BFA1-1E73170DFF03"
+      "_class": "curvePoint",
+      "cornerRadius": 0.75,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.75,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.75,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.75,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "name": "ic-store-focused",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "do_objectID": "EC4BDFDB-75E7-41C4-8571-3E84DB6C4312",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }

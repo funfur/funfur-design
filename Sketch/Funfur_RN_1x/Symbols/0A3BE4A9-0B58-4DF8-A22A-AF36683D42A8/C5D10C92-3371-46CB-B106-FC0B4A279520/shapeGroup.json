@@ -60,10 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 8,
-    "width": 8,
-    "x": 0,
-    "y": 0
+    "height": 6,
+    "width": 6,
+    "x": 1,
+    "y": 1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -87,6 +87,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
     "endMarkerType": 0,
     "fills": [
       {
