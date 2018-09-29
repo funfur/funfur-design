@@ -72,7 +72,7 @@
     "y": 2390
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -87,7 +87,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -98,12 +98,8 @@
       "id": "C9BA194C-6289-41C1-B8AE-385CBAC6DEFE"
     },
     {
-      "class": "symbolInstance",
-      "id": "34832453-6FC6-4EDB-9E49-46B2A2EE02CA"
-    },
-    {
       "class": "group",
-      "id": "CE5157C6-6292-452B-9108-5DC8A7E20F5A"
+      "id": "939FAA7B-1481-414C-BA8C-2DB31869B9A8"
     }
   ],
   "name": "appstore-01",

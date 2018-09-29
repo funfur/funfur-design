@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9D958DA2-72CD-40A4-B273-57676970A088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E170094-12F9-4E25-80D4-60815EC7B249",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DC0CCCC-1582-43E4-B882-456F00C68439",
+    "height": 226,
+    "width": 160,
+    "x": 0,
+    "y": 334
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main / list / each-left",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC0ADCE8-2684-42F4-BFB9-4A5ED8EF9DC8",
+      "overrideName": "60F20D29-7F2A-41E5-96E6-9D765673D9B0/86523597-10E2-48B1-8C12-8A16922AE1A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5859b211d48e8e0dd111bd6f6d47cd1bda961133.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1356348-0EA3-4B33-8F82-CCC355F7C074",
+      "overrideName": "BE59072D-69CB-41E9-9A99-EE49E79E2FEC_stringValue",
+      "value": "올댓 베드테이블"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "839FAC91-A2FE-4E85-95A5-D68FD9B76BF2",
+      "overrideName": "A7120434-A972-491A-92E0-5FC9E3483F8A_stringValue",
+      "value": "240,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C823E929-DC8A-43DD-8D80-EC2282BCC8BF",
+      "overrideName": "E6C12901-4C7D-426E-AB12-C446E6409039/69DA53A4-5E28-4BEF-AA30-C4844EE8D509_stringValue",
+      "value": "12"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75270EB0-E86A-46B4-A0FD-F007173052A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B2143FC-3930-43F2-93A6-1CF94FC91A73",
+  "verticalSpacing": 0
+}

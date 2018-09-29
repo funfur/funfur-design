@@ -61,8 +61,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A31391FB-A15F-4258-93AE-A7CED19684AB",
-    "height": 1363.29375,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -76,11 +76,17 @@
   "name": "[SYMBOL] / store / basic",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "411A88B6-8F72-4C34-94EF-E4B7A2BC13B7",
+      "overrideName": "C0A32B05-B9AB-4FA1-9CDC-D5065A2EDAA5_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 2.4,
+  "scale": 2.5,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,7 +96,7 @@
       "do_objectID": "3F63C542-B9C6-49E3-9131-6F057633CBAC",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 24,
+      "radius": 25,
       "type": 0
     },
     "do_objectID": "6573321C-2F9C-4B14-95CC-A3391FB46E5B",

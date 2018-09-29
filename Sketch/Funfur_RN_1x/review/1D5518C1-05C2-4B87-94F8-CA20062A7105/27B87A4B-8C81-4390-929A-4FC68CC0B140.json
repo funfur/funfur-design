@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "27B87A4B-8C81-4390-929A-4FC68CC0B140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24D68F91-4FED-4856-BAFD-8130E7E5115C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DAD5681-B9FE-4221-BFB6-FE15B4EB734E",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 164
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "review / user-profile-nickname-only",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "950D6FEC-84E6-4C4F-9E39-4E63F9114A1C",
+      "overrideName": "92D4B1E0-D24C-4FE4-A073-DD7698AE8A87/EF19734E-43B4-4711-970E-4A2930EAA8C8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/869b099fd46122c3918e6cde3b6d5c03815fc6ff.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4F791E4-D54B-4A7C-9B96-68DEA918AF2C",
+      "overrideName": "6326C59F-635A-4E55-8265-8522DBA825DE_stringValue",
+      "value": "데이빗"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8A73BD9-9D6A-4A01-B90F-ACBAB4F10C54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "155B02A8-6106-40BD-9F08-20F9D042621B",
+  "verticalSpacing": 0
+}

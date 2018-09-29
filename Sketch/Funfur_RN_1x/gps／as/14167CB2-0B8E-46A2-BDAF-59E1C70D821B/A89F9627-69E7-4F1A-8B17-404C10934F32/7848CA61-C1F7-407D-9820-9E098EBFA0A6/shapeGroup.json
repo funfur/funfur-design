@@ -60,8 +60,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1365,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -95,22 +95,6 @@
       "radius": 21.33333333333333,
       "type": 0
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 2.133333333333333
-      }
-    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -131,6 +115,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 64,
+        "color": {
+          "_class": "color",
+          "alpha": 0.16,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 32,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

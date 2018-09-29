@@ -62,8 +62,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "82420084-BDAC-4E83-B1FB-3A7A9AB2AF9E",
-    "height": 1365,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -95,25 +95,9 @@
       "do_objectID": "1BEDB238-3CC9-4F5A-A0C2-E61B062BDA55",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 21.33333333333333,
+      "radius": 22.22222222222222,
       "type": 0
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 2.133333333333333
-      }
-    ],
     "do_objectID": "99A72AA2-AA94-487B-B191-76204539A201",
     "endMarkerType": 0,
     "fills": [
@@ -135,6 +119,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 64,
+        "color": {
+          "_class": "color",
+          "alpha": 0.16,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 32,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

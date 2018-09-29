@@ -74,7 +74,7 @@
     "y": 2390
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -101,12 +101,8 @@
       "id": "6AC498D0-9A7F-47A9-83C6-8B97925D28CE"
     },
     {
-      "class": "symbolInstance",
-      "id": "47B201BB-BE93-434B-A56F-E37C92685C9D"
-    },
-    {
       "class": "group",
-      "id": "007804A3-873F-4153-A1E0-D6B8B365E8DA"
+      "id": "A6449AAE-354E-4755-B50E-D4E6D574A9CB"
     }
   ],
   "name": "appstore-03",

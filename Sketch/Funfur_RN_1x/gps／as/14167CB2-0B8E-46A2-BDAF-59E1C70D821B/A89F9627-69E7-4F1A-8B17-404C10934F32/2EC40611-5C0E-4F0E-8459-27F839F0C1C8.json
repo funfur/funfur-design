@@ -59,8 +59,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1363.29375,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -74,11 +74,17 @@
   "name": "[SYMBOL] / main / horizontal-swipe",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AB4F299-8321-4526-B00E-679B6DADB155",
+      "overrideName": "C82E0939-E6A5-48E9-970D-6A514DCF6372_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 2.4,
+  "scale": 2.5,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -87,7 +93,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 24,
+      "radius": 60,
       "type": 0
     },
     "endMarkerType": 0,

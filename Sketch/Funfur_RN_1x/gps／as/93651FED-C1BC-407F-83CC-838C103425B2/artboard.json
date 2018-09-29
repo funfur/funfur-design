@@ -74,7 +74,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -92,10 +92,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "A56CEDBB-5E80-45AC-92C4-B20E049A385C"
-    },
     {
       "class": "text",
       "id": "82B02131-53CA-4BD1-93AF-1D8DB0C32BEC"
@@ -118,7 +114,7 @@
     "offersLandscapeVariant": 1,
     "width": 360
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

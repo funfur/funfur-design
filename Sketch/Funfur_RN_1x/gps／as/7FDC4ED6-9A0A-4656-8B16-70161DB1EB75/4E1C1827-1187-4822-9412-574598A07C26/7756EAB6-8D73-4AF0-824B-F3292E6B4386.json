@@ -6,6 +6,51 @@
     "_class": "exportOptions",
     "do_objectID": "99652613-A1CC-448B-8B68-CF2B2CE13775",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,8 +61,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EFAC9B86-34F2-4EBF-B3DC-E89A25A2D367",
-    "height": 1363.29375,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -31,11 +76,17 @@
   "name": "[SYMBOL] / store / product-review",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5835984D-D4F1-4968-836D-175271FE4E03",
+      "overrideName": "448B51BC-AA1A-455A-ABF9-3AEC3EFBB28B_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 2.4,
+  "scale": 2.5,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,7 +96,7 @@
       "do_objectID": "52BD0CE9-B9DC-4ABC-94FD-112DC4E83445",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 24,
+      "radius": 25,
       "type": 0
     },
     "do_objectID": "11CBE681-859A-411F-AF4D-1560739B004B",

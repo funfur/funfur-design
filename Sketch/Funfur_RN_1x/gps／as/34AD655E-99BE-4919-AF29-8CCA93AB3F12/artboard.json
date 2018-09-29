@@ -75,7 +75,7 @@
     "y": 8566
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,7 +91,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -103,7 +103,7 @@
     },
     {
       "class": "group",
-      "id": "DD044A48-7FC6-4D26-8A76-EF1FEA48D980"
+      "id": "81D5B29F-8717-4FC6-BF08-C372FBA3C8CC"
     }
   ],
   "name": "appstore-ipad-04",

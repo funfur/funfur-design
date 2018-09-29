@@ -61,8 +61,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9270179D-534B-4474-9D2E-4D5E86305FE6",
-    "height": 1363.29375,
-    "width": 768,
+    "height": 1420,
+    "width": 800,
     "x": 0,
     "y": 0
   },
@@ -76,11 +76,17 @@
   "name": "[SYMBOL] / review / basic",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4FF48C0-5349-49E2-9CA8-315E1D90AEE4",
+      "overrideName": "4AF25A11-11CE-4954-B545-95AF651B9E80_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 2.4,
+  "scale": 2.5,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,7 +96,7 @@
       "do_objectID": "9FE24933-1920-40E6-9049-A4884E724F15",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 24,
+      "radius": 25,
       "type": 0
     },
     "do_objectID": "0BEAB831-5DEC-44AA-8EA4-F08D3512ED94",

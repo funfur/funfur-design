@@ -93,10 +93,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "27D4BDD4-B213-408E-9310-C63872FD126D"
-    },
-    {
       "class": "text",
       "id": "1E348184-59ED-41B9-871D-7C3E4BF241E9"
     },
@@ -118,7 +114,7 @@
     "offersLandscapeVariant": 1,
     "width": 360
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
