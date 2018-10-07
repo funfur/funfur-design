@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "84513355-1314-4B82-BBF5-53DACBAF8CBE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,6 +70,7 @@
     "x": 8,
     "y": 8
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

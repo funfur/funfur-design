@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "4D5BEC8B-43E6-40C2-B821-BB942BB6F1F6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,7 +76,8 @@
     "y": 2538
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,7 +93,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",

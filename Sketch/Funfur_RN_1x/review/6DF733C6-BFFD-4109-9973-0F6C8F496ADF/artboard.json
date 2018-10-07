@@ -8,6 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6DF733C6-BFFD-4109-9973-0F6C8F496ADF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,7 +73,8 @@
     "y": 1202
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -87,7 +89,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -116,10 +118,6 @@
     {
       "class": "symbolInstance",
       "id": "C2CDD634-4FA7-456C-92A3-8F6E9A2398F9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "190F6AA0-F90E-43A9-BB01-CBFDEEAFE747"
     }
   ],
   "name": "review / review-report-before",

@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "F77B0EA7-1F4A-4BF9-9179-BB2778C33CFD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 288
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,6 +96,12 @@
       "_class": "overrideValue",
       "overrideName": "56FFE60A-7987-4A81-AF15-65A23839A734_stringValue",
       "value": "52,900원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02C7CE20-22E8-489A-A323-D1ACB4D5E937",
+      "overrideName": "E03C11C7-7762-4939-B36D-F35DA7C9AB12_symbolID",
+      "value": "3AF8EA8E-13E3-4301-920F-B7E6151A0CD3"
     }
   ],
   "resizingConstraint": 10,

@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "F7AB1870-32A1-4013-8FA2-959EE60C5462",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 136
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,6 +98,12 @@
       "do_objectID": "EF2B682D-82C7-4032-9929-B48DF5CF054D",
       "overrideName": "3CB35089-4D10-4A58-A5A2-0642ABE3656B_stringValue",
       "value": "벽붙이 캣타워 책장(대)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFCF79EB-D78E-4934-8EEC-D204BD19FDDC",
+      "overrideName": "E03C11C7-7762-4939-B36D-F35DA7C9AB12_symbolID",
+      "value": "3AF8EA8E-13E3-4301-920F-B7E6151A0CD3"
     }
   ],
   "resizingConstraint": 10,

@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "31861C5E-D823-4682-A5F6-71A10B08A672",
   "exportOptions": {
     "_class": "exportOptions",
@@ -65,6 +66,7 @@
     "y": 84
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -73,59 +75,59 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "40FC1386-264A-439A-B304-BB2C87E19F7F"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "CBD86ED1-D0B3-450F-9DFB-46C4CE414A9A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "7413125D-8D9C-4230-AA05-398ED70F4CA8"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "0E224DF3-2F82-41CB-B30C-F5BE9761518A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "61CA42E1-2DA7-4AB5-97B6-2DF8D4686C13"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A79D2825-3234-4EA1-8C8D-5BF67141E7AF"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "1E0851D1-62E9-4A0E-8B5C-2B25F8BE286D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "54782F60-D234-4766-8459-9E6F7923960E"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F4F72066-B4DE-474D-9932-75F246215790"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "1FBCA813-F7A1-4E08-B35D-E420C91136F5"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "012D21A8-EC29-4B04-899D-DFA347FF8B9E"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "694331BD-45E5-42E4-8C9F-EEF6EBDA4836"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "75F120A7-A15A-454C-A3B4-4952DCC2FAE1"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "BF753C43-F6FB-4049-A7A6-9ADA9BFE7575"
     }
   ],
@@ -143,6 +145,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10.22364217252396,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,

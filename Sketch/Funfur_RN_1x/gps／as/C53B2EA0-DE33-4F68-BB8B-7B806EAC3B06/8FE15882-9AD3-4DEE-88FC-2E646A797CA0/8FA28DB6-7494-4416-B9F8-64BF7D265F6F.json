@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "8FA28DB6-7494-4416-B9F8-64BF7D265F6F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,6 +99,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.75,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "2E58CF26-0574-4786-BD1C-BBD06A684BFE",

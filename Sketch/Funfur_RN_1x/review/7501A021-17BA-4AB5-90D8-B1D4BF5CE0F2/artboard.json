@@ -8,6 +8,7 @@
     "red": 0.9764705882352941
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7501A021-17BA-4AB5-90D8-B1D4BF5CE0F2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,7 +73,8 @@
     "y": 2538
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,11 +93,31 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "960D062C-497E-496B-BFC3-01DD981737BB"
+      "id": "BE2A066C-9697-4E98-9BE3-9B5634AE0ABE"
     },
     {
       "class": "symbolInstance",
-      "id": "39A4C349-2862-42F9-8FF6-2F584126B803"
+      "id": "B770DE89-DE33-4734-85AE-0F97041D9313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9C21904-F4CC-45DF-86D8-91E8844B9AE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C053842E-3415-4001-8168-A485A38661E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14C4F2E9-AF84-4D19-B7F7-F7FFD477E89F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "596EA27C-82FD-4F58-8901-4D666349C98A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C61C514A-4B34-44DF-83F9-3F33D613EB54"
     }
   ],
   "name": "review / review-report-after-snackbar",

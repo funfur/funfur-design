@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "19B611DC-4003-465F-896E-2F1C61D3AE05",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 20
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +100,7 @@
       "_class": "overrideValue",
       "do_objectID": "B9329497-FA3E-4A94-B8C2-82717F637856",
       "overrideName": "C20ED0EC-C4D8-4B81-8661-6AF72DC364E7_stringValue",
-      "value": "주문내역보기"
+      "value": " "
     }
   ],
   "resizingConstraint": 63,

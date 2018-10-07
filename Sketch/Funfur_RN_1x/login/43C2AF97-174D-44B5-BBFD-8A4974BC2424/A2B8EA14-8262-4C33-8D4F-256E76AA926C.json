@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A2B8EA14-8262-4C33-8D4F-256E76AA926C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 416
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -84,15 +86,15 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8120F1A3-AA13-4683-BC18-DF4DD8A9F56D",
-      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
-      "value": " "
+      "do_objectID": "EC1EA9EF-9234-4F9E-BFBD-4A033D241E9F",
+      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
+      "value": "뻔뻐에서 사용하실 닉네임을 입력해주세요"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DB10AB45-6449-4C14-AE27-63D6EF9EB3CD",
-      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
-      "value": "뻔뻐에서 사용하실 닉네임을 입력해주세요"
+      "do_objectID": "0E618695-33C3-4FFB-9AB5-908F7A79DDD0",
+      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
+      "value": " "
     }
   ],
   "resizingConstraint": 63,

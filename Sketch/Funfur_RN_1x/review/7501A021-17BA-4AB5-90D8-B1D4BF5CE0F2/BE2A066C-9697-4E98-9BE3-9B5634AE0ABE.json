@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE2A066C-9697-4E98-9BE3-9B5634AE0ABE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 560,
+    "width": 320,
+    "x": 0,
+    "y": 280
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "review / card-each-base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F79B169-F45C-4B40-914A-D6E670E08C15/E4E653AB-74BB-4918-862D-026C35BA1A59_symbolID",
+      "value": "18CA9929-0C79-4184-8BD9-196274589A2B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A1D1E83-3BA4-40AE-AA42-2F8BAC1E8F28",
+      "overrideName": "00931365-23C8-4963-AB56-BB6D2DD0FBFE/F8AB0DCB-EE9F-4D1B-9EA0-C1B94965A862_stringValue",
+      "value": "Harry"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D1F4968-81AD-4F5C-BDCE-8A5D36DF9053",
+      "overrideName": "00931365-23C8-4963-AB56-BB6D2DD0FBFE/FF422C85-91F0-47E5-938A-70C68A9870F4/EF19734E-43B4-4711-970E-4A2930EAA8C8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e69e01c865a8ed4c466307830cac2f51723ffd48.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7522CFA3-52E5-4AB2-AAC5-A68C84E9BA4A",
+      "overrideName": "6807DC14-41A3-4747-8774-264FF0A0FEF4/F396098B-27A7-4BAD-8831-15ECF8058ED9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5e04d27da1ea209a7c85a8cab46b25e056c063b2.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FFC0B4AB-207C-417C-896A-9386EE6AEB83",
+  "verticalSpacing": 0
+}

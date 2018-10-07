@@ -1,0 +1,121 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAC911CB-5D91-49F5-A3D3-D5C6910AF808",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09F93F5E-35F7-4610-8FAB-53143D2422F6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B841A9E5-209E-4863-AB2B-D4F39DDD2164",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 520
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar / tabbar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8569CEF-FCA8-43C8-985A-9318103842BE",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3_symbolID",
+      "value": "70F387F5-B3F0-407B-BFE0-5A76B1E91E7A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA16494B-0BDB-4171-8D02-4E11D3537ECF",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3/F6D29A1A-561C-419F-A6E3-308ADFA6E683_stringValue",
+      "value": "홈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "116BBF37-6410-4E3F-8CD8-F54CAA144D7A",
+      "overrideName": "D5497D2E-6F91-4332-A553-6EC9295DECA3/1E370CCB-AA3E-48D8-8C52-EB9376C21A37_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F79F0A76-6422-454B-87B6-7730DAD0BD4A",
+      "overrideName": "07E634EA-C094-4208-8A8D-74FF59967442/F6D29A1A-561C-419F-A6E3-308ADFA6E683_stringValue",
+      "value": "스토어"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D95DFE33-346B-42A3-A71A-3A7386256BB4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A00C5BC2-B03D-4247-B7C7-035BCD6274A1",
+  "verticalSpacing": 0
+}
