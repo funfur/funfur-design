@@ -63,8 +63,8 @@
     "constrainProportions": true,
     "height": 80,
     "width": 80,
-    "x": 0,
-    "y": 0
+    "x": 8,
+    "y": 8
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -143,6 +143,28 @@
     ],
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.54,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

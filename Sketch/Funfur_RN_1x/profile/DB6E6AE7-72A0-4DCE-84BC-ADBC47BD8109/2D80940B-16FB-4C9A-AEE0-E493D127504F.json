@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FD215258-C8A9-417D-A01C-81FE0AC28ACC",
+  "do_objectID": "2D80940B-16FB-4C9A-AEE0-E493D127504F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "065CF5D6-82AE-447A-8584-F3C256B89EE4",
+    "do_objectID": "829AFB02-AFE9-4FB3-88DA-1FBA1E763ABD",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1481A393-84F1-4B6B-9D06-697C036B6135",
-    "height": 20,
+    "do_objectID": "A709F5FE-6EA6-40E9-937E-2731DB46E153",
+    "height": 36,
     "width": 320,
     "x": 0,
-    "y": 0
+    "y": 76
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Status Bar - On Light",
+  "name": "text / header-light / 1line",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60292103-B729-47DE-844F-F6BAC69ED276",
+      "overrideName": "3347A99F-82D4-431D-8E4B-43F3911B26F9_stringValue",
+      "value": "SNS 계정 연동"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B86D0AAE-180B-44E9-A196-360BF8E039F1",
+    "do_objectID": "4AD148F2-D491-4F4C-B452-FE86A903A18C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "84C5F438-BAE7-43DB-A14D-97C9B3F45B87",
+  "symbolID": "860681CA-1F1B-45A3-8FBA-346B4EE15AB7",
   "verticalSpacing": 0
 }

@@ -1,0 +1,115 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE085139-E708-4D13-9F01-1B384AC8E7CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDE18488-4B7D-4D6B-8A0F-B10B1150AABD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBEB6433-7F13-47D9-B88C-A8E1F4EA6D5E",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / center-text-5char-follow",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42068366-59B9-4554-A469-74429952E157",
+      "overrideName": "F2348B8D-8500-4F8A-A26F-3869C660D449_stringValue",
+      "value": "뻔뻐 × 공방 프로젝트"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C8C2B78-4DD6-4CB5-B919-50CB5ECF30CD",
+      "overrideName": "14F1F4A5-5C48-413F-AB87-D8F66A50D625_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F7F2B18-9AA1-401C-BE13-556CCD7133E7",
+      "overrideName": "A74009FF-8BF0-4320-8029-489DCC69B29B_symbolID",
+      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5029FAAC-9C28-469D-B5AA-358E818EB146",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF740ABD-1DD4-495F-8B60-7256C4F2A369",
+  "verticalSpacing": 0
+}

@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2,
-    "green": 0.2,
-    "red": 0.2
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2099,
+  "changeIdentifier": 2144,
   "clippingMaskMode": 0,
   "do_objectID": "01F16E35-6F09-48AC-9B24-B5998D5960E2",
   "exportOptions": {
@@ -68,8 +68,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 80,
+    "height": 96,
+    "width": 96,
     "x": 3214,
     "y": 3010
   },

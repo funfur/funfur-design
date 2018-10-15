@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D3FA239A-6D27-48AB-90A8-1CA6890E9B7B",
+  "do_objectID": "3F932A36-ED9E-42D7-B8E4-29D0B006E0C5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B7D246D3-6A68-406C-8646-75BCE986C4AB",
+    "do_objectID": "7C70BBEC-840B-4991-A582-D3941EAF4536",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "657B99BB-B035-49F1-8BFC-1CE95AB52C2B",
-    "height": 48,
+    "do_objectID": "442EAE79-ED4D-4726-ACA0-D50078B35D94",
+    "height": 20,
     "width": 320,
     "x": 0,
-    "y": 520
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,15 +75,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / full / btn-bottom-fill",
+  "name": "Bars/Status Bar/Status Bar - On Light",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "348E085F-3818-4708-9469-ABE3731DECBA",
-      "overrideName": "63501DA3-C709-4B67-BBC0-3D8C26E234F6_stringValue",
-      "value": "수정완료"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6A885261-F7BD-44EB-82A2-1CE26460AA1D",
+    "do_objectID": "E6F29130-1119-4E2B-B14D-3722923FB63E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0B6B08E9-3FA7-46BC-878A-58F855A0F6FD",
+  "symbolID": "84C5F438-BAE7-43DB-A14D-97C9B3F45B87",
   "verticalSpacing": 0
 }

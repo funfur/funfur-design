@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D752D67A-636A-4055-90BC-9C4FFAB4742D",
+  "do_objectID": "32011AC2-7D2F-40B1-BA55-24383DF5227D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B163529-4192-4CF9-B698-86B4798E9928",
+    "do_objectID": "4A18BD2D-01CA-43C8-8273-00D2B433B425",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B13A85BF-6F13-4CCC-986A-5AD5766BF8EE",
-    "height": 48,
+    "do_objectID": "FD736A6D-A234-44C5-8DAF-2328D7F8A361",
+    "height": 240,
     "width": 320,
     "x": 0,
-    "y": 520
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,25 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tabbar / tabbar",
+  "name": "shop / hero-img",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84C42AD0-689A-4D44-B5A1-529D61EF4F49",
+      "overrideName": "FEB7442C-6312-4626-A1B3-D095EEFDE6C0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3bbde785c13b402f65dfe53f3fde13494374538a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0768B01E-AEA8-43D9-B890-EA13A8B6769C",
+      "overrideName": "5368ABEA-DA17-45C5-A0AE-C5CE41D1DA4B_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,12 +102,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EE47E8FE-5200-44DD-95AB-C0A94CE1CF92",
+    "do_objectID": "70705BCD-A198-479F-840E-DD7381543FBC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A00C5BC2-B03D-4247-B7C7-035BCD6274A1",
+  "symbolID": "C3681F49-185E-4932-9E1B-ED6C27DB577B",
   "verticalSpacing": 0
 }
