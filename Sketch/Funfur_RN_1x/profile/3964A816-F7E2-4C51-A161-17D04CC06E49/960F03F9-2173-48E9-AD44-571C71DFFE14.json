@@ -62,10 +62,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D8AABA1-AA11-4397-AAFD-C3DC63E28FBB",
-    "height": 144,
+    "height": 200,
     "width": 320,
     "x": 0,
-    "y": 424
+    "y": 368
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -80,45 +80,57 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "37FE8869-880B-49B7-88FF-C28B50C3807D",
-      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A_symbolID",
-      "value": "D9A96E9D-6AF6-4363-AF0C-409812D44877"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2E6C2266-D52A-4317-92F4-A94344A944CF",
-      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
-      "value": "배송기사님에게 전화하기"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1B1A6183-C74A-4D54-8797-6AF9902A8C9C",
-      "overrideName": "D27A7DAF-CEF0-450D-B206-7BD43457B21A/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
+      "do_objectID": "6E9717BC-C675-40E7-9858-B873F3B52A3B",
+      "overrideName": "48988A60-C526-4442-841D-DADB1B527518/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
       "value": "F122755A-112D-4841-98AB-F698CE66E07D"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6344E5C2-56CE-4EA9-9089-118A71FD7A91",
-      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB_symbolID",
+      "do_objectID": "48F6154A-5605-4D81-A793-B3971EA60073",
+      "overrideName": "1365143A-BAEC-4146-B6A9-BBCA8FAA2158/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
+      "value": "DB923A4B-8CF3-485F-AA2D-14F01478A26E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D04AD04-D1CB-4F51-9409-CFAF06AB352D",
+      "overrideName": "1365143A-BAEC-4146-B6A9-BBCA8FAA2158/F206179C-AEB9-4686-9196-51332F53EF6D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF7E72E4-0472-4227-B305-B189C6DEAB74",
+      "overrideName": "48988A60-C526-4442-841D-DADB1B527518_symbolID",
       "value": "D9A96E9D-6AF6-4363-AF0C-409812D44877"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4F683CAA-410C-48AF-804D-1232D06CCBA2",
-      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
-      "value": "배송기사님에게 문자 보내기"
+      "do_objectID": "19A2BFF6-DB24-401C-B66E-A2DC1E3D17DB",
+      "overrideName": "1365143A-BAEC-4146-B6A9-BBCA8FAA2158_symbolID",
+      "value": "D9A96E9D-6AF6-4363-AF0C-409812D44877"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "52E894E6-A7D6-4C10-A18C-FA027EF58736",
-      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
+      "do_objectID": "07BFA8EF-D3FC-4226-85A6-D2E2E2BD8262",
+      "overrideName": "48988A60-C526-4442-841D-DADB1B527518/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "배송 기사님에게 전화하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C704899F-B278-4164-BB69-B5D7687F35F9",
+      "overrideName": "D74F9248-848D-40B7-BB19-ED7C68B5B0AD/C3A92ADD-345F-45B0-BAA6-9F6B3B142DE4_symbolID",
       "value": "6C73A0EA-E7A5-49B8-B366-85F46D833F6A"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6B17FFE1-D516-4826-AB98-D66CC57F7056",
-      "overrideName": "11B6BBF5-B0C9-4891-A7A3-46534C032CEB/F206179C-AEB9-4686-9196-51332F53EF6D_symbolID",
-      "value": ""
+      "do_objectID": "C5793E58-2330-4781-9AC1-C89C8C8B6F3D",
+      "overrideName": "D74F9248-848D-40B7-BB19-ED7C68B5B0AD/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "배송 기사님에게 문자 보내기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA4C94BF-4953-489D-84A2-25399872E954",
+      "overrideName": "1365143A-BAEC-4146-B6A9-BBCA8FAA2158/E6957213-0B57-4B4B-9331-730D746997C8_stringValue",
+      "value": "송장번호 조회하기"
     }
   ],
   "resizingConstraint": 63,
@@ -134,6 +146,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6F715BC1-8540-4B78-BEDB-50D0F2A5AE3D",
+  "symbolID": "B50D902C-581E-4C9A-81EA-32BEAEEE850A",
   "verticalSpacing": 0
 }

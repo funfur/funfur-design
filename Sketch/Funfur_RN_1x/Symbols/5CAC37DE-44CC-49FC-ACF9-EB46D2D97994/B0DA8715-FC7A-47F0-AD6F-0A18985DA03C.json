@@ -144,14 +144,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.9333333333333333,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 0.6
+        "thickness": 1
       }
     ],
     "do_objectID": "14A3483C-380A-4A16-9528-19FB50BAF5C9",
@@ -169,7 +169,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/71c2787872eb8962c45504fcffa4197a99d0593e.png",
+          "_ref": "images/169c3fed5bfbe186cae08680bb8c917559007cdf.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
