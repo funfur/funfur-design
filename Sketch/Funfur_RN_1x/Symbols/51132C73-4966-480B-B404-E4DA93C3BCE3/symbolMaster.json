@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4179,
+  "changeIdentifier": 4298,
   "clippingMaskMode": 0,
   "do_objectID": "51132C73-4966-480B-B404-E4DA93C3BCE3",
   "exportOptions": {
@@ -94,12 +94,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A0D310DD-20A5-472F-895D-7C326FA36793"
+      "class": "rectangle",
+      "id": "C65A6436-AE5D-452D-BE75-AEDECB65C48C"
     },
     {
       "class": "text",
       "id": "4C0CAA6A-44A2-4272-B9CB-A4E6744B7581"
+    },
+    {
+      "class": "rectangle",
+      "id": "23A4C0E2-DAD4-43D9-A2B5-A9939CB65EBB"
+    },
+    {
+      "class": "text",
+      "id": "242BE2D3-8D9C-46F2-A4DD-5527C0304C75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0D310DD-20A5-472F-895D-7C326FA36793"
     }
   ],
   "name": "cart / price / product-card-header",

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98D0236B-DC7B-4203-91C0-C46D790A9DA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / center-text-4char",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAE54911-504B-4900-A002-F728AD9F70D7",
+      "overrideName": "9CC620A2-F359-4C76-BDF7-49AA5F08FA92_stringValue",
+      "value": "리뷰작성완료"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "970FAA3D-B41B-476B-82F3-5BE0FCCB7C7E",
+      "overrideName": "181587AB-F1E9-4BF5-A893-2C0A3144AF61_stringValue",
+      "value": "보러가기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "678B4CA1-15CE-463C-9EA5-531D4B915297",
+      "overrideName": "BD2C365D-9C4A-4BC2-B997-09A5BBCF14E1_symbolID",
+      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CAF31F7-1983-4E3F-8FDF-C50C44894296",
+      "overrideName": "016B0F3A-F4F8-4D0D-85BC-734D4AD1ED9E_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D00F393-37DD-4201-9E38-0B405F875A58",
+  "verticalSpacing": 0
+}

@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1B11EA82-161E-46E8-A0EF-D1EB4DFCB09E",
+  "do_objectID": "DA952703-DA1A-4C56-9F84-4AA18B335300",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7526A2B9-6CFA-48CA-A313-F220CD166868",
+    "do_objectID": "2A6C6975-C8C3-479D-BCF1-0034082EF0A2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5ADFFBC-337E-4965-845D-A35ACD4C90B0",
-    "height": 96,
-    "width": 192,
-    "x": 64,
-    "y": 236
+    "do_objectID": "18A12D83-29C9-4DC7-A795-D552D6436789",
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,23 +75,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "etc / legacy-stamp",
+  "name": "bound / bound-48",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8AE59179-1018-49D2-B759-03ADE7BBC50E",
+    "do_objectID": "8B331C0A-8776-41F0-BBED-F3BCC8A50FD2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA551174-CB6F-4612-9905-3217A762A419",
+  "symbolID": "EFCE0513-0BAE-467A-BBAE-64760DFDC5EB",
   "verticalSpacing": 0
 }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FE40FDAA-ADAD-433E-8EAF-3012623DA36D",
+  "do_objectID": "87711738-5E56-48AD-BBBC-5D8C47F5EC92",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "915DDBA6-83A8-464D-835A-FFEC0C9B1CA0",
+    "do_objectID": "58F470CB-A1E1-44A7-BF66-0C36DB201166",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1E27ECCE-A998-4EF4-B9E9-0289AE622683",
-    "height": 96,
+    "do_objectID": "E5F14F98-86F2-4628-AFCD-5A63748F81AB",
+    "height": 1,
     "width": 320,
     "x": 0,
-    "y": 76
+    "y": 47
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,27 +75,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / form / textbox-basic",
-  "nameIsFixed": true,
+  "name": "header / misc / bottom-line",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "EF7689D3-B766-46B2-A737-4DBF97EF8460",
-      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
-      "value": "제목을 입력해주세요"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E9C8FFAF-47C2-49DA-9B3B-890AF82BCB15",
-      "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
-      "value": "제목"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E2D22B94-E17B-4C93-97D1-7113D1A313EB",
-      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
-      "value": " "
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "69D0401E-5C48-42C4-9623-5087512D912C",
+    "do_objectID": "E2029EA4-1BBB-442F-BECD-792ACD16E664",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6A055306-0828-4E8C-830D-9EE4B312BB70",
+  "symbolID": "AF6CBC48-A42D-492E-9041-90F4D338B7D4",
   "verticalSpacing": 0
 }

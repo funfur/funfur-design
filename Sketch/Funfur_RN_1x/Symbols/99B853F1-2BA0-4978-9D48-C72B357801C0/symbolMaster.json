@@ -1,11 +1,20 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6EC00BFA-19A1-420E-B89E-9520AF61E0E8",
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": 0,
+  "changeIdentifier": 14923,
   "clippingMaskMode": 0,
-  "do_objectID": "BBBA402F-9135-4179-A060-FB6F66617506",
+  "do_objectID": "99B853F1-2BA0-4978-9D48-C72B357801C0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "516AFD58-3793-409E-9631-40B133115831",
+    "do_objectID": "86D89BE4-6CA0-43E4-ADB6-45A17F880E6D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,67 +70,79 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8309EA48-9A9F-4236-A0E2-BB3878780E62",
+    "do_objectID": "DE22C5A9-99F1-4714-AFA1-85FF64C28C21",
     "height": 48,
     "width": 320,
-    "x": 0,
-    "y": 20
+    "x": 1894,
+    "y": 138
   },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "687A8CA2-CBB4-4319-99FD-BA101C9E4A21",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "header / center-text",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "BF8A0301-6A4C-4D33-A799-6D824F74F228",
-      "overrideName": "67679CF6-E9D4-48AE-AC7B-C6F64F8B2742_stringValue",
-      "value": "이전"
+      "class": "rectangle",
+      "id": "733260B1-173F-4769-9D08-4F0DB7C3498F"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "8DE028E5-C40D-49D1-A37E-3F0757BA2C22",
-      "overrideName": "FF884540-5441-49CE-A958-3FCA92F9763D_symbolID",
-      "value": ""
+      "class": "text",
+      "id": "DBFBD1ED-7B8F-4733-8E09-C6BFC947547D"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "7F19625B-468C-44E7-B6D6-E08AC207D806",
-      "overrideName": "815B200D-B17F-4853-B289-612D73259887_stringValue",
-      "value": "리뷰 작성하기"
+      "class": "text",
+      "id": "CB5AA162-CB4C-425A-95BB-B04F3142C66A"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "3BCF77B6-DDBA-415D-9981-7733106C6C2F",
-      "overrideName": "3A793214-358D-49FC-AC87-C52829EE5A1D_symbolID",
-      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+      "class": "symbolInstance",
+      "id": "DA952703-DA1A-4C56-9F84-4AA18B335300"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "53C53127-9313-48D8-9D02-C41F56C6A3E7",
-      "overrideName": "DA7ADD9E-8C63-45E6-A5CA-C889A7412CED_symbolID",
-      "value": ""
+      "class": "symbolInstance",
+      "id": "B649CE16-8DF4-44BD-A87F-0BBB0C237F38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87711738-5E56-48AD-BBBC-5D8C47F5EC92"
     }
   ],
+  "name": "header / center-text-grey",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "1F858677-B9DB-4A08-BEEA-702FC90804CA",
+    "do_objectID": "FC799812-BEDC-41AC-8437-1E5A205EBF72",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3B94951-DAD5-451E-A2D1-8E59C8F8831A",
-  "verticalSpacing": 0
+  "symbolID": "A40C7CEF-FD18-4C47-983C-7DA8AA97C2B0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D555C8E-A7BF-4757-B328-8ED2AD410201",
+    "guides": [
+    ]
+  }
 }

@@ -1,11 +1,12 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "rectangle",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2AA8E91C-923D-4BD1-AD10-2BF9F70D296E",
+  "do_objectID": "733260B1-173F-4769-9D08-4F0DB7C3498F",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0CCA4E0B-68DF-4695-9FD0-D1ABB2F4B6A3",
+    "do_objectID": "EF481540-1BF1-4217-B3C8-FB8E76C6EC26",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,58 +59,80 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7BD53ECA-4A54-4310-921A-66A6034559F1",
-    "height": 64,
-    "width": 320,
-    "x": 0,
-    "y": 440
+    "do_objectID": "B2D088D3-8580-4BD9-8872-B5A802DE6B31",
+    "height": 48,
+    "width": 58,
+    "x": 262,
+    "y": 0
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "review / write-review-star",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 1,
+  "name": "bound",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "778B851D-6A67-438A-9845-450B7BF72EA3",
-      "overrideName": "1B4CE4D7-5475-4C92-9E11-0C276C622D75_symbolID",
-      "value": "D853065D-CF86-430C-A54F-0EC08BEE8858"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "08F6ECD4-368B-4ACF-B073-91C26DE7694F",
-      "overrideName": "443033C4-1DAD-4E6D-B84E-3EA78F998CCE_symbolID",
-      "value": "D853065D-CF86-430C-A54F-0EC08BEE8858"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "C2D786FE-85C1-4290-9BF3-A29FBBF55047",
-      "overrideName": "95FDFB1A-3885-4384-B93C-CDDB51801870_symbolID",
-      "value": "D853065D-CF86-430C-A54F-0EC08BEE8858"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 62,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E52A8E16-346D-4D67-A629-058689315912",
+    "do_objectID": "3B825244-E489-41C2-BB5F-D1F93D9EE609",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "6595ED89-8473-4D70-AC19-280FFC78CC79",
-  "verticalSpacing": 0
+  }
 }

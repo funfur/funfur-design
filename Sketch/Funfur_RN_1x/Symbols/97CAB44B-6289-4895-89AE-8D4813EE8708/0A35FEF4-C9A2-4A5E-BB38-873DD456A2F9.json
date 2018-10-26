@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "이 제품의 디자인은\n마음에 드셨나요?"
+    "string": "별점을 선택해주세요"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -97,12 +97,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "264D26B3-6DD4-44E0-9984-DA0CFCB0D227",
-    "height": 72,
+    "height": 36,
     "width": 288,
     "x": 16,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {186, 60}}",
+  "glyphBounds": "{{1, 7}, {203, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

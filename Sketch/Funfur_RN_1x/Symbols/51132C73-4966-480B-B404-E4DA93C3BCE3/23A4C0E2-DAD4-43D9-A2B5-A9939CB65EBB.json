@@ -1,11 +1,12 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "rectangle",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "697A287B-ADFB-4DA8-9D79-80B441EE1CCF",
+  "do_objectID": "23A4C0E2-DAD4-43D9-A2B5-A9939CB65EBB",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5B90E9B4-6850-4156-992C-22EFF2C9C789",
+    "do_objectID": "7BAD047E-A39B-4C1F-8979-FD97F7005026",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,64 +59,80 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A9AE6C78-6CDA-4DA8-B7F7-1710A49A5555",
-    "height": 96,
-    "width": 320,
+    "do_objectID": "68B68B64-D2B6-4833-BC37-66539333801D",
+    "height": 24,
+    "width": 90,
     "x": 0,
-    "y": 232
+    "y": 0
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / form / textbox-basic",
+  "name": "bound",
   "nameIsFixed": true,
-  "overrideValues": [
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "E58A8725-E64E-43ED-9198-3958253CC828",
-      "overrideName": "9928A226-9D93-4618-9460-A74DAF966983_stringValue",
-      "value": "7/255"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "26B0678B-EF41-4E46-AB42-DA2B73076929",
-      "overrideName": "5DF4CDD8-AAD2-478C-8319-C01EF2A35CE8_stringValue",
-      "value": "문의내용"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "521BC0B8-1A6C-439C-B26C-68A18B3F1F4B",
-      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/9F388DC4-65AB-427F-9620-EB2C95BE780C_stringValue",
-      "value": "텍스트 레이블"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "082F8DC9-7FED-4B7B-91E1-3C32CEBE52EB",
-      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/DC319A47-ECE9-4C17-8704-3DFB49AA8571_symbolID",
-      "value": ""
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0D21753B-BC89-43F8-BFFE-E6600F387603",
+    "do_objectID": "4450AF3B-3376-44A2-962B-A678193A71AB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
-  },
-  "symbolID": "407A5552-C504-44C7-BFBC-758538F0DB4C",
-  "verticalSpacing": 0
+    "windingRule": 0
+  }
 }
