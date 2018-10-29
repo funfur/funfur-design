@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3560,
+  "changeIdentifier": 4929,
   "clippingMaskMode": 0,
   "do_objectID": "B4B05C89-F238-407A-A4FA-0AF72E38853B",
   "exportOptions": {
@@ -68,13 +68,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 568,
+    "height": 1228,
     "width": 320,
     "x": -3163,
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,6 +93,58 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8ABF704D-0F3F-4524-93DB-C3AA37540DC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36AF4AF7-EF42-4CDE-8FDD-63E7AD4605B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E028723-14CB-4205-A85D-E8B6A460798A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3B22C39-5E33-4E35-BB85-398477C6376E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71603E16-254A-4FD0-A9C2-440394CEB6C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33FFF923-766B-400B-8A75-7529927DB9D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D30852F8-8C71-4C92-AE80-78A7089C40E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1341520-3493-4457-A64A-D359BCA2B2F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0871B81-945F-45AC-8E32-FF6F16C0A579"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC099BA6-3ED3-4B94-9B6C-7D56C62AA6CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF9F9B5B-DFF3-4511-8EF5-B3A15E82FD54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CA63B4D-CE7C-459E-BA0E-3CF4141C28A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E444AFD5-099B-4F24-9535-99189A26F80F"
+    },
     {
       "class": "symbolInstance",
       "id": "BA6849FF-F1D6-464D-8A75-22DA24FF220F"
@@ -140,7 +192,7 @@
   ],
   "name": "[SYMBOL] / profile / basic",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

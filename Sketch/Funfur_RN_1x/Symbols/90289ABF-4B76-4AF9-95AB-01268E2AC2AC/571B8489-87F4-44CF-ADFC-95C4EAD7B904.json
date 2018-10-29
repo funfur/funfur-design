@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EC5FE1B-975A-4473-A221-62370AF503F4",
+  "do_objectID": "571B8489-87F4-44CF-ADFC-95C4EAD7B904",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "02229890-077F-4AC6-BD2C-605F845F7219",
+    "do_objectID": "EB930772-9262-4889-B02D-C1968A405DC1",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,15 +59,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "58202152-9BBA-48E2-9943-32E1C22665A2",
-    "height": 48,
-    "width": 48,
-    "x": 23,
-    "y": 144
+    "do_objectID": "247B3F2B-3C1A-4A66-8B32-95B374013240",
+    "height": 24,
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -78,13 +78,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "btn-login",
+  "name": "snackbar-body-basic",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 2,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -94,7 +94,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -104,7 +104,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -114,7 +114,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -123,13 +123,13 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 25,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1E2B9536-8536-4329-BF71-657399705483",
+    "do_objectID": "4662B0BB-1713-4B08-8424-7BADC6F8AC14",
     "endMarkerType": 0,
     "fills": [
       {
@@ -137,9 +137,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2745098039215687,
-          "green": 0.803921568627451,
-          "red": 0.9725490196078431
+          "blue": 0.3764705882352939,
+          "green": 0.7529411764705882,
+          "red": 0.09019607843137252
         },
         "fillType": 0,
         "isEnabled": true,

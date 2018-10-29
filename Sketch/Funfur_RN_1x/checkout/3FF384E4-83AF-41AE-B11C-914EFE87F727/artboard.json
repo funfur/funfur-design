@@ -72,11 +72,11 @@
     "do_objectID": "F436D89E-8C7F-4BDA-B75D-3105F6ACB712",
     "height": 568,
     "width": 320,
-    "x": -403,
+    "x": -5923,
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -108,7 +108,7 @@
       "id": "CCAABDFB-D8BA-49CE-9B05-8EB65D1E3BA8"
     }
   ],
-  "name": "checkout / cancel-checkout",
+  "name": "[LEGACY] / checkout / cancel-checkout",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

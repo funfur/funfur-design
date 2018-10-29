@@ -76,6 +76,30 @@
   "name": "modal / modal-confirm-2lines",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "026CE448-4D96-4B2E-8179-206B89279F01",
+      "overrideName": "B4D4D6D1-CC47-4C7B-B590-940CD7CFBBD6_symbolID",
+      "value": "A4104B6A-C6C5-4FC2-BC69-735CE7BF788A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72458E07-7261-4D85-B2A8-EC66E77AC146",
+      "overrideName": "B4D4D6D1-CC47-4C7B-B590-940CD7CFBBD6/24B2D304-6F3E-4CAA-AA76-B5A8DCCE6738_stringValue",
+      "value": "동의함"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83CBDB3F-27F8-4BBB-917E-687BA08D2996",
+      "overrideName": "4E9A6963-8D6C-43E3-887E-3FFF8F116D78_symbolID",
+      "value": "FF480080-CE5A-4C76-81CC-7772DDE4D1A5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D50CCB0D-40A6-46FC-A75D-75F6A32240DF",
+      "overrideName": "4E9A6963-8D6C-43E3-887E-3FFF8F116D78/B3425872-E79D-49B2-83D7-0FA6C9DC048D_stringValue",
+      "value": "동의하지 않음"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
