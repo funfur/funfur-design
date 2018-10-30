@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "8ABF704D-0F3F-4524-93DB-C3AA37540DC9",
+  "do_objectID": "F770D2FF-4DEC-48C2-8DF2-A0E7CDA674B7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EC8450D4-BFE5-4981-A93A-5EF6FFC9161C",
+    "do_objectID": "F5209723-FDFE-445D-896B-B8C399FB3266",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "67A3F75A-B66A-41FE-91EA-309A5AD2D2A8",
+    "do_objectID": "66FFA3D5-3F2F-4443-9C0D-98DE63DF8741",
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 1172
+    "y": 1124
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -82,13 +82,7 @@
       "_class": "overrideValue",
       "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
       "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "앱 공유하기"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E9E6778C-E88B-4FDF-9CC2-98489976087C",
-      "overrideName": "17B1B334-FEF6-4C7B-96F9-12B28B39C339_symbolID",
-      "value": ""
+      "value": "공지사항"
     }
   ],
   "resizingConstraint": 13,
@@ -98,7 +92,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "31A852C2-8216-4C0D-802D-3280963E63E8",
+    "do_objectID": "9B13651E-F329-4FB4-9CE6-4C3D341034C7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
