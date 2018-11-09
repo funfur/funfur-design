@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3B9F0C63-685C-4178-9FF8-EE55C573EC60",
+  "do_objectID": "2CB09B2B-305F-40AE-B312-A87F14996126",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B1671822-922F-4DF9-8D86-0DAFE219F7AC",
+    "do_objectID": "26FDBCE1-CA2A-4934-9551-9FBA858816CE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,8 +61,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "16051F30-DB4F-4D39-A816-C8DED5983034",
-    "height": 97,
+    "do_objectID": "CECCF1ED-0B2E-4CB7-BDF9-5174FE64C349",
+    "height": 118,
     "width": 320,
     "x": 0,
     "y": 148
@@ -75,26 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "store / window / description-1line",
-  "nameIsFixed": false,
+  "name": "store / window / description-2lines",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "94B22DB0-70F2-40FF-85AE-B526B16463E9",
-      "overrideName": "BF57896C-C892-44EE-9609-ADEB92BB8EFC/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
-      "value": "공방명"
+      "do_objectID": "3FF231C4-EC7B-40A3-A8D6-C4ED964DA1F9",
+      "overrideName": "1FE92A99-309F-4FCE-A50F-6267B2DCB013/1B6C7360-513F-408A-B1EA-296EEA4E6747_stringValue",
+      "value": "공방문의 (착불)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C8C72F6B-A74C-4260-B7FE-DC3DFDC38B65",
-      "overrideName": "A8164175-EB85-4CDA-B711-2E59CC0C3F75_symbolID",
-      "value": "21547B3A-0B2A-412C-89A0-07F0A5EE22BE"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D1EC8553-F2AB-45CE-97FD-A09A2AF66F13",
-      "overrideName": "A8164175-EB85-4CDA-B711-2E59CC0C3F75/830796C7-C4F1-4017-9D36-1A304061F575_stringValue",
-      "value": "Spemer"
+      "do_objectID": "E23B4E65-FA65-416A-92ED-4152DA8A4E93",
+      "overrideName": "03700376-575A-4BB0-A067-EE60DBA13886/6444C9C2-DC0F-450A-9188-EE63ED9E0671_stringValue",
+      "value": "본 상품은 배송비가 착불로 결제됩니다. 자세한 내용은 하단 업체 문의 부탁드립니다."
     }
   ],
   "resizingConstraint": 63,
@@ -104,12 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4D6FCFBC-BA02-4A87-BE2E-AEA2CDA07E21",
+    "do_objectID": "5B9F1A86-1CF2-4F3B-AB9E-7B77806396D6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F16C94AD-4548-42E7-93D0-B45F2D951696",
+  "symbolID": "1944C2E8-B653-41CB-9FF6-5A930B7D9027",
   "verticalSpacing": 0
 }
