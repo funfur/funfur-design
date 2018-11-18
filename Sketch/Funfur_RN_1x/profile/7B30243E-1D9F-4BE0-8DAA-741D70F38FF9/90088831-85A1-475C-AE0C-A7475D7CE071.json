@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90088831-85A1-475C-AE0C-A7475D7CE071",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1C999D0-55B9-458D-91EC-8B615E623E65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "A3AD3AD0-1170-441C-8565-13354CF5A3C7",
+    "do_objectID": "5C871E21-185B-4C46-A6D6-4EE737F56F3B"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BA65C13-BE99-4956-9BAA-48D7136BE44C",
+    "height": 48,
+    "width": 288,
+    "x": 16,
+    "y": 504
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / btn-fill-48",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8ED90F91-1A52-44D9-A36E-485CD7B1A212",
+      "overrideName": "1AE9BD38-013D-4E16-A607-510E207DB5DA_stringValue",
+      "value": "새로운 배송지 추가"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A203A1B1-2D8F-4294-B652-6CDE9A616435",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "94A2B981-F752-4918-94DA-95A5C0CF80FE",
+  "verticalSpacing": 0
+}

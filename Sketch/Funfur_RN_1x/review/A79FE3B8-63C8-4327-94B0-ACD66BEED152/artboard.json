@@ -75,7 +75,7 @@
     "y": 534
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -120,6 +120,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.atlassian.sketch.jira-plugin": {
+      "layer.last.exported.issue": "FUNFUR-200"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
