@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "950E010F-50B0-4A0C-A379-C2F3911AA59D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "60413A35-2E3F-4E67-9D7E-8C4FCD825610",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F80E8196-6FF6-4CF5-A693-A01B11098731",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1796AC56-8D66-4428-8823-DBF0E386D6AD",
+    "height": 2234,
+    "width": 320,
+    "x": 17,
+    "y": -134
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "14A2633D-174E-43CA-92C8-2FB5287E5FB3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E5354868-405E-4EA2-A050-2601545AA21A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "057A8203-F559-408C-9D55-ABDEA51E1063"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0E47C21-BB09-476F-A4C8-2459EE2C1D56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "033407E8-6DA3-4BCC-8D09-3A143D2D9A62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26E2DB68-D323-4179-9ED9-90DB70A6A8D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "400AA083-6D32-4157-82E4-4D15A0AC0EA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC4489BF-759C-4864-AACE-3CBF0521F4C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6C7BDC8-8977-4D41-8180-8B84A9190767"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B45BF5C0-0C4C-429B-B6F2-063609DF3086"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "929580F2-15FB-4618-9FE7-4214A622A3B1"
+    }
+  ],
+  "name": "main / layout-overall",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5E33698-6400-48DC-BAC1-1DAB662026C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F0668C9-FA89-4A1F-A9F2-CF568E35C779",
+    "guides": [
+    ]
+  }
+}

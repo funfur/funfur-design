@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E3427F9-73D1-46C0-B34A-98A02D873FB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@0.25",
+        "namingScheme": 0,
+        "scale": 0.25,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@0.5x",
+        "namingScheme": 0,
+        "scale": 0.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3024,
+    "width": 4032,
+    "x": 4583,
+    "y": 2706
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2DDF397C-925E-4756-A0DD-7A9F62D08456"
+    },
+    {
+      "class": "rectangle",
+      "id": "13531614-2EB8-4011-B9C7-A6E946E5AF9E"
+    },
+    {
+      "class": "group",
+      "id": "5906ED37-18E0-4DD5-8548-83E2FAE2322D"
+    },
+    {
+      "class": "group",
+      "id": "FA831D02-2D88-4913-8D50-72F8F8837FA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9E81C70-3C61-424E-A85C-0FDCAEB7B4F0"
+    },
+    {
+      "class": "text",
+      "id": "8FAAF39F-1CF1-4361-94AB-EBC2AC61E3D4"
+    }
+  ],
+  "name": "hero",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

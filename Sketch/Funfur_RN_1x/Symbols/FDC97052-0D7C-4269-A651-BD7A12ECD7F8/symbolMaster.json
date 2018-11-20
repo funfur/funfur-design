@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14972,
+  "changeIdentifier": 15024,
   "clippingMaskMode": 0,
   "do_objectID": "FDC97052-0D7C-4269-A651-BD7A12ECD7F8",
   "exportOptions": {
@@ -74,7 +74,7 @@
     "y": 138
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -98,8 +98,8 @@
       "id": "E3973A8A-EF6A-466F-A85A-BF48E17FA623"
     },
     {
-      "class": "symbolInstance",
-      "id": "59A00E3B-6557-4BF7-A21C-581225D1E8B8"
+      "class": "group",
+      "id": "0F930307-C2D5-4192-944A-998C07C81C70"
     }
   ],
   "name": "launcher",
