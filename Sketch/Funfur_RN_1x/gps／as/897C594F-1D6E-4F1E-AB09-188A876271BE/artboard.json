@@ -38,7 +38,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,12 +58,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "85FFB4A2-3625-4EBC-81C4-BCC853C25000"
+      "class": "text",
+      "id": "A1C6C35A-D38E-4B9C-8078-D64CC43581E4"
     },
     {
       "class": "text",
       "id": "2D26C3DF-FE72-48C6-A02A-61BEF64EFC6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85FFB4A2-3625-4EBC-81C4-BCC853C25000"
     }
   ],
   "name": "gpstore_feature_graphic",

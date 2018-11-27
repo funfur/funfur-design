@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Regular",
-              "size": 40
+              "size": 48
             }
           },
           "kerning": 0,
@@ -45,7 +45,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 40
+              "size": 48
             }
           },
           "kerning": 0,
@@ -126,12 +126,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7CF95EA2-6992-4D9E-AD58-1544153ACA80",
-    "height": 59,
+    "height": 71,
     "width": 1024,
     "x": 0,
-    "y": 345
+    "y": 284
   },
-  "glyphBounds": "{{339, 12}, {345, 38}}",
+  "glyphBounds": "{{305, 15}, {413, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -167,7 +167,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Regular",
-            "size": 40
+            "size": 48
           }
         },
         "kerning": 0,

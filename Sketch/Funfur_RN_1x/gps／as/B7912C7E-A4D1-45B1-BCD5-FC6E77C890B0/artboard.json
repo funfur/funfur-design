@@ -17,7 +17,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
@@ -38,7 +38,7 @@
     "y": 2390
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,12 +58,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5C8BB0CB-9B17-4072-8BEB-3548C68F9CDE"
+      "class": "text",
+      "id": "E4ADAA11-1E84-44B8-815E-1AC388BD4487"
     },
     {
       "class": "text",
       "id": "181DAF55-FF89-4BFE-ADFA-F9CC8D7B2715"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C8BB0CB-9B17-4072-8BEB-3548C68F9CDE"
     }
   ],
   "name": "funfur_AS_FeaturingAppsGames",

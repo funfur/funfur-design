@@ -60,10 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 320,
-    "width": 320,
-    "x": 352,
-    "y": 52
+    "height": 240,
+    "width": 240,
+    "x": 392,
+    "y": 64
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.625,
+  "scale": 0.46875,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +89,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6.25,
+      "radius": 4.6875,
       "saturation": 1,
       "type": 0
     },

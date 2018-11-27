@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Regular",
-              "size": 56
+              "size": 64
             }
           },
           "kerning": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 36,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "테마별, 종류별, 방별로 구분해서\n원하는 가구를 손쉽게 찾아보세요"
+    "string": "작품이 되는 원목가구를 만나다"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6D8357CF-C033-4348-B3E3-A4A8AB1CC422",
+  "do_objectID": "E4ADAA11-1E84-44B8-815E-1AC388BD4487",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D3D25425-5980-4720-A679-DE879DFBE3E1",
+    "do_objectID": "9BD082D9-0694-4AB1-832E-18BE63A2A902",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -97,13 +97,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "830D02BB-2324-4D46-A7C1-179908516EF0",
-    "height": 167,
-    "width": 1242,
+    "do_objectID": "65ECAD33-3504-4812-BE51-39AC400AE533",
+    "height": 94,
+    "width": 4320,
     "x": 0,
-    "y": 343
+    "y": 838
   },
-  "glyphBounds": "{{244, 18}, {754, 136}}",
+  "glyphBounds": "{{1758, 21}, {805, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -112,21 +112,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "subtitle",
+  "name": "text-64-regular",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4D367B40-3496-4B57-BE83-AF9FE9A7B225",
+    "do_objectID": "9C6E839D-243E-4D1E-BDAE-A3789999D446",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2D0E02FC-1717-416F-8EBB-3BAC7E9C953E",
+      "do_objectID": "4CDD3C1D-352F-4404-AB99-5BC4E9252EB2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -139,7 +139,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Regular",
-            "size": 56
+            "size": 64
           }
         },
         "kerning": 0,
