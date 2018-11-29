@@ -76,7 +76,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -97,19 +97,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A41D0D44-3D69-429D-943C-18060AAF2EC5"
+      "id": "F7AC9483-2816-48BE-B669-B56093986ED9"
     },
     {
       "class": "symbolInstance",
-      "id": "C292DA7F-EF23-474A-8698-A5D2222E5E96"
+      "id": "9EC21501-001F-420C-A05C-6CFFF0E906AB"
     },
     {
       "class": "symbolInstance",
-      "id": "9C32685C-515E-4E66-85D0-D0E0FE96FF43"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5D02A4E7-8114-4602-BB65-B0934165E5BD"
+      "id": "CFDF1C31-E662-46AE-B08A-E9E667EB4364"
     },
     {
       "class": "symbolInstance",
@@ -126,6 +122,18 @@
     {
       "class": "symbolInstance",
       "id": "376C83BE-9347-4614-B133-A594C2E63794"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C32685C-515E-4E66-85D0-D0E0FE96FF43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C292DA7F-EF23-474A-8698-A5D2222E5E96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4212A4A0-1696-459E-B75A-A3C775BEF969"
     }
   ],
   "name": "store / window / company-info",

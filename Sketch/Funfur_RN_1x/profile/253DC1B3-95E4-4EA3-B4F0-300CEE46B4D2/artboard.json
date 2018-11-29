@@ -92,16 +92,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "6130A4D5-9C3A-47AC-90D8-A221BD9D605A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C6F3E74-46F5-442A-9A26-5E306E71754D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDB97BE1-4EA9-4CBE-A324-7C02E9B8967A"
+    },
+    {
       "class": "bitmap",
-      "id": "55F0EF49-65E5-4AF8-B80A-F5E51B7F1F89"
+      "id": "E1193DA6-5527-4790-AAF5-95D2890A47A0"
     },
     {
       "class": "symbolInstance",
-      "id": "E61EC63E-ECEF-44B6-A39F-0125518D230B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A5A9A082-3C19-4277-B493-46182C685A8F"
+      "id": "B55EA828-9F8B-4367-9B17-95AC929B368A"
     }
   ],
   "name": "profile / policy-webview",
