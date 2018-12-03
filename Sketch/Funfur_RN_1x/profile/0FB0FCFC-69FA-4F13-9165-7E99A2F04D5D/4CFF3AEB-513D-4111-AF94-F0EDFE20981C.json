@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "97C01F82-B712-45A0-9404-9C8BAFCFD836",
+  "do_objectID": "4CFF3AEB-513D-4111-AF94-F0EDFE20981C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FB44F698-9E63-4E72-A080-6508C8342D53",
+    "do_objectID": "29339654-6204-4E6C-95ED-F3332A98FD09",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,16 +61,17 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "9B63AA25-0317-466C-A88B-01DC1885B6D7"
+    "destinationArtboardID": "DE18278F-6E9D-42AE-818E-98CC9D99FF51",
+    "do_objectID": "33FE542E-10CE-4BF7-885B-C9B07E6E38B9"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2D6BB789-2F2F-43AA-9006-AC474EBB28E3",
+    "do_objectID": "6EE10667-8436-439F-A43C-7FEC8ED52367",
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 80
+    "y": 416
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -87,17 +88,17 @@
       "_class": "overrideValue",
       "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
       "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "재입고 알림신청"
+      "value": "인스타그램"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C6F99028-E6D3-4139-BFF7-14162BA09CDC",
+    "do_objectID": "C34B70F4-AD62-4C4D-9B97-7C935758D75E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

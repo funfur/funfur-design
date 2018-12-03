@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "42DDF8D1-607E-44D8-9673-A3007C577EA3",
+  "do_objectID": "72D86433-CD5F-407E-95F6-D88ACCAC0ECC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4ECFA2C9-623C-47ED-9784-3BF7513EF2A2",
+    "do_objectID": "233BC508-E057-4181-8E94-62C9DCB44B6A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,19 +58,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "92B0A7D2-82B3-4EAB-B37C-EC7E33C4DB76"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EFB1C74D-991C-4AA1-992C-64538089253D",
+    "do_objectID": "EE93DB02-F44B-42B4-90FF-3B5125708B95",
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 224
+    "y": 1268
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -85,25 +80,19 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
+      "do_objectID": "7CBA95B0-5497-49CB-B0B8-FD24941CAFB6",
       "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "내가 쓴 리뷰"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "06D4B5CA-FB90-4A8F-A713-720900C59976",
-      "overrideName": "17B1B334-FEF6-4C7B-96F9-12B28B39C339_symbolID",
-      "value": ""
+      "value": "페이스북"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1A7AEC5E-53D7-4519-B268-74DA4EE30064",
+    "do_objectID": "92873AE1-0950-479A-945E-C9F7CE0E25AD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

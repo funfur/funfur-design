@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "CB37AAFE-2FD8-4B9C-AF9C-05EE2EDD8CAD",
+  "do_objectID": "CEE19BF3-C88E-416C-B7F8-587FB59BC959",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "73D5DC3C-3F01-4F35-8196-579F658AE9EF",
+    "do_objectID": "E214B9B3-DDCE-4674-9256-511CB492DF1D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,14 +58,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "92B0A7D2-82B3-4EAB-B37C-EC7E33C4DB76",
+    "do_objectID": "D7483F25-183D-4315-9D31-0674991032BA"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "837929D8-99D4-4ED3-B8B4-31091061A1E0",
+    "do_objectID": "DA7394FC-56C8-4152-B8FF-5DDFF0007F5C",
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 32
+    "y": 28
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -82,17 +88,23 @@
       "_class": "overrideValue",
       "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
       "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "QR코드 스캔"
+      "value": "내가 쓴 리뷰"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "06D4B5CA-FB90-4A8F-A713-720900C59976",
+      "overrideName": "17B1B334-FEF6-4C7B-96F9-12B28B39C339_symbolID",
+      "value": ""
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5F1EC9B7-1EFE-4B42-8F9E-631076F73E8E",
+    "do_objectID": "725ED2F5-D9BA-49E6-9422-1E8157DBE20F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4994,
+  "changeIdentifier": 5473,
   "clippingMaskMode": 0,
   "do_objectID": "0FB0FCFC-69FA-4F13-9165-7E99A2F04D5D",
   "exportOptions": {
@@ -70,8 +70,8 @@
     "constrainProportions": false,
     "height": 568,
     "width": 320,
-    "x": -3163,
-    "y": 1202
+    "x": -3583,
+    "y": 534
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -95,6 +95,22 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "F1149955-5096-40A0-ABE2-CF554C90015E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CFF3AEB-513D-4111-AF94-F0EDFE20981C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8261E57C-9AD9-48E0-BD66-71046CE7A2A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97821C14-D5D7-4019-9EF7-D982D5DF12DC"
+    },
+    {
+      "class": "symbolInstance",
       "id": "9D83D57C-1D3C-49ED-8C5A-C6194F3766B5"
     },
     {
@@ -115,23 +131,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "42DDF8D1-607E-44D8-9673-A3007C577EA3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C2C7C3D9-781B-4D6B-BF54-D2E2E5051AB1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "12FC5F4A-6DEE-4C5C-9E36-0A6802951C0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "97C01F82-B712-45A0-9404-9C8BAFCFD836"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CB37AAFE-2FD8-4B9C-AF9C-05EE2EDD8CAD"
+      "id": "CEE19BF3-C88E-416C-B7F8-587FB59BC959"
     },
     {
       "class": "symbolInstance",

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C2C7C3D9-781B-4D6B-BF54-D2E2E5051AB1",
+  "do_objectID": "97821C14-D5D7-4019-9EF7-D982D5DF12DC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F83AFDFA-F668-4724-87AD-C2E2CC9E21E1",
+    "do_objectID": "8D5BB7B7-79E1-42D2-B463-B47DEB802976",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,19 +58,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "0920BFB7-5E83-41ED-81B1-9CB37EFBDF58"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "38BD1C3B-91FD-4531-8B3C-1490A090FD96",
-    "height": 48,
+    "do_objectID": "9E3F8021-CF77-4B00-911C-DF5994BB8C70",
+    "height": 32,
     "width": 320,
     "x": 0,
-    "y": 176
+    "y": 336
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -80,29 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-sub-each",
+  "name": "profile / submenu-title",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
-      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
-      "value": "팔로우중인 공방"
+      "do_objectID": "D2779ADC-207E-4064-9CD7-385A454DE416",
+      "overrideName": "ACDA1B10-E978-42EB-B780-DF1A96FF3730_stringValue",
+      "value": "소식 받아보기"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5A2D8216-73D5-4FFC-9030-582BCED90441",
+    "do_objectID": "9C1BC318-68BA-4C9F-A25E-D03B428E0BA3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
+  "symbolID": "B6C239FD-0A58-41E2-8272-809183E3B61E",
   "verticalSpacing": 0
 }

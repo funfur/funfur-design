@@ -1,17 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "253DC1B3-95E4-4EA3-B4F0-300CEE46B4D2",
+  "do_objectID": "D2B75A65-8876-49C3-9536-4C79606F4DAC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7700DE86-1F4E-4E06-B1B6-C2039FB74839",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -64,79 +58,58 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "0C12BF99-3B99-49A0-AE0B-3B723D97FC70",
+    "do_objectID": "64607C38-3198-4026-9B36-C8B0D57DC02D"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 568,
+    "do_objectID": "91638244-AEAE-4F3C-9683-81D1FCA563F7",
+    "height": 48,
     "width": 320,
-    "x": 437,
-    "y": 2538
+    "x": 0,
+    "y": 1364
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "profile / submenu-sub-each",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "6130A4D5-9C3A-47AC-90D8-A221BD9D605A"
+      "_class": "overrideValue",
+      "do_objectID": "30ED8A9F-1608-49CC-BA02-A20B49192154",
+      "overrideName": "254B1C5C-9548-416E-9AD0-EF4F1D70E78B_stringValue",
+      "value": "카카오톡 플러스친구"
     },
     {
-      "class": "symbolInstance",
-      "id": "7C6F3E74-46F5-442A-9A26-5E306E71754D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CDB97BE1-4EA9-4CBE-A324-7C02E9B8967A"
-    },
-    {
-      "class": "bitmap",
-      "id": "E1193DA6-5527-4790-AAF5-95D2890A47A0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B55EA828-9F8B-4367-9B17-95AC929B368A"
+      "_class": "overrideValue",
+      "do_objectID": "4692C9AE-B186-4900-BEAF-C268C4EF1054",
+      "overrideName": "17B1B334-FEF6-4C7B-96F9-12B28B39C339_symbolID",
+      "value": ""
     }
   ],
-  "name": "profile / policy-webview",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 568,
-    "name": "iPhone SE",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
-  "resizesContent": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5654A5A2-B71D-4D11-8166-FFF9518C408A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "FA2428CD-798F-44E6-8461-B077D38451BA",
+  "verticalSpacing": 0
 }
