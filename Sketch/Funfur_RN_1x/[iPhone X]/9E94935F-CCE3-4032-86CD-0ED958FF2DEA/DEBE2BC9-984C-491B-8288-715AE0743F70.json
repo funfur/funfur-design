@@ -1,18 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0.9764705882352941,
-    "green": 0.9764705882352941,
-    "red": 0.9764705882352941
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "changeIdentifier": 766,
   "clippingMaskMode": 0,
-  "do_objectID": "8B03A6CE-E0D0-41F0-A17F-EBF9FFB3ED0F",
+  "do_objectID": "DEBE2BC9-984C-491B-8288-715AE0743F70",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "427527A6-D695-442D-9D2A-E5B1DD8AE1A6",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -68,75 +61,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "do_objectID": "60CFF904-060D-4307-A6E7-9DED5E89229F",
+    "height": 734,
     "width": 375,
-    "x": -2136,
-    "y": -406
+    "x": 0,
+    "y": 44
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "E0FA3C94-2DB8-4AE8-B686-1C5E5082FD64"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C981EC0C-95A1-4DDF-8498-D95759190EBD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76331261-FCCA-4E5C-A1A9-0191FFB20864"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1C5A1DA7-85AC-45B4-824C-422FABFAFA92"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "969D95EB-34EE-455B-B300-9DB8289B1838"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "099557C4-0804-4D47-9680-E5C02B248A09"
-    }
-  ],
-  "name": "[iPhone X] / profile / order-history-details-swipe",
+  "layerListExpandedType": 0,
+  "name": "sheet / base",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A295A7D9-01FE-4F89-A98E-D603C322DE3F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A6DC1641-4856-4CE5-BE8A-0B9F7FEB906A",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "C7B5F749-82BC-4618-9343-0C9BAA2DEB95",
+  "verticalSpacing": 0
 }
