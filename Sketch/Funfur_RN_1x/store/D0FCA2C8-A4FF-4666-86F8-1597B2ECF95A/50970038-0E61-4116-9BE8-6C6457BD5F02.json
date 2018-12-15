@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D353F37E-69BB-4960-B818-EBF0D1E5575F",
+  "do_objectID": "50970038-0E61-4116-9BE8-6C6457BD5F02",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "42592A11-5E21-4448-8591-92DBB49332C3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 348,
-    "width": 256,
-    "x": 32,
-    "y": 130
+    "do_objectID": "8BF79D2A-4293-4ED6-956E-2168076AF44B",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 36
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -73,56 +75,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / base",
-  "nameIsFixed": false,
+  "name": "header / center-text-3char",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "422A1D06-7DC7-48BB-ADEB-580B76ED0ECD",
-      "overrideName": "4EBBC2AF-96E9-4A61-8990-0D0893268426/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "침실"
+      "do_objectID": "E3AD11D5-27DD-47F0-A184-003357E3D2C7",
+      "overrideName": "DB545B11-017E-40B5-988B-91DB10930CCB_symbolID",
+      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7C5215D6-F44D-4753-B060-1E1A623383D0",
-      "overrideName": "58E6F0CC-A4A6-4D74-B7F0-250F7ED7A36D/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "학생/서재"
+      "do_objectID": "2CFC7C33-BADC-4EE1-A48D-AB4D24145436",
+      "overrideName": "8554CE29-DC6D-401E-8FAF-BEEAC8E93C31_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "29DCD89B-726C-491D-8E80-EF3197C83634",
-      "overrideName": "40992034-D653-45FE-89C4-4046C6D4C9FA/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "주방"
+      "do_objectID": "D36CE7B1-6BDB-4F34-BB23-EC8E59710022",
+      "overrideName": "EEB255A9-32DD-4497-8FF6-854541045DA5_stringValue",
+      "value": "초기화"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "65596D20-3B8D-49C3-8CD7-279ADBA237A7",
-      "overrideName": "773B001F-BC25-4A01-91B8-E5200BB1BFDC/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "화장실"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A446ECD6-5D11-4CFA-AB34-FD87206E2E56",
-      "overrideName": "3CECFAF9-8C25-41CF-9D5F-62B22D594D8F/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "모든 방"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E2318478-78B2-4531-A61F-B33817D62223",
-      "overrideName": "B0F42DBE-CE40-4241-8F60-0CDD3F119406/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "방 선택"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D8066306-1912-4942-BB12-E74374DDCF8E",
-      "overrideName": "CD644DA0-5006-4C60-8A7F-24F71E6B5C59/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "거실"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "9A3C9489-27FE-4910-9CBF-A4486A00FA3C",
-      "overrideName": "DF145388-2330-41C5-BE1E-7F982BD4F1C6/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "키즈/유아"
+      "do_objectID": "10924952-C630-44B9-AE65-2116A8D4FED9",
+      "overrideName": "D6CD5AFE-5DF2-42CF-BC6F-5385AC76B6FC_stringValue",
+      "value": "카테고리선택"
     }
   ],
   "resizingConstraint": 63,
@@ -132,11 +110,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "37486B01-496B-458C-BB67-53B3BA82CD84",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AD02120E-E59E-4D7D-8D94-3516A226FE60",
+  "symbolID": "92655DC3-2829-4A92-A4BF-F3FF72B50D05",
   "verticalSpacing": 0
 }
