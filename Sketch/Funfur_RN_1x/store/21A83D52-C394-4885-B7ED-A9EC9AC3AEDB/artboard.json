@@ -73,7 +73,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -97,7 +97,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6A471D1A-5261-403A-8EA1-97BBD387C004"
+      "id": "341788A6-C0F5-4429-97C5-732C45B16515"
     }
   ],
   "name": "store / product-details",
@@ -109,7 +109,7 @@
     "offersLandscapeVariant": 1,
     "width": 320
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

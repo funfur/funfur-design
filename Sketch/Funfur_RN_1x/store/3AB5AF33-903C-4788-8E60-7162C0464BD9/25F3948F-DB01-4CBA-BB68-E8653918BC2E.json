@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BED3BC37-4A39-4CD6-B94E-C8770E911A5C",
+  "do_objectID": "25F3948F-DB01-4CBA-BB68-E8653918BC2E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0A60CBED-1B63-43E6-B33D-01F63339A130",
+    "do_objectID": "3847FA68-8735-4E59-B4F2-AA2543DBCCFB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0700E5AF-BA05-4FA3-9362-0525AF014A5B",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 520
+    "do_objectID": "8AA264E2-891D-4F4F-B183-7940A9A2750B",
+    "height": 40,
+    "width": 256,
+    "x": 32,
+    "y": 264
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,29 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "snackbar / body / basic",
+  "name": "snackbar / text / center-float",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E0E6C46F-E9B6-4882-AE00-64C95BAB7F20",
-      "overrideName": "B41BF874-A9CA-4CC8-810F-B7CDA2E97212/82067A70-6E37-4E9D-80B8-30833F32141F_stringValue",
+      "do_objectID": "73EDE578-1788-452D-A97A-F55C88AA1259",
+      "overrideName": "472D8168-1388-45B7-BC14-7771FAB5665D_stringValue",
       "value": "재입고 알림신청이 완료되었습니다"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A5667077-E71E-45C9-8156-A0564B200E47",
+    "do_objectID": "2F675338-6046-4BC7-94DB-488CD56119B4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "329B754C-5BBD-49C7-BBE9-DC740BF7CF0A",
+  "symbolID": "FA6F87C8-46E1-449D-AD76-E34E92181626",
   "verticalSpacing": 0
 }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "320042D6-D93A-4A9C-A31A-3AC5E7625822",
+  "do_objectID": "FCDEE9CD-008A-472F-9B73-4FEB62EC5F71",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B91AD79-A409-4DA6-A1DC-DBEFFE031CB8",
+    "do_objectID": "1C4CACF7-6884-4997-B1AE-814611264B66",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5A559288-0BAC-44B8-9C59-0DA6099447A5",
-    "height": 48,
-    "width": 320,
-    "x": 0,
-    "y": 520
+    "do_objectID": "3AAC58F9-F2D1-4F50-B6B1-A034C8D15177",
+    "height": 40,
+    "width": 256,
+    "x": 32,
+    "y": 264
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,29 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "snackbar / body / basic",
+  "name": "snackbar / text / center-float",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E0E6C46F-E9B6-4882-AE00-64C95BAB7F20",
-      "overrideName": "B41BF874-A9CA-4CC8-810F-B7CDA2E97212/82067A70-6E37-4E9D-80B8-30833F32141F_stringValue",
-      "value": "재입고 알림신청이 완료되었습니다"
+      "do_objectID": "73EDE578-1788-452D-A97A-F55C88AA1259",
+      "overrideName": "472D8168-1388-45B7-BC14-7771FAB5665D_stringValue",
+      "value": "상품의 총 재고량을 넘는 수량입니다"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5E91E21A-C786-459D-812F-6E21658BA8E0",
+    "do_objectID": "A8A32217-F36D-49CD-968E-5488700315F3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "329B754C-5BBD-49C7-BBE9-DC740BF7CF0A",
+  "symbolID": "FA6F87C8-46E1-449D-AD76-E34E92181626",
   "verticalSpacing": 0
 }

@@ -76,7 +76,7 @@
     "y": 534
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -117,15 +117,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BED3BC37-4A39-4CD6-B94E-C8770E911A5C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "08E0D1D8-148A-4A62-8067-65BDB2A5B157"
     },
     {
       "class": "symbolInstance",
       "id": "13B1BAA7-ECD4-4903-AA83-3646DB27964E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F46044E8-0EB6-4381-8704-2CC424119BB4"
     }
   ],
   "name": "store / product-details-out-of-stock-notification-snackbar",
@@ -137,7 +137,7 @@
     "offersLandscapeVariant": 1,
     "width": 320
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
