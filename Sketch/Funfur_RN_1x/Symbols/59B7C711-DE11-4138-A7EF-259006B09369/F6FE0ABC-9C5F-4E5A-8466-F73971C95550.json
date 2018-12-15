@@ -1,11 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3DEA1C2-5232-41DF-A7F4-6EFE9027DCDE",
+  "do_objectID": "F6FE0ABC-9C5F-4E5A-8466-F73971C95550",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4E82FE83-3A21-4ACE-BEF7-C2FCA23F241E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "147495BF-7703-4665-A7CA-E09E015FD580",
-    "height": 188,
-    "width": 256,
-    "x": 32,
-    "y": 190
+    "height": 4,
+    "width": 192,
+    "x": 80,
+    "y": 22
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,47 +73,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / profile-thumbnail",
-  "nameIsFixed": true,
+  "name": "store / price-filter / bar-on",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "260FF388-6C9C-4EB4-A484-10980506A6A1",
-      "overrideName": "C1E80846-7D74-453E-B56F-4D5DE2323356/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 낮은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D33C0E24-CCDD-4F87-91DF-6459B3475729",
-      "overrideName": "6F549865-B80F-4F9D-A0D8-53061878821D/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "리뷰 많은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DEB7AD18-BC22-4FCA-9CF9-F36ACD7C08A0",
-      "overrideName": "B727CCF9-E1A0-4357-ABB0-A2AE5C74BE51/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6D9107EC-5900-405C-B963-017F599C131C",
-      "overrideName": "E522C015-2347-4FBA-9707-5602FA478150/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "정렬기준 선택"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0B124FA3-75D1-4F43-9380-7F83CCE5A50A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "93248981-6DF0-48F8-B8E1-EF39C30990C7",
+  "symbolID": "1BDE8B9B-1ED9-48D8-B517-EEA90E87CDEA",
   "verticalSpacing": 0
 }

@@ -1,10 +1,11 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5DE8F5F8-55F7-4F0A-A8CC-C1FB58B14778",
+  "do_objectID": "70C0304D-B9F7-40CA-9289-FCD15F4C3861",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F799C890-7B4B-4CA9-B793-8E1C421212EF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,60 +60,50 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 18,
-    "width": 18,
+    "constrainProportions": false,
+    "do_objectID": "E32B67B0-64F9-43AC-B2BC-1264698F96BC",
+    "height": 48,
+    "width": 320,
     "x": 0,
-    "y": 0
+    "y": 176
   },
-  "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "checkout / form-radio-each",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "shapePath",
-      "id": "BC4FBFEF-6499-4D67-A084-F7F6ADBC46C3"
+      "_class": "overrideValue",
+      "do_objectID": "2EE709C3-C815-4573-9605-A61AA852F0F2",
+      "overrideName": "BF6E47C7-29DA-4C11-A388-9AEB4247FBCA_symbolID",
+      "value": "E61E5BB5-EE2C-45A8-936D-25B54CC0B42E"
     },
     {
-      "class": "shapePath",
-      "id": "487BBB6D-D9EB-4D41-84F0-03D945646E51"
+      "_class": "overrideValue",
+      "do_objectID": "150C2BF0-BFA5-4EBC-A2FF-C5A0C9AA2E10",
+      "overrideName": "750595B1-D0CE-4931-8219-6B1ADEF574CF_stringValue",
+      "value": "가격 높은 순"
     }
   ],
-  "name": "icon/toggle/check_box_outline_blank_24px",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7B8A2177-9208-4531-A241-2B219632EDE5",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8,
-          "green": 0.8,
-          "red": 0.8
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "symbolID": "94E46544-930E-4A14-A79A-CC1A0CA23C2F",
+  "verticalSpacing": 0
 }

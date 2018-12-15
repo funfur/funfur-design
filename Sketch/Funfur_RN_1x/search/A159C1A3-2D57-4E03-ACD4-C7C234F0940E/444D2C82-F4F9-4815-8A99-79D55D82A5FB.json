@@ -1,10 +1,11 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B1EF95F-1AB4-4011-91F0-5CC41A3A8F97",
+  "do_objectID": "444D2C82-F4F9-4815-8A99-79D55D82A5FB",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "01B62C41-D0B7-4F3C-A124-EC927BEB2B66",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,36 +61,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 18,
-    "x": 3,
-    "y": 3
+    "do_objectID": "94167467-B153-4367-9270-CBA970F13C45",
+    "height": 48,
+    "width": 288,
+    "x": 16,
+    "y": 504
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "btn / btn-fill-48",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "5DE8F5F8-55F7-4F0A-A8CC-C1FB58B14778"
+      "_class": "overrideValue",
+      "do_objectID": "E6674C87-F9FA-4BDD-A5D0-50E541020DF0",
+      "overrideName": "1AE9BD38-013D-4E16-A607-510E207DB5DA_stringValue",
+      "value": "적용하기"
     }
   ],
-  "name": "ic-checkbox-empty",
-  "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E9078265-DEA6-4C3A-81B5-9F7F5D4AEE83",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "94A2B981-F752-4918-94DA-95A5C0CF80FE",
+  "verticalSpacing": 0
 }

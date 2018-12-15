@@ -1,11 +1,20 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C0A79D9E-CE13-4F40-9FF9-D02D92AB93D0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 72,
   "clippingMaskMode": 0,
-  "do_objectID": "C31E5D21-FE69-460C-AA68-ECFF4AA4B4C0",
+  "do_objectID": "60B35BDF-50D9-4DA9-88DD-05E823880F1B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "887745AD-AAF9-4B2A-B5E6-0C503A0418D4",
+    "do_objectID": "9CB14D33-DF26-43D9-A5FD-654D3CEA1A9A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,61 +70,59 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C43178BC-D1CF-4F11-B027-869763605912",
-    "height": 188,
-    "width": 256,
-    "x": 32,
-    "y": 190
+    "do_objectID": "D5623ED0-65A3-4976-BBB9-FBF7B8D2A967",
+    "height": 4,
+    "width": 288,
+    "x": 4798,
+    "y": 1611
   },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E591F69-98A7-42C1-BC89-9DEFAB1EA403",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / profile-thumbnail",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "260FF388-6C9C-4EB4-A484-10980506A6A1",
-      "overrideName": "C1E80846-7D74-453E-B56F-4D5DE2323356/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 낮은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D33C0E24-CCDD-4F87-91DF-6459B3475729",
-      "overrideName": "6F549865-B80F-4F9D-A0D8-53061878821D/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "리뷰 많은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DEB7AD18-BC22-4FCA-9CF9-F36ACD7C08A0",
-      "overrideName": "B727CCF9-E1A0-4357-ABB0-A2AE5C74BE51/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6D9107EC-5900-405C-B963-017F599C131C",
-      "overrideName": "E522C015-2347-4FBA-9707-5602FA478150/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "정렬기준 선택"
+      "class": "rectangle",
+      "id": "B5939970-B244-4248-AAC2-8B7EF137928B"
     }
   ],
+  "name": "store / price-filter / bar-off",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "A760DFAE-4CD9-4663-A720-106104483657",
+    "do_objectID": "66F7B9A9-BA93-4269-9F17-4B1428046613",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "93248981-6DF0-48F8-B8E1-EF39C30990C7",
-  "verticalSpacing": 0
+  "symbolID": "52950DF5-0FB8-4560-8CA8-3E50C73BB288",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8DD7BBB2-F78F-4C11-B1A1-6662EB2EF896",
+    "guides": [
+    ]
+  }
 }

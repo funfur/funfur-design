@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7171,
+  "changeIdentifier": 7224,
   "clippingMaskMode": 0,
   "do_objectID": "E52B3AC4-C0FA-485D-AD1D-F44E056A2006",
   "exportOptions": {
@@ -77,7 +77,7 @@
     "y": 698
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -98,8 +98,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "B72DEC5C-E912-4C76-B037-CBD6D85D23D9"
+      "class": "rectangle",
+      "id": "16B48EB8-EDB8-491F-B8E4-44EBB9A96618"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2F7A36D-23AE-4B72-B11B-4B7A4D00A471"
     }
   ],
   "name": "-g-ic / ic-checkbox-checked",

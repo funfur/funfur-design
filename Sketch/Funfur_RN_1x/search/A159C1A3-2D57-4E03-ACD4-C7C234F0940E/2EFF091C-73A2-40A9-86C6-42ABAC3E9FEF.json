@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "B72DEC5C-E912-4C76-B037-CBD6D85D23D9",
+  "do_objectID": "2EFF091C-73A2-40A9-86C6-42ABAC3E9FEF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ECD9CDAA-DA13-497F-AD12-8F9ED30EA968",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,36 +61,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 18,
-    "x": 3,
-    "y": 3
+    "do_objectID": "7435BE6F-9B7B-45A8-9353-82D22BB9C88B",
+    "height": 32,
+    "width": 320,
+    "x": 0,
+    "y": 92
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "profile / submenu-title",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "56FCF6FB-5A73-4028-96A5-79332B04459E"
+      "_class": "overrideValue",
+      "do_objectID": "D2779ADC-207E-4064-9CD7-385A454DE416",
+      "overrideName": "ACDA1B10-E978-42EB-B780-DF1A96FF3730_stringValue",
+      "value": "정렬순서"
     }
   ],
-  "name": "ic-checkbox-checked",
-  "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E5D251BB-1513-4D06-9F1B-B0917FB7886F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B6C239FD-0A58-41E2-8272-809183E3B61E",
+  "verticalSpacing": 0
 }

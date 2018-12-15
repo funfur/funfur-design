@@ -1,10 +1,11 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "56FCF6FB-5A73-4028-96A5-79332B04459E",
+  "do_objectID": "1F5B1F9C-CE70-430B-8A0C-7C5DA83B0E1B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B3E61B39-D503-482E-B72D-03A57311EF45",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,60 +60,38 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 18,
-    "width": 18,
+    "constrainProportions": false,
+    "do_objectID": "13D63ED3-578D-4A4C-89E6-47B23EB0F556",
+    "height": 48,
+    "width": 320,
     "x": 0,
-    "y": 0
+    "y": 372
   },
-  "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "D930BB09-1347-452B-87A3-C63675FED6DD"
-    },
-    {
-      "class": "shapePath",
-      "id": "C1EB4720-6EAD-4042-8BA4-EDE028F52F89"
-    }
-  ],
-  "name": "icon/toggle/check_box_24px",
+  "name": "store / price-filter",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "679EE97F-8C53-4694-A612-236B34E49CBE",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.5328431159272224,
-          "green": 0.6580874696503697,
-          "red": 0.7922778486394558
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "symbolID": "B8E30E3A-CD84-45CC-9EA7-48ECAD40D292",
+  "verticalSpacing": 0
 }
