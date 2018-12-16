@@ -9,39 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 16
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "paragraphSpacing": 1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "로그인"
+    "string": "카테고리"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1AE9BD38-013D-4E16-A607-510E207DB5DA",
+  "do_objectID": "10511688-A18D-4168-86B4-7957ACFF25ED",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D929A56F-1372-41BB-9EF6-9436BEE59450",
+    "do_objectID": "0B3F1AAE-5D66-4F9E-8AB3-30E7AB08CD15",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -97,13 +97,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DF2C4DFF-9252-44C0-88C2-8F912E287C4C",
-    "height": 24,
-    "width": 288,
-    "x": 0,
-    "y": 12
+    "do_objectID": "9E70946A-3517-4C8E-B88F-9990D2FC9F01",
+    "height": 20,
+    "width": 52,
+    "x": 16,
+    "y": 8
   },
-  "glyphBounds": "{{122, 5}, {43, 16}}",
+  "glyphBounds": "{{0, 4}, {50, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -112,7 +112,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-16-bold",
+  "name": "text-14-bold",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 0,
@@ -120,32 +120,32 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "15427925-4716-482B-BDF5-C878CC0B6568",
+    "do_objectID": "C6A405C6-B3C4-4025-8BDA-27925F8AA497",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8219E902-3FFE-493B-95DF-D8FC7AF87D97",
+      "do_objectID": "A27420DA-525D-4510-A6D1-2D2B3320E5D1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 16
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "paragraphSpacing": 1
         },
         "textStyleVerticalAlignmentKey": 0
@@ -154,5 +154,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

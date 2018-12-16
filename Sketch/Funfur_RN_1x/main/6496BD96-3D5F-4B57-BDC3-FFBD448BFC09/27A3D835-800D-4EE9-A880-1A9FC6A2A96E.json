@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "27A3D835-800D-4EE9-A880-1A9FC6A2A96E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "53E49A00-E174-4AE4-B830-4964461087AC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
+    "do_objectID": "7D8EE346-73DF-4AC5-9C69-D5B6B640B75A",
+    "height": 548,
     "width": 320,
     "x": 0,
-    "y": 92
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,23 +75,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
-  "nameIsFixed": true,
+  "name": "sheet / base",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "5371E773-CED2-495C-B2A4-9FCF0E8FDB6A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "C7B5F749-82BC-4618-9343-0C9BAA2DEB95",
   "verticalSpacing": 0
 }

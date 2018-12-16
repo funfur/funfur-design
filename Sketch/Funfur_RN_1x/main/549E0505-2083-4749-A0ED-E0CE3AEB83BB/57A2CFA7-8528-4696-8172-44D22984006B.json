@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "57A2CFA7-8528-4696-8172-44D22984006B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "F9151422-F908-4138-B23E-ED919760018D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
+    "do_objectID": "CF81903B-E530-404A-A589-BF20818AC173",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 92
+    "y": 372
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,8 +75,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
-  "nameIsFixed": true,
+  "name": "store / price-filter",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 13,
@@ -86,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "D2794E15-A272-4BBA-8BF2-3B0580415F45",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "B8E30E3A-CD84-45CC-9EA7-48ECAD40D292",
   "verticalSpacing": 0
 }

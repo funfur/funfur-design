@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CDE8F0B2-3886-4256-8134-F29343D616A7",
+  "do_objectID": "1DEECD93-A570-4702-B378-F7DBD500E095",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F71E26EC-40A0-418A-BC8A-F866A3EBFAF1",
+    "do_objectID": "7EB37D96-0603-4AE1-BE8A-C03F60FE9EAC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C397CE3E-7B83-40E9-B341-6030E29FBA31",
-    "height": 268,
-    "width": 256,
-    "x": 32,
-    "y": 150
+    "do_objectID": "B5169B97-BFBE-47FE-AD94-734E0F73AE9E",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 128
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,59 +75,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / modal-5items",
+  "name": "checkout / form-radio-each",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "77F66CC6-A5A1-470F-ACEC-9176A4BB05F7",
-      "overrideName": "3E598633-4F7E-413A-97E1-CF900F4E5B8C/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "정렬기준 선택"
+      "do_objectID": "2EE709C3-C815-4573-9605-A61AA852F0F2",
+      "overrideName": "BF6E47C7-29DA-4C11-A388-9AEB4247FBCA_symbolID",
+      "value": "E61E5BB5-EE2C-45A8-936D-25B54CC0B42E"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "52527E3A-BC38-44DE-8E8C-DCB1BBEE9B21",
-      "overrideName": "DA8A6DF7-4293-4A83-869D-E8FCB80C960F/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "162979E0-0736-4F51-8206-A015DD687C7B",
-      "overrideName": "F47AA1FB-C288-4D58-A2F6-66239B798B93/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
+      "do_objectID": "150C2BF0-BFA5-4EBC-A2FF-C5A0C9AA2E10",
+      "overrideName": "750595B1-D0CE-4931-8219-6B1ADEF574CF_stringValue",
       "value": "가격 낮은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CE83A5A8-AE27-4284-88BF-E9F7A6FF2D9C",
-      "overrideName": "2BBD236A-2953-4077-8E4B-2523C603A721/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "리뷰 많은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3AADA047-2A9E-4A4B-A4FD-619F7CBDCADC",
-      "overrideName": "16DE2B1D-573C-47D1-9964-D275D3D7A6BB/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "평점 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "F53AE8AE-090B-414E-821D-CE91ECB907DE",
-      "overrideName": "A6D6FE78-9351-4A23-8E57-6FD0BDAABE96/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "평점 낮은 순"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7662DF35-C45A-4900-81B4-0438AF777C86",
+    "do_objectID": "A851D350-7278-427C-B800-1539FED93B6D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2A3627CC-3AC2-4308-929F-4EF842B634BB",
+  "symbolID": "94E46544-930E-4A14-A79A-CC1A0CA23C2F",
   "verticalSpacing": 0
 }

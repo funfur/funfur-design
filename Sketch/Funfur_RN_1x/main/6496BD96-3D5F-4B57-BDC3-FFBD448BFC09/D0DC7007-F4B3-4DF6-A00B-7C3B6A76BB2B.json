@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "D0DC7007-F4B3-4DF6-A00B-7C3B6A76BB2B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "A7B8647A-D4DF-40F0-8444-2C9B04C9BB64",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
+    "do_objectID": "99DD6937-0AF7-43D8-A183-D7EE99B81ED5",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 92
+    "y": 448
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,23 +75,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
-  "nameIsFixed": true,
+  "name": "header / cart-checkbox-all",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA47F905-117B-4603-8FDA-0CFAF86E810E",
+      "overrideName": "1A4FAED1-4A0C-4CC1-9231-392824AB7C54_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38B9A2CE-6A26-44E1-9552-3A44E91C541D",
+      "overrideName": "4769583D-FD66-4853-BBC7-BF58A8BF7D3C_stringValue",
+      "value": "일시품절 제품 포함"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "4F554B08-89CD-45A4-9D10-2F9F48578C10",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "EE6AC497-4907-4D86-8199-D0DAE60B0747",
   "verticalSpacing": 0
 }

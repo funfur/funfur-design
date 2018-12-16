@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "469AB78D-D922-4B16-8814-DC39700FF332",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "E4A20149-D1E8-4C15-A576-7BDF5781E514",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
+    "do_objectID": "530506F4-4AA5-4439-A90F-B57C99587DA1",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 92
+    "y": 36
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,23 +75,47 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
+  "name": "header / center-text-3char",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10DFFC02-16EE-4F13-A87C-A0761F6F1FA9",
+      "overrideName": "DB545B11-017E-40B5-988B-91DB10930CCB_symbolID",
+      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CBAE923-0E25-4978-940D-DBEDB532FB95",
+      "overrideName": "8554CE29-DC6D-401E-8FAF-BEEAC8E93C31_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "769983F6-9D32-4385-97D7-9EDFC6C4A21F",
+      "overrideName": "EEB255A9-32DD-4497-8FF6-854541045DA5_stringValue",
+      "value": "초기화"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AD6CA51-DB81-4BA3-A79C-F534A75B00CD",
+      "overrideName": "D6CD5AFE-5DF2-42CF-BC6F-5385AC76B6FC_stringValue",
+      "value": "정렬기준설정"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "5F02DD7F-9D8F-4217-9A9F-DA4ACCA7175E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "92655DC3-2829-4A92-A4BF-F3FF72B50D05",
   "verticalSpacing": 0
 }

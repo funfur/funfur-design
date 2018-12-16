@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "7D12CC7B-24CD-4C78-A428-2F376B97423B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "F4CE6312-953B-4496-B980-3E348339272F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,7 +61,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
+    "do_objectID": "06776E95-7332-4F8A-BD68-810FA6F0DE91",
     "height": 32,
     "width": 320,
     "x": 0,
@@ -75,9 +75,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
+  "name": "profile / submenu-title",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2779ADC-207E-4064-9CD7-385A454DE416",
+      "overrideName": "ACDA1B10-E978-42EB-B780-DF1A96FF3730_stringValue",
+      "value": "정렬순서"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -86,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "4B8FA17F-310E-4944-AAD7-0B2E94F7AAE5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "B6C239FD-0A58-41E2-8272-809183E3B61E",
   "verticalSpacing": 0
 }

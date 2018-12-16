@@ -75,14 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title",
+  "name": "profile / submenu-title-sub",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D2779ADC-207E-4064-9CD7-385A454DE416",
-      "overrideName": "ACDA1B10-E978-42EB-B780-DF1A96FF3730_stringValue",
+      "do_objectID": "64016D37-6E3F-4B88-BE4D-F3496F434D26",
+      "overrideName": "10511688-A18D-4168-86B4-7957ACFF25ED_stringValue",
       "value": "소분류"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "732F07A0-70B0-4E44-86F9-E6262148A436",
+      "overrideName": "AE1E9D98-AC36-4118-8371-2B251C9BB55D_stringValue",
+      "value": "(옵션)"
     }
   ],
   "resizingConstraint": 13,
@@ -98,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B6C239FD-0A58-41E2-8272-809183E3B61E",
+  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
   "verticalSpacing": 0
 }

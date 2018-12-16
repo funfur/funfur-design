@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "EE97D215-9CEC-4C65-BC78-21C5F3ADE26A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "76340D8D-128F-4877-AF81-979DC295E820",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
+    "do_objectID": "9B74A71B-5260-4DDE-A4EC-98922CC68E10",
+    "height": 48,
     "width": 320,
     "x": 0,
-    "y": 92
+    "y": 176
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
+  "name": "checkout / form-radio-each",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EE709C3-C815-4573-9605-A61AA852F0F2",
+      "overrideName": "BF6E47C7-29DA-4C11-A388-9AEB4247FBCA_symbolID",
+      "value": "E61E5BB5-EE2C-45A8-936D-25B54CC0B42E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "150C2BF0-BFA5-4EBC-A2FF-C5A0C9AA2E10",
+      "overrideName": "750595B1-D0CE-4931-8219-6B1ADEF574CF_stringValue",
+      "value": "가격 높은 순"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -86,12 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "A11D5A1D-C892-46D4-BBCD-BB88548D74EB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "94E46544-930E-4A14-A79A-CC1A0CA23C2F",
   "verticalSpacing": 0
 }

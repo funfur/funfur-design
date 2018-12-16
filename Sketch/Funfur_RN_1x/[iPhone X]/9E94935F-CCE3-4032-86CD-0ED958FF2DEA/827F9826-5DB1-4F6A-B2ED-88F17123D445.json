@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "834AAFF5-AF9B-4A76-953E-EC745CA8B47F",
+  "do_objectID": "827F9826-5DB1-4F6A-B2ED-88F17123D445",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "432AD3C2-0986-4AB6-9559-775B47C5C10C",
+    "do_objectID": "3428FA77-1A9A-4132-96DF-E70BE7A0C5A7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E61405FD-97F3-44F7-883E-98A99405BB73",
-    "height": 32,
-    "width": 320,
-    "x": 0,
-    "y": 92
+    "do_objectID": "99BC7C6E-3AEB-4264-97B4-97BDD0B91D38",
+    "height": 48,
+    "width": 343,
+    "x": 16,
+    "y": 714
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,23 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / submenu-title-sub",
-  "nameIsFixed": true,
+  "name": "btn / btn-fill-48",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6674C87-F9FA-4BDD-A5D0-50E541020DF0",
+      "overrideName": "1AE9BD38-013D-4E16-A607-510E207DB5DA_stringValue",
+      "value": "전화로 문의하기"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F6A5EF2-E220-4E83-8034-EDFC7DB0DED1",
+    "do_objectID": "A2B541E6-9693-445C-AFE4-EB75F8C06473",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
+  "symbolID": "94A2B981-F752-4918-94DA-95A5C0CF80FE",
   "verticalSpacing": 0
 }

@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "80ADFC0B-2203-4836-8107-19EF4020E3A6",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 2221,
+  "booleanOperation": 0,
+  "changeIdentifier": 3348,
   "clippingMaskMode": 0,
-  "do_objectID": "9E94935F-CCE3-4032-86CD-0ED958FF2DEA",
+  "do_objectID": "4A75899F-233D-4646-B0DD-852C829E1F3B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "138C083A-6853-408B-B2DE-62BBD48254F9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -68,10 +70,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": -2611,
-    "y": -406
+    "do_objectID": "0B435D1F-88F2-43C6-AAD7-F5B478A84952",
+    "height": 32,
+    "width": 320,
+    "x": 6374,
+    "y": 2446
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -79,10 +82,11 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "73F95822-3BCE-4E1B-AA3B-E2DAE61890AE",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -94,44 +98,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8ECB586F-209D-4321-AACC-64EA94FD1907"
+      "class": "text",
+      "id": "AE1E9D98-AC36-4118-8371-2B251C9BB55D"
     },
     {
-      "class": "symbolInstance",
-      "id": "AE1B24B1-2130-46BA-AF4B-732ACC517A05"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D26C500B-F9FB-45EC-9E8E-1BD3A1795AA6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DEBE2BC9-984C-491B-8288-715AE0743F70"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EDB111CE-4128-4815-9682-888E6563A498"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "51CB4B3A-0ABC-4FBB-B42A-2BF65CF34501"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C6D6BFF2-12F0-4A0E-B81A-869C30F6009E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "87B535A8-A0A8-415B-8FF2-D546AB199FF4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "827F9826-5DB1-4F6A-B2ED-88F17123D445"
+      "class": "text",
+      "id": "10511688-A18D-4168-86B4-7957ACFF25ED"
     }
   ],
-  "name": "[iPhone X] / store / window / delivery-costs",
-  "nameIsFixed": false,
+  "name": "profile / submenu-title-sub",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -139,15 +115,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "715EA94D-AA16-4005-AD4C-438DE1821329",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "50163BB2-9F0E-4EF6-92DC-BAE1269DB3B3",
+  "symbolID": "4FF48D3B-218E-40AD-B3C4-F85E6F44F812",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "EF65A723-ABF9-45C3-AD68-1652C9F9B6ED",
     "guides": [
     ]
   }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "01D97474-4F0D-47B3-94D7-16B9E72C7947",
+  "do_objectID": "7938B5C6-F6ED-468A-A457-DEDD0EBA46F6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B5B6F8E7-DACA-4C1E-884C-8BBC6967FF44",
+    "do_objectID": "05ECF50B-7B69-4B51-B602-56E5FD38A5FE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F6618A04-0302-4300-B26F-9C112C7BCC73",
-    "height": 268,
-    "width": 256,
-    "x": 32,
-    "y": 150
+    "do_objectID": "7747AB7D-D1F9-4D80-98A3-5260811A5B52",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 448
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,44 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "modal / modal-5items",
-  "nameIsFixed": true,
+  "name": "header / cart-checkbox-all",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "77F66CC6-A5A1-470F-ACEC-9176A4BB05F7",
-      "overrideName": "3E598633-4F7E-413A-97E1-CF900F4E5B8C/19AEE197-01A7-4F14-86C8-FC5744B84BC7_stringValue",
-      "value": "정렬기준 선택"
+      "do_objectID": "CA47F905-117B-4603-8FDA-0CFAF86E810E",
+      "overrideName": "1A4FAED1-4A0C-4CC1-9231-392824AB7C54_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "52527E3A-BC38-44DE-8E8C-DCB1BBEE9B21",
-      "overrideName": "DA8A6DF7-4293-4A83-869D-E8FCB80C960F/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "162979E0-0736-4F51-8206-A015DD687C7B",
-      "overrideName": "F47AA1FB-C288-4D58-A2F6-66239B798B93/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "가격 낮은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CE83A5A8-AE27-4284-88BF-E9F7A6FF2D9C",
-      "overrideName": "2BBD236A-2953-4077-8E4B-2523C603A721/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "리뷰 많은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3AADA047-2A9E-4A4B-A4FD-619F7CBDCADC",
-      "overrideName": "16DE2B1D-573C-47D1-9964-D275D3D7A6BB/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "평점 높은 순"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "F53AE8AE-090B-414E-821D-CE91ECB907DE",
-      "overrideName": "A6D6FE78-9351-4A23-8E57-6FD0BDAABE96/C03D47A0-1DEA-4B07-A409-043557CFE6F6_stringValue",
-      "value": "평점 낮은 순"
+      "do_objectID": "38B9A2CE-6A26-44E1-9552-3A44E91C541D",
+      "overrideName": "4769583D-FD66-4853-BBC7-BF58A8BF7D3C_stringValue",
+      "value": "일시품절 제품 포함"
     }
   ],
   "resizingConstraint": 63,
@@ -122,12 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C122FE49-7FA9-46AB-8B8E-D640B4AD89DF",
+    "do_objectID": "72712B8D-B62C-4AFA-A1C5-2C1C86A6A05F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2A3627CC-3AC2-4308-929F-4EF842B634BB",
+  "symbolID": "EE6AC497-4907-4D86-8199-D0DAE60B0747",
   "verticalSpacing": 0
 }
