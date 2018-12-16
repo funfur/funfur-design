@@ -1,11 +1,11 @@
 {
-  "_class": "oval",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2464684D-6FB0-400D-8A49-38873F0CEB21",
-  "edited": false,
+  "do_objectID": "6191D8AE-86D3-4D3E-A2AE-3086E8535528",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0DE7C734-FFBF-45B0-8AAC-3BED352BE4F0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,74 +60,44 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 96,
-    "width": 96,
+    "constrainProportions": false,
+    "do_objectID": "03C75DDC-5732-4FA5-9B88-DF1965047309",
+    "height": 20,
+    "width": 320,
     "x": 0,
-    "y": 0
+    "y": 204
   },
-  "hasClippingMask": true,
-  "isClosed": true,
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Mask",
-  "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 0,
+  "name": "main / text / paragraph-1line",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.77614237490000004, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.22385762510000001, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0.22385762510000001}",
-      "curveMode": 2,
-      "curveTo": "{1, 0.77614237490000004}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{1, 0.5}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000001, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.77614237490000004, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.77614237490000004}",
-      "curveMode": 2,
-      "curveTo": "{0, 0.22385762510000001}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.5}"
+      "_class": "overrideValue",
+      "do_objectID": "6F1B165D-59CD-4984-A7CC-7AB4D4DD26B8",
+      "overrideName": "274C6F2A-A630-4B29-83B0-16515B2890C2_stringValue",
+      "value": "128명이 팔로우중입니다"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CB552995-5557-4C1A-B10E-4F6C458A549D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
-  }
+    "windingRule": 1
+  },
+  "symbolID": "D490ABF7-A884-425A-8F94-1E447716DA12",
+  "verticalSpacing": 0
 }
