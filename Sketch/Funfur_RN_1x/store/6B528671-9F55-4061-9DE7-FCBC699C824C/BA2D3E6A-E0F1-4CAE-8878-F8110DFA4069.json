@@ -1,18 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "booleanOperation": 0,
-  "changeIdentifier": 5579,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D36B4D4D-BF10-4CA4-B02C-C7AC118E944F",
+  "do_objectID": "BA2D3E6A-E0F1-4CAE-8878-F8110DFA4069",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A92710FE-EF47-4134-8AAA-E8D5A9E004CB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -68,59 +61,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 272,
-    "x": 5382,
-    "y": 234
+    "do_objectID": "DA24DA6F-DD0F-4E25-A1B6-39E46D876DD0",
+    "height": 40,
+    "width": 256,
+    "x": 32,
+    "y": 264
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "snackbar / text / center-float",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "A9A93B61-593D-4ECC-A77D-C390282F2107"
-    },
-    {
-      "class": "text",
-      "id": "0E16497D-27FB-4ECF-973A-7943794F510A"
+      "_class": "overrideValue",
+      "do_objectID": "73EDE578-1788-452D-A97A-F55C88AA1259",
+      "overrideName": "472D8168-1388-45B7-BC14-7771FAB5665D_stringValue",
+      "value": "상품문의 내용을 입력해주세요"
     }
   ],
-  "name": "store / product / btn-purchase",
-  "nameIsFixed": false,
-  "resizesContent": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1B3A41BF-CB93-40B4-AB25-D01DA579FE3D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B2BF2A97-CA30-4A53-A1DD-42D568F7B728",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "FA6F87C8-46E1-449D-AD76-E34E92181626",
+  "verticalSpacing": 0
 }

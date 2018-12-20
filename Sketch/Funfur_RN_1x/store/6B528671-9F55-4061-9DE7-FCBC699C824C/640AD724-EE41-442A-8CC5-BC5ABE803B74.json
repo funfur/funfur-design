@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3D03EF2B-AB69-481C-B437-9B7CEF4F3706",
+  "do_objectID": "640AD724-EE41-442A-8CC5-BC5ABE803B74",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7A201181-4CC0-4430-9A71-5CA9815D00A6",
+    "do_objectID": "40CB281A-4F20-4A16-AF9D-15AC83306873",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,8 +61,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3DCB65FE-402D-4B41-8689-75462EA16052",
-    "height": 96,
+    "do_objectID": "46F053B1-3408-40C4-8995-AC96D55DA557",
+    "height": 20,
     "width": 320,
     "x": 0,
     "y": 76
@@ -75,25 +75,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / form / textbox-basic",
-  "nameIsFixed": true,
+  "name": "review / write-review-placeholder",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EF7689D3-B766-46B2-A737-4DBF97EF8460",
-      "overrideName": "05A7B4B3-4647-4070-85D9-81D2467AF047_stringValue",
-      "value": "0/160"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E9C8FFAF-47C2-49DA-9B3B-890AF82BCB15",
-      "overrideName": "B1730699-43EA-4CDB-840D-82E0CBF44289_stringValue",
-      "value": "상품 문의"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E2D22B94-E17B-4C93-97D1-7113D1A313EB",
-      "overrideName": "95C6CAA1-17FD-4BCA-8DF5-960B46B2770C/AB157FDF-6ED4-42D3-9B24-DB7301188649_stringValue",
+      "do_objectID": "D24148B9-86DB-4D2C-881A-B838DB6CE7AD",
+      "overrideName": "F18667BF-32E0-4A60-906B-4837DC528D37_stringValue",
       "value": "이곳에 문의하실 내용을 입력해주세요"
     }
   ],
@@ -104,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A0FFEF89-8EF2-4A95-89A4-721A83D4188F",
+    "do_objectID": "9A632097-773C-4085-901E-53CC867CE4C2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6A055306-0828-4E8C-830D-9EE4B312BB70",
+  "symbolID": "0182665F-6FA3-40C5-9700-78DDD4E53460",
   "verticalSpacing": 0
 }

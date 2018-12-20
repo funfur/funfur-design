@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C90B7A1F-4383-4AF7-BFA5-83CB90E97AC6",
+  "do_objectID": "2C0EDE46-F033-46C7-8DFC-D089539C70E3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4565862F-DCF9-4B3C-BCA8-CA238030480F",
+    "do_objectID": "E3FCED65-40E6-43B3-BB07-79B76C4A3926",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,8 +61,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2DE9015F-8100-4720-9A72-E28D5BB40048",
-    "height": 96,
+    "do_objectID": "DBEB9E69-8387-417C-81B2-511654C516D8",
+    "height": 63,
     "width": 320,
     "x": 0,
     "y": 76
@@ -75,32 +75,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / form / textbox-progress",
-  "nameIsFixed": true,
+  "name": "review / write-review-3lines",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6BECD783-82F7-44CF-961C-EB79ED7D01E3",
-      "overrideName": "9928A226-9D93-4618-9460-A74DAF966983_stringValue",
-      "value": "7/255"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "35691454-0507-474D-94D8-A29FE7B9C49C",
-      "overrideName": "5DF4CDD8-AAD2-478C-8319-C01EF2A35CE8_stringValue",
-      "value": "의견 보내기"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "FBBC61FC-1CD2-4032-BD4D-C7BA09773CEC",
-      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/9F388DC4-65AB-427F-9620-EB2C95BE780C_stringValue",
-      "value": "텍스트 레이블"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "26D16260-A052-4B75-B46D-4348DA285FD5",
-      "overrideName": "6D2DE195-FEDA-4B02-9F41-316AA4DBE624/DC319A47-ECE9-4C17-8704-3DFB49AA8571_symbolID",
-      "value": ""
+      "do_objectID": "F7E8A70D-29C5-4F3E-9A68-4ED6659B0498",
+      "overrideName": "93F5BFB7-5457-49EC-8828-B647F4C05129_stringValue",
+      "value": "뻔뻐 앱 너무 잘 쓰고 있어요! 이런 좋은 어플을 만들어주셔서 너무 감사합니다. 앞으로 더 많은 원목가구들 만나보고싶어요~"
     }
   ],
   "resizingConstraint": 63,
@@ -110,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7ABAB8E8-1898-4D99-A6CF-A46A9943844A",
+    "do_objectID": "A7BB0943-94B9-408E-8F8D-256F4ADA3A52",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "407A5552-C504-44C7-BFBC-758538F0DB4C",
+  "symbolID": "B115AB90-025B-4010-BA76-EBC6D3A613B8",
   "verticalSpacing": 0
 }
