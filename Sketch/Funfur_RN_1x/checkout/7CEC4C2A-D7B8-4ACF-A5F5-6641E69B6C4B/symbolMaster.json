@@ -8,7 +8,7 @@
     "red": 0.9764705882352941
   },
   "booleanOperation": -1,
-  "changeIdentifier": 368,
+  "changeIdentifier": 456,
   "clippingMaskMode": 0,
   "do_objectID": "7CEC4C2A-D7B8-4ACF-A5F5-6641E69B6C4B",
   "exportOptions": {
@@ -74,7 +74,7 @@
     "y": -134
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,6 +96,10 @@
     {
       "class": "symbolInstance",
       "id": "7E34356E-F8E8-44C1-9104-630B10AA5CBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38F67C59-A622-4CF0-A015-F7853DA4AD51"
     },
     {
       "class": "symbolInstance",
