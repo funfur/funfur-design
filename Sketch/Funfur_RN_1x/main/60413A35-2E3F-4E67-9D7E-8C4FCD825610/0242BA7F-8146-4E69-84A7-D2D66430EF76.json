@@ -1,18 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "booleanOperation": 0,
-  "changeIdentifier": 1441,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4FA97A4C-1EBB-4533-9914-E73C9DBFA38B",
+  "do_objectID": "0242BA7F-8146-4E69-84A7-D2D66430EF76",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B706ADFC-B526-4919-824B-9FE36B4C331A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -68,71 +61,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 568,
+    "do_objectID": "4B87DE53-CA81-44E2-AABD-B7BCDEA3EB64",
+    "height": 36,
     "width": 320,
-    "x": -1583,
-    "y": -134
+    "x": 0,
+    "y": 2186
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "97EFDCCB-9003-401D-88AD-FEADF36388B5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F1BA2A58-8ACB-4027-8FCA-C715AEF0B968"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C82E0939-E6A5-48E9-970D-6A514DCF6372"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA16A05B-649E-4970-8449-0D064D9BAB2A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A3074F87-0EA5-4E1C-9960-6E8252618A37"
-    }
-  ],
-  "name": "[SYMBOL] / main / horizontal-swipe",
+  "layerListExpandedType": 0,
+  "name": "main / company-information-accordion-before",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "928562CF-5533-4B1F-8FDF-A21210BE465B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4241D82E-1009-464F-B450-21970AF275B2",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "6951DAB4-EF8A-4D83-8C6A-A43F7059F9D1",
+  "verticalSpacing": 0
 }

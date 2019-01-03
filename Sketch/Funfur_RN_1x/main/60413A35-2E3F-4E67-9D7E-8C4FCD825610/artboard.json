@@ -70,7 +70,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1796AC56-8D66-4428-8823-DBF0E386D6AD",
-    "height": 2234,
+    "height": 2270,
     "width": 320,
     "x": 17,
     "y": -134
@@ -95,6 +95,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0242BA7F-8146-4E69-84A7-D2D66430EF76"
+    },
     {
       "class": "symbolInstance",
       "id": "E5354868-405E-4EA2-A050-2601545AA21A"
