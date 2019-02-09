@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "60103E1D-AA3F-483A-8523-42F365344D41",
+  "do_objectID": "4E32A28A-1974-4994-B811-65B1EEEC6D74",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5045757-457F-43A6-8269-15D558DFB0FE",
+    "do_objectID": "79E068CE-A086-485B-89F3-7F5876E9900B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,10 +61,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F6C063EB-21E6-42AF-8A88-B8B7D9B52604",
+    "do_objectID": "61544C77-397C-4B6D-87D3-2E0F8872628E",
     "height": 48,
-    "width": 48,
-    "x": 0,
+    "width": 80,
+    "x": 80,
     "y": 0
   },
   "hasClippingMask": false,
@@ -75,23 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bound / bound-48",
+  "name": "tabbar / bound / webview-inactive",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1A433CA-D4EC-430B-9759-109A214CA54B",
+      "overrideName": "54865DDA-AA66-4704-AE03-5BC51707B224_symbolID",
+      "value": "40AA3FD1-955A-449B-B094-A50F649442F7"
+    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "42EA40F7-FB3D-4B2D-ACB6-42F0F9B7C4BE",
+    "do_objectID": "1FA3F9D6-0A8B-4ADD-A4B5-6E4638B11F09",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EFCE0513-0BAE-467A-BBAE-64760DFDC5EB",
+  "symbolID": "E76B4663-CC70-4366-BE0E-9E35CB9CBCA4",
   "verticalSpacing": 0
 }

@@ -73,7 +73,7 @@
     "y": 2538
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -110,6 +110,10 @@
     {
       "class": "symbolInstance",
       "id": "B55EA828-9F8B-4367-9B17-95AC929B368A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5F03106-69D1-44B2-815F-71141BFBA8F2"
     }
   ],
   "name": "profile / policy-webview",

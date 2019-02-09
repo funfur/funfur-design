@@ -75,32 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / center-text",
-  "nameIsFixed": false,
+  "name": "header / webview",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D18238CF-ADEA-4BAE-BC44-CA8C21263A81",
-      "overrideName": "9CC620A2-F359-4C76-BDF7-49AA5F08FA92_stringValue",
-      "value": "개인정보처리방침"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E0812CE8-5016-4ED3-AE62-8636AA9D15E7",
-      "overrideName": "181587AB-F1E9-4BF5-A893-2C0A3144AF61_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "67992949-1D5C-4302-8F63-2F81C5922CD6",
-      "overrideName": "016B0F3A-F4F8-4D0D-85BC-734D4AD1ED9E_symbolID",
+      "do_objectID": "B356C4DB-82D1-4E08-8281-60017010DFE4",
+      "overrideName": "55AD41C4-F882-4274-9156-2D992D9C0338_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4E3416B4-7319-475D-8E70-2B0FE14C7A11",
-      "overrideName": "BD2C365D-9C4A-4BC2-B997-09A5BBCF14E1_symbolID",
-      "value": "65489E2D-9F32-49E2-AA03-674771190A5F"
+      "do_objectID": "E168ABDB-0A50-4F57-A1C8-DFCC9526D821",
+      "overrideName": "890549CB-B6F1-4A28-A14E-ABCE25643D62_stringValue",
+      "value": "개인정보처리방침"
     }
   ],
   "resizingConstraint": 63,
@@ -116,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7D00F393-37DD-4201-9E38-0B405F875A58",
+  "symbolID": "862FDC8C-AE17-4D39-8F21-656F82E155D4",
   "verticalSpacing": 0
 }
